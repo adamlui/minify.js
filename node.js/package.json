@@ -1,0 +1,62 @@
+{
+  "name": "@adamlui/minify.js",
+  "version": "1.4.10",
+  "description": "Recursively minify all JavaScript files",
+  "author": {
+    "name": "Adam Lui",
+    "email": "adam@kudoai.com",
+    "url": "https://github.com/adamlui"
+  },
+  "homepage": "https://minify-js.org",
+  "license": "MIT",
+  "main": "dist/minify.min.js",
+  "files": [
+    "dist",
+    "docs/",
+    "!docs/*/"
+  ],
+  "bin": {
+    "minifyjs": "dist/cli.min.js",
+    "minify-js": "dist/cli.min.js"
+  },
+  "directories": {
+    "lib": ".",
+    "doc": "./docs",
+    "test": "./utils/test"
+  },
+  "scripts": {
+    "test": "bash utils/test/minify-cli.test.sh",
+    "build": "node src/cli src dist",
+    "bump:patch": "bash utils/bump.sh patch",
+    "bump:minor": "bash utils/bump.sh minor",
+    "bump:major": "bash utils/bump.sh major",
+    "prepublishOnly": "npm test",
+    "publish:patch": "bash utils/bump.sh patch --publish",
+    "publish:minor": "bash utils/bump.sh minor --publish",
+    "publish:major": "bash utils/bump.sh major --publish"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adamlui/js-utils.git"
+  },
+  "keywords": [
+    "javascript",
+    "utilities",
+    "js-utils",
+    "minifier",
+    "api",
+    "js",
+    "cli",
+    "utils"
+  ],
+  "bugs": {
+    "url": "https://js-utils.com/issues"
+  },
+  "dependencies": {
+    "uglify-js": "^3.17.4"
+  },
+  "funding": {
+    "type": "github",
+    "url": "https://github.com/sponsors/adamlui"
+  }
+}
