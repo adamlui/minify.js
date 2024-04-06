@@ -1,15 +1,15 @@
-name: Auto-sync new releases to adam/js-utils
+name: Sync new releases to adam/js-utils
 
 on:
   release:
     types: [published]
 
 jobs:
-  auto-sync-new-release:
-    name: Auto-sync new releases to adam/js-utils
+  sync-new-release:
+    name: Sync new releases to adam/js-utils
     runs-on: ubuntu-latest
     steps:
-      - name: Auto-sync new releases to adam/js-utils
+      - name: Sync new releases to adam/js-utils
         run: |
           # Get latest release title/tag/notes
           latest_release=$(curl -s https://api.github.com/repos/adamlui/minify.js/releases/latest)
