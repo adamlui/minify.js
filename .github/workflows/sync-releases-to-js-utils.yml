@@ -39,6 +39,7 @@ jobs:
                  -H "Content-Type: application/json" -d "$create_release_payload" "$create_release_url")
           
           # Upload assets to new release
+          echo "Uploading assets to new release..."
           upload_url=$(echo "$create_release_response" | sed -nE 's|.*"upload_url": "(.*)".*|\1|p' |
             sed 's|{.*}||') # remove additional params
           for url in $download_urls ; do
