@@ -13,6 +13,7 @@ jobs:
       - name: Checkout adamlui/minify.js
         uses: actions/checkout@v2
         with:
+          token: ${{ secrets.REPO_SYNC_PAT }}
           repository: adamlui/minify.js
           path: adamlui/minify.js
 
