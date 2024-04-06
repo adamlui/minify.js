@@ -1,0 +1,27 @@
+name: Echo release notes on new release
+
+on:
+  release:
+    types: [published]
+
+jobs:
+  echo-release-note:
+    name: Echo release notes
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout adamlui/minify.js
+        uses: actions/checkout@v2
+        with:
+          repository: adamlui/minify.js
+          path: adamlui/minify.js
+
+      - name: Get release notes
+        id: get_release_notes
+        run: |
+          release_notes=$(cat $GITHUB_EVENT_PATH | jq -r '.release.body')
+          echo "release_notes=$release_notes" >> $GITHUB_ENV
+
+      - name: Echo release notes
+        run: |
+          echo "Release notes: ${{ steps.get_release_notes.outputs.release_notes }}"
