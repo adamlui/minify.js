@@ -47,7 +47,8 @@ jobs:
             curl -s -S --data-binary @"$filename" \
                  -H "Authorization: token ${{ secrets.REPO_SYNC_PAT }}" \
                  -H "Content-Type: application/octet-stream" \
-                 "$upload_url?name=$filename" > /dev/null 2>&1  # Hide verbosity
+                 "$upload_url?name=$filename" \
+                   > /dev/null 2>&1 # hide verbosity
           done
           
           echo "Release duplicated to adamlui/js-utils."
