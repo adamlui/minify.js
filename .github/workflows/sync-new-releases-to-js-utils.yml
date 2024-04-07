@@ -18,6 +18,7 @@ jobs:
           release_version=$(echo "$release_tag_name" | grep -oE '[0-9]+\.[0-9]+\.[0-9]+')
           release_notes=$(echo "$latest_release" | sed -nE 's/.*"body": "(.*)".*/\1/p' |
             sed 's|📃|:page_with_curl:|g; s|🚀|:rocket:|g; s|🧠|:brain:|g' | # replace emojis w/ CLDR short names
+            sed -E "s|minify\.js(/compare/)node-v(.*)v|js-utils\1minify\.js-|g" | # replace tags in compare URL
             sed -E "s|(minify\.js)(/tree/)[^/]+|js-utils\2\1-$release_version/\1|g") # replace tag in README URL
           echo "Release Title: $release_title"
           echo "Release Tag: $release_tag_name"
