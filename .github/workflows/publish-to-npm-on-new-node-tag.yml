@@ -1,8 +1,8 @@
-name: Publish to npm on new tag
+name: Publish to npm on new node tag
 
 on:
   push:
-    tags: "*"
+    tags: "node*"
 
 jobs:
   build:
