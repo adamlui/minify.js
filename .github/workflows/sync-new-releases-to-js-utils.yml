@@ -22,6 +22,7 @@ jobs:
             sed -E "s|(minify\.js)(/tree/)([^-]+)-v([0-9.]+)|js-utils\2\1-\3-\4/\1|g") # replace tag in README URL
           echo "Release Title: $release_title"
           echo "Release Tag: $release_tag_name"
+
           # Download assets
           download_urls=$(echo "$latest_release" | grep -o '"browser_download_url": ".*"' | cut -d '"' -f 4)
           for url in $download_urls; do
@@ -33,8 +34,9 @@ jobs:
           echo "Publishing new release..."
           create_release_url="https://api.github.com/repos/adamlui/js-utils/releases"
           create_release_payload=$(
-            printf '{"tag_name": "%s","name": "%s","body": "%s"}' \
-                     "minify.js-$release_version" "$release_title" "$release_notes")
+            printf '{"tag_name": "minify.js-%s","name": "%s","body": "%s"}' \
+                     "$(echo "$release_tag_name" | sed 's/v//')" "$release_title" "$release_notes")
+
           create_release_response=$(
             curl -s -S -X POST -H "Authorization: token ${{ secrets.REPO_SYNC_PAT }}" \
                  -H "Content-Type: application/json" -d "$create_release_payload" "$create_release_url")
@@ -54,3 +56,4 @@ jobs:
           done
           
           echo "Release duplicated to adamlui/js-utils."
+
