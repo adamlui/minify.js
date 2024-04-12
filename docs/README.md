@@ -107,8 +107,7 @@ $ minify-js input_folder output_folder
 
 ```
 Boolean options:
- -n, --dry-run               Don't actually minify the file(s), just show
-                             if they will be processed.
+ -n, --dry-run               Don't actually minify the file(s), just show if they will be processed.
  -d, --include-dotfolders    Include dotfolders in file search.
  -D, --include-dotfiles      Include dotfiles in file search.
  -R, --no-recursion          Disable recursive file searching.
