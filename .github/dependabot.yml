@@ -6,6 +6,11 @@ updates:
       interval: daily
 
   - package-ecosystem: npm
+    directory: gulp/
+    schedule:
+      interval: daily
+
+  - package-ecosystem: npm
     directory: node.js/
     schedule:
       interval: daily
