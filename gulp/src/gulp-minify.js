@@ -9,18 +9,6 @@ const minifyJS = require('@adamlui/minify.js'),
 
 function minify(input, output, options = {}) {
 
-    if (!input && !output) { // return I/O-argless minify() for use as a stream transformation
-        return new Transform({
-            objectMode: true,
-            transform(file, _, callback) {
-                if (file.isBuffer()) {
-                    console.info(`minify() » Minifying ${file.path}...`);
-                    const minifiedCode = minifyJS.minify(file.contents.toString(), {});
-                    file.contents = Buffer.from(minifiedCode.code);
-                }
-                this.push(file); callback();
-    }});}
-
     // Init options
     const defaultOptions = {
         recursive: true,   // recursively search for nested files if dir path passed
@@ -31,6 +19,18 @@ function minify(input, output, options = {}) {
         comment: ''        // prepend comment to code
     };
     options = { ...defaultOptions, ...options };
+
+    if (!input && !output) { // return I/O-argless minify() for use as a stream transformation
+        return new Transform({
+            objectMode: true,
+            transform(file, _, callback) {
+                if (file.isBuffer()) {
+                    if (options.verbose) console.info(`minify() » Minifying ${file.path}...`);
+                    const minifiedCode = minifyJS.minify(file.contents.toString(), {});
+                    file.contents = Buffer.from(minifiedCode.code);
+                }
+                this.push(file); callback();
+    }});}
 
     // Validate input arg (output arg can be anything)
     const inputPath = path.resolve(process.cwd(), input);
