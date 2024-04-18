@@ -56,4 +56,3 @@ jobs:
           done
           
           echo "Release duplicated to adamlui/js-utils."
-
