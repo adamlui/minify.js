@@ -2,7 +2,7 @@ name: Publish to npm on new gulp tag
 
 on:
   push:
-    tags: "gulp*"
+    tags: ["gulp*"]
 
 jobs:
   build:

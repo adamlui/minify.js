@@ -2,8 +2,8 @@ name: Sync README.md between gulp/ and gulp/docs/, then gulp/* to adamlui/js-uti
 
 on:
   push:
-    branches: main
-    paths: gulp/**
+    branches: [main]
+    paths: [gulp/**]
 
 jobs:
   build:
