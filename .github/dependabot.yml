@@ -1,16 +1,9 @@
 version: 2
 updates:
   - package-ecosystem: npm
-    directory: /
-    schedule:
-      interval: daily
-
-  - package-ecosystem: npm
-    directory: gulp/
-    schedule:
-      interval: daily
-
-  - package-ecosystem: npm
-    directory: node.js/
+    directories:
+      - /
+      - gulp/
+      - node.js/
     schedule:
       interval: daily
