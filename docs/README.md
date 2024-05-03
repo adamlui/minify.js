@@ -253,19 +253,19 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 [Readme](http://gulp.minify-js.org/#readme) /
 [Discuss](https://github.minify-js.org/discussions)
 
-### [{ } scss-to-css](https://github.com/adamlui/scss-to-css) <a href="https://github.com/toolleeo/cli-apps#conversion"><img height=18 src="https://awesome.re/mentioned-badge.svg"></a>
+### [{ } scss-to-css](https://scsstocss.org) <a href="https://github.com/toolleeo/cli-apps#conversion"><img height=18 src="https://awesome.re/mentioned-badge.svg"></a>
 
 > Recursively compile all SCSS files into minified CSS.
-<br>[Install](https://github.com/adamlui/scss-to-css/#-installation) /
-[Readme](https://github.com/adamlui/scss-to-css/#readme) /
-[CLI usage](https://github.com/adamlui/scss-to-css/#-command-line-usage) /
-[API usage](https://github.com/adamlui/scss-to-css/#-api-usage) /
-[Discuss](https://github.com/adamlui/scss-to-css/discussions)
+<br>[Install](https://node.scsstocss.org/#-installation) /
+[Readme](https://node.scsstocss.org/#readme) /
+[CLI usage](https://node.scsstocss.org/#-command-line-usage) /
+[API usage](https://node.scsstocss.org/#-api-usage) /
+[Discuss](https://node.scsstocss.org/discussions)
 
 <br>
 
 <img height=6px width="100%" src="https://media.js-utils.com/images/separators/gradient-aqua.png">
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adamlui/js-utils/main/media/images/icons/home/white/icon32x27.png"><img height=13 src="https://raw.githubusercontent.com/adamlui/js-utils/main/media/images/icons/home/dark-gray/icon32x27.png"></picture> <a href="https://js-utils.com">**More JavaScript utilities**</a> /
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://media.js-utils.com/images/icons/home/white/icon32x27.png"><img height=13 src="https://media.js-utils.com/images/icons/home/dark-gray/icon32x27.png"></picture> <a href="https://js-utils.com">**More JavaScript utilities**</a> /
 <a href="https://github.minify-js.org/discussions">Discuss</a> /
 <a href="#-minifyjs">Back to top ↑</a>
