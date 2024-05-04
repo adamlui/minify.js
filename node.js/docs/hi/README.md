@@ -1,8 +1,8 @@
 <div align="right">
     <h6>
         <picture>
-            <source type="image/svg+xml" media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/adamlui/js-utils/docs/images/earth-icon/white/icon32.svg">
-            <img height=14 src="https://cdn.jsdelivr.net/gh/adamlui/js-utils/docs/images/earth-icon/black/icon32.svg">
+            <source type="image/svg+xml" media="(prefers-color-scheme: dark)" srcset="https://media.js-utils.com/images/icons/earth/white/icon32.svg?7c33be0">
+            <img height=14 src="https://media.js-utils.com/images/icons/earth/black/icon32.svg?7c33be0">
         </picture>
         &nbsp;हिंदी |
         <a href="../..#readme">English</a> |
@@ -268,14 +268,14 @@ findJS() » Check returned array.
 
 ## 🛠️ संबंधित उपयोगिताएँ
 
-### [</> minify.js (Gulp)](https://gulp.minify-js.org) <a href="https://github.com/toolleeo/cli-apps#programming"><img height=18 src="https://media.js-utils.com/images/badges/awesome/badge.svg?bdf2f44"></a>
+### [</> minify.js (Gulp)](https://gulp.minify-js.org) <a href="https://github.com/toolleeo/cli-apps#programming"><img height=18 src="https://media.js-utils.com/images/badges/awesome/badge.svg?7b16322"></a>
 
 > सभी जावास्क्रिप्ट फ़ाइलों को पुनरावर्ती रूप से छोटा करने के लिए Gulp प्लग-इन।
 <br>[स्थापित करना](https://gulp.minify-js.org/#-installation) /
 [रीडमी](https://gulp.minify-js.org/#readme) /
 [चर्चा करना](https://github.minify-js.org/discussions)
 
-### [{ } scss-to-css](https://github.com/adamlui/scss-to-css) <a href="https://github.com/toolleeo/cli-apps#conversion"><img height=18 src="https://media.js-utils.com/images/badges/awesome/badge.svg?bdf2f44"></a>
+### [{ } scss-to-css](https://github.com/adamlui/scss-to-css) <a href="https://github.com/toolleeo/cli-apps#conversion"><img height=18 src="https://media.js-utils.com/images/badges/awesome/badge.svg?7b16322"></a>
 
 > सभी SCSS फ़ाइलों को पुनरावर्ती रूप से लघु CSS में संकलित करें।
 <br>[स्थापित करना](https://node.scsstocss.org/#-installation) /
