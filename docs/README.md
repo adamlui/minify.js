@@ -251,12 +251,11 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 ## 🛠️ Related utilities
 
-### [</> minify.js (Gulp)](https://gulp.minify-js.org) <a href="https://github.com/toolleeo/cli-apps#programming"><img height=18 src="https://media.minify-js.org/images/badges/awesome/badge.svg?b78dcd3"></a>
+### [🖼️ img-to-webp](https://img-to-webp.org)
 
-> Gulp plug-in to recursively minify all JavaScript files.
-<br>[Install](https://gulp.minify-js.org/#-installation) /
-[Readme](http://gulp.minify-js.org/#readme) /
-[Discuss](https://github.minify-js.org/discussions)
+> Recursively compress all images to WEBPs.
+<br>[Download](https://cdn.jsdelivr.net/gh/adamlui/js-utils/img-to-webp/img-to-webp.js) /
+[Discuss](https://github.js-utils.com/discussions)
 
 ### [{ } scss-to-css](https://scsstocss.org) <a href="https://github.com/toolleeo/cli-apps#conversion"><img height=18 src="https://media.minify-js.org/images/badges/awesome/badge.svg?b78dcd3"></a>
 
