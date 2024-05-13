@@ -1,4 +1,4 @@
-name: Update npm downloads sDelivr hits shields in root README
+name: Update npm downloads shield in root README
 
 on:
   schedule:
