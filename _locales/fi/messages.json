@@ -25,7 +25,7 @@
   "helpSection_flags": { "message": "Boolen vaihtoehdot" },
   "helpSection_paramOptions": { "message": "Parametrivaihtoehdot" },
   "helpSection_infoCmds": { "message": "Tietokomennot" },
-  "inputPathDesc_main": { "message": "Minimoitavat JS-tiedostot sisältävän JS-tiedoston tai hakemiston polku" },
+  "inputPathDesc_main": { "message": "Polku JavaScript-tiedostoon tai hakemistoon, joka sisältää pienennettäviä JavaScript-tiedostoja" },
   "inputPathDesc_extra": { "message": "suhteessa nykyiseen työhakemistoon" },
   "outputPathDesc_main": { "message": "Polku tiedostoon tai hakemistoon, johon pienennetyt tiedostot tallennetaan" },
   "outputPathDesc_extra": { "message": "suhteessa alkuperäiseen tiedoston sijaintiin (jos ei annettu, min/ käytetään)" },

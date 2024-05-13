@@ -25,7 +25,7 @@
   "helpSection_flags": { "message": "Nā koho Boolean" },
   "helpSection_paramOptions": { "message": "Nā koho palena" },
   "helpSection_infoCmds": { "message": "Nā kauoha ʻike" },
-  "inputPathDesc_main": { "message": "ʻO ke ala i ka faila JS a i ʻole ka papa kuhikuhi i loaʻa nā faila JS e hoʻemi ʻia" },
+  "inputPathDesc_main": { "message": "ʻO ke ala i ka faila JavaScript a i ʻole ka papa kuhikuhi i loaʻa nā faila JavaScript e hoʻemi ʻia" },
   "inputPathDesc_extra": { "message": "pili i ka papa kuhikuhi hana o kēia manawa" },
   "outputPathDesc_main": { "message": "Ala i ka waihona a i ʻole ka papa kuhikuhi kahi e mālama ʻia ai nā faila liʻiliʻi" },
   "outputPathDesc_extra": { "message": "pili i kahi waihona kumu (inā ʻaʻole hāʻawi ʻia, hoʻohana ʻia ka min/)" },

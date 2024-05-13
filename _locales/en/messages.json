@@ -25,7 +25,7 @@
   "helpSection_flags": { "message": "Boolean options" },
   "helpSection_paramOptions": { "message": "Parameter options" },
   "helpSection_infoCmds": { "message": "Info commands" },
-  "inputPathDesc_main": { "message": "Path to JS file or directory containing JS files to be minified" },
+  "inputPathDesc_main": { "message": "Path to JavaScript file or directory containing JavaScript files to be minified" },
   "inputPathDesc_extra": { "message": "relative to the current working directory" },
   "outputPathDesc_main": { "message": "Path to file or directory where minified files will be stored" },
   "outputPathDesc_extra": { "message": "relative to original file location (if not provided, min/ is used)" },

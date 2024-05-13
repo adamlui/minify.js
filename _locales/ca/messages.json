@@ -25,7 +25,7 @@
   "helpSection_flags": { "message": "Opcions booleanes" },
   "helpSection_paramOptions": { "message": "Opcions de paràmetres" },
   "helpSection_infoCmds": { "message": "Ordres d'informació" },
-  "inputPathDesc_main": { "message": "Ruta al fitxer JS o directori que conté fitxers JS que s'han de minificar" },
+  "inputPathDesc_main": { "message": "Ruta al fitxer JavaScript o directori que conté fitxers JavaScript que s'han de minificar" },
   "inputPathDesc_extra": { "message": "en relació amb el directori de treball actual" },
   "outputPathDesc_main": { "message": "Ruta al fitxer o directori on s'emmagatzemaran els fitxers minificats" },
   "outputPathDesc_extra": { "message": "en relació amb la ubicació original del fitxer (si no s'indica, s'utilitza min/)" },

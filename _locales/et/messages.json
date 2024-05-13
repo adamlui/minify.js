@@ -25,7 +25,7 @@
   "helpSection_flags": { "message": "Tõeväärtuse valikud" },
   "helpSection_paramOptions": { "message": "Parameetri valikud" },
   "helpSection_infoCmds": { "message": "Teabekäsud" },
-  "inputPathDesc_main": { "message": "Minimeeritavaid JS-faile sisaldava JS-faili või -kataloogi tee" },
+  "inputPathDesc_main": { "message": "Javascripti faili või kataloogi tee, mis sisaldab minimeeritavaid Javascripti faile" },
   "inputPathDesc_extra": { "message": "praeguse töökataloogi suhtes" },
   "outputPathDesc_main": { "message": "Faili või kataloogi tee, kuhu minifailid salvestatakse" },
   "outputPathDesc_extra": { "message": "võrreldes faili algse asukohaga (kui seda ei esitata, kasutatakse min/)" },

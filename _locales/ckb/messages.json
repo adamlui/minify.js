@@ -25,7 +25,7 @@
   "helpSection_flags": { "message": "هه ‌ ڵبژاردنه ‌ کانی بۆۆلین" },
   "helpSection_paramOptions": { "message": "هەڵبژاردنی پارامەتری" },
   "helpSection_infoCmds": { "message": "فەرمانەکانی زانیاری" },
-  "inputPathDesc_main": { "message": "ڕاستاندنی JS گۆکردنەکان" },
+  "inputPathDesc_main": { "message": "پەڕگەی جاڤاسکریپت یان پەڕگەی جاڤاسکریپت کە پەڕگەی جاڤاسکریپتی تێدایە" },
   "inputPathDesc_extra": { "message": "به ڕێوه به رایه تی ئێستای كاروباری" },
   "outputPathDesc_main": { "message": "پەڕگە یان ئەو شوێنەی کە پەڕگە پاشەکەوتکراوەکان هەڵدەگیرێن" },
   "outputPathDesc_extra": { "message": "پەڕگەی ڕەسەن (ئەگەر دابین نەکرابێت، min/ بەکاردێت)" },

@@ -25,7 +25,7 @@
   "helpSection_flags": { "message": "બુલિયન વિકલ્પો" },
   "helpSection_paramOptions": { "message": "પરિમાણ વિકલ્પો" },
   "helpSection_infoCmds": { "message": "માહિતી આદેશો" },
-  "inputPathDesc_main": { "message": "JS ફાઇલ અથવા JS ફાઇલો ધરાવતી ડિરેક્ટરીનો પાથ ઘટાડવો" },
+  "inputPathDesc_main": { "message": "જાવાસ્ક્રિપ્ટ ફાઇલ અથવા જાવાસ્ક્રિપ્ટ ફાઇલો ધરાવતી ડિરેક્ટરીનો પાથ ઘટાડવો" },
   "inputPathDesc_extra": { "message": "વર્તમાન કાર્યકારી ડિરેક્ટરી સંબંધિત" },
   "outputPathDesc_main": { "message": "ફાઇલ અથવા ડિરેક્ટરીનો પાથ જ્યાં મિનિફાઇડ ફાઇલો સંગ્રહિત કરવામાં આવશે" },
   "outputPathDesc_extra": { "message": "મૂળ ફાઇલ સ્થાન સાથે સંબંધિત (જો પૂરી પાડવામાં ન આવે તો, મિનિટ/વપરાય છે)" },

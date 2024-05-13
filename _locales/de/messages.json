@@ -25,7 +25,7 @@
   "helpSection_flags": { "message": "Boolesche Optionen" },
   "helpSection_paramOptions": { "message": "Parameteroptionen" },
   "helpSection_infoCmds": { "message": "Info-Befehle" },
-  "inputPathDesc_main": { "message": "Pfad zu JS-Datei oder Verzeichnis mit JS-Dateien, die minimiert werden sollen" },
+  "inputPathDesc_main": { "message": "Pfad zu JavaScript-Datei oder Verzeichnis, das JavaScript-Dateien enthält, die minimiert werden sollen" },
   "inputPathDesc_extra": { "message": "relativ zum aktuellen Arbeitsverzeichnis" },
   "outputPathDesc_main": { "message": "Pfad zu Datei oder Verzeichnis, in dem minimierte Dateien gespeichert werden" },
   "outputPathDesc_extra": { "message": "relativ zum ursprünglichen Dateispeicherort (falls nicht angegeben, wird min/verwendet)" },

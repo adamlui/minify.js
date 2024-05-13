@@ -25,7 +25,7 @@
   "helpSection_flags": { "message": "Boolse opsies" },
   "helpSection_paramOptions": { "message": "Parameter opsies" },
   "helpSection_infoCmds": { "message": "Inligtingopdragte" },
-  "inputPathDesc_main": { "message": "Pad na JS-lêer of gids met JS-lêers wat geminifiseer moet word" },
+  "inputPathDesc_main": { "message": "Pad na JavaScript-lêer of gids wat JavaScript-lêers bevat wat geminifiseer moet word" },
   "inputPathDesc_extra": { "message": "huidige werkende gids" },
   "outputPathDesc_main": { "message": "Pad na lêer of gids waar verkleinde lêers gestoor sal word" },
   "outputPathDesc_extra": { "message": "relatief tot die oorspronklike lêer plek (indien nie verskaf, MIN/gebruik word)" },

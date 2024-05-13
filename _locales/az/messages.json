@@ -25,7 +25,7 @@
   "helpSection_flags": { "message": "Buolean seçimləri" },
   "helpSection_paramOptions": { "message": "Parametr seçimləri" },
   "helpSection_infoCmds": { "message": "Məlumat əmrləri" },
-  "inputPathDesc_main": { "message": "Minimallaşdırılacaq JS faylları olan JS faylına və ya kataloquna gedən yol" },
+  "inputPathDesc_main": { "message": "Dəqiqləşdiriləcək JavaScript faylları olan JavaScript faylına və ya kataloquna gedən yol" },
   "inputPathDesc_extra": { "message": "cari iş kataloquna nisbətən" },
   "outputPathDesc_main": { "message": "Minimum faylların saxlanılacağı fayl və ya kataloqa gedən yol" },
   "outputPathDesc_extra": { "message": "orijinal fayl mövqeyinə nisbətən (təmin edilməyibsə, min/istifadə olunur)" },

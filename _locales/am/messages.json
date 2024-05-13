@@ -25,7 +25,7 @@
   "helpSection_flags": { "message": "Boolean አማራጮች" },
   "helpSection_paramOptions": { "message": "የፓራሜትር አማራጮች" },
   "helpSection_infoCmds": { "message": "መረጃ ትዕዛዞች" },
-  "inputPathDesc_main": { "message": "የ JS ፋይሎችን ለማቃለል የያዘ የ JS ፋይል ወይም ማውጫ ወደ መንገድ" },
+  "inputPathDesc_main": { "message": "የጃቫስክሪፕት ፋይሎችን ወደሚቀነስበት የጃቫስክሪፕት ፋይል ወይም ማውጫ መንገድ" },
   "inputPathDesc_extra": { "message": "የአሁኑ የሥራ ዝርዝር" },
   "outputPathDesc_main": { "message": "የተቆራረጡ ፋይሎች ወደሚከማቹበት ፋይል ወይም ማውጫ መንገድ" },
   "outputPathDesc_extra": { "message": "ከመጀመሪያው የፋይል አካባቢ አንፃር (ካልተሰጠ Min/ጥቅም ላይ ይውላል)" },

@@ -25,7 +25,7 @@
   "helpSection_flags": { "message": "Лагічныя параметры" },
   "helpSection_paramOptions": { "message": "Параметры параметраў" },
   "helpSection_infoCmds": { "message": "Інфармацыйныя каманды" },
-  "inputPathDesc_main": { "message": "Шлях да файла JS або каталога, які змяшчае файлы JS, якія трэба мінімізаваць" },
+  "inputPathDesc_main": { "message": "Шлях да файла або каталога JavaScript, які змяшчае файлы JavaScript, якія трэба мінімізаваць" },
   "inputPathDesc_extra": { "message": "адносна бягучага працоўнага каталога" },
   "outputPathDesc_main": { "message": "Шлях да файла або каталога, дзе будуць захоўвацца мініяцюрныя файлы" },
   "outputPathDesc_extra": { "message": "адносна месцазнаходжання зыходнага файла (калі не пазначана, мін/ выкарыстоўваецца)" },

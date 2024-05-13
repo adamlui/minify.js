@@ -25,7 +25,7 @@
   "helpSection_flags": { "message": "Булеви опции" },
   "helpSection_paramOptions": { "message": "Опции за параметрите" },
   "helpSection_infoCmds": { "message": "Команди за информация" },
-  "inputPathDesc_main": { "message": "Път до JS файл или директория, съдържаща JS файлове, които трябва да бъдат минимизирани" },
+  "inputPathDesc_main": { "message": "Път до JavaScript файл или директория, съдържаща JavaScript файлове за минимизиране" },
   "inputPathDesc_extra": { "message": "спрямо текущата работна директория" },
   "outputPathDesc_main": { "message": "Път до файл или директория, където ще се съхраняват миниатюрни файлове" },
   "outputPathDesc_extra": { "message": "спрямо първоначалното местоположение на файла (ако не е предоставено, се използва min /)" },

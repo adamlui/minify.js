@@ -25,7 +25,7 @@
   "helpSection_flags": { "message": "বুলিয়ান বিকল্প" },
   "helpSection_paramOptions": { "message": "প্যারামিটার বিকল্প" },
   "helpSection_infoCmds": { "message": "তথ্য কমান্ড" },
-  "inputPathDesc_main": { "message": "JS ফাইল বা JS ফাইল ধারণকারী ডিরেক্টরিতে পাথ minified করা হবে" },
+  "inputPathDesc_main": { "message": "জাভাস্ক্রিপ্ট ফাইল বা ডিরেক্টরির পাথ যা জাভাস্ক্রিপ্ট ফাইল ধারণ করে তা minified করা হবে" },
   "inputPathDesc_extra": { "message": "বর্তমান ওয়ার্কিং ডিরেক্টরির সাথে সম্পর্কিত" },
   "outputPathDesc_main": { "message": "ফাইল বা ডিরেক্টরির পাথ যেখানে minified ফাইল সংরক্ষণ করা হবে" },
   "outputPathDesc_extra": { "message": "মূল ফাইলের অবস্থানের সাথে সম্পর্কিত (যদি প্রদান না করা হয়, মিনিট/ব্যবহার করা হয়)" },

@@ -25,7 +25,7 @@
   "helpSection_flags": { "message": "Mga kapilian sa Boolean" },
   "helpSection_paramOptions": { "message": "Mga kapilian sa parameter" },
   "helpSection_infoCmds": { "message": "Mga mando sa info" },
-  "inputPathDesc_main": { "message": "Pamaagi sa JS file o direktoryo nga naglangkob sa JS files nga minified" },
+  "inputPathDesc_main": { "message": "Pamaagi sa JavaScript file o direktoryo nga adunay mga file sa JavaScript nga pagminusan" },
   "inputPathDesc_extra": { "message": "karon nga Direktoryo sa Pagtrabaho" },
   "outputPathDesc_main": { "message": "Pamaagi sa file o direktoryo diin tipigan ang mga minified file" },
   "outputPathDesc_extra": { "message": "may kalabotan sa orihinal nga lokasyon sa file (kung dili gihatag, min/ gigamit)" },

@@ -25,7 +25,7 @@
   "helpSection_flags": { "message": "Booleovské možnosti" },
   "helpSection_paramOptions": { "message": "Možnosti parametrů" },
   "helpSection_infoCmds": { "message": "Informační příkazy" },
-  "inputPathDesc_main": { "message": "Cesta k souboru JS nebo adresáři obsahujícímu soubory JS, které mají být zmenšeny" },
+  "inputPathDesc_main": { "message": "Cesta k souboru JavaScript nebo adresáři obsahujícímu soubory JavaScript, které mají být zmenšeny" },
   "inputPathDesc_extra": { "message": "vzhledem k aktuálnímu pracovnímu adresáři" },
   "outputPathDesc_main": { "message": "Cesta k souboru nebo adresáři, kde budou uloženy zmenšené soubory" },
   "outputPathDesc_extra": { "message": "vzhledem k původnímu umístění souboru (pokud není poskytnuto, použije se min/)" },

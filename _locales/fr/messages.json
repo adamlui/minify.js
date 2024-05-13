@@ -25,7 +25,7 @@
   "helpSection_flags": { "message": "Options:" },
   "helpSection_paramOptions": { "message": "Options de paramètres" },
   "helpSection_infoCmds": { "message": "Commandes info" },
-  "inputPathDesc_main": { "message": "Chemin d'accès au fichier JS ou au répertoire contenant les fichiers JS à minifier" },
+  "inputPathDesc_main": { "message": "Chemin d'accès au fichier JavaScript ou au répertoire contenant les fichiers JavaScript à minifier" },
   "inputPathDesc_extra": { "message": "par rapport au répertoire de travail actuel" },
   "outputPathDesc_main": { "message": "Chemin d'accès au fichier ou au répertoire où les fichiers minifiés seront stockés" },
   "outputPathDesc_extra": { "message": "par rapport à l'emplacement du fichier d'origine (s'il n'est pas fourni, min/ est utilisé)" },

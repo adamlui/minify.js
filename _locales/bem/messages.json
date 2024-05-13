@@ -25,7 +25,7 @@
   "helpSection_flags": { "message": "Ifyo Mwingacita pa Kuti Mulesanga Ifya Kucita" },
   "helpSection_paramOptions": { "message": "Ifya kusalululapo" },
   "helpSection_infoCmds": { "message": "Ifyebo Fyabamo Lyonse" },
-  "inputPathDesc_main": { "message": "Fela Anikulapo Kuti JS file or directory containing Fela Anikulapo Kuti" },
+  "inputPathDesc_main": { "message": "Fela Anikulapo Kuti JavaScript file or directory containing JavaScript files to be minified" },
   "inputPathDesc_extra": { "message": "about Mulya Wulandari" },
   "outputPathDesc_main": { "message": "Fela Anikulapo Kuti or Fela Anikulapo Kuti Files" },
   "outputPathDesc_extra": { "message": "fela Anikulapo Kuti (if not provided, min/ is used)" },

@@ -25,7 +25,7 @@
   "helpSection_flags": { "message": "Booleove opcije" },
   "helpSection_paramOptions": { "message": "i opcije parametara" },
   "helpSection_infoCmds": { "message": "Komande za informacije" },
-  "inputPathDesc_main": { "message": "Putanja do JS datoteke ili direktorija koji sadrži JS datoteke za umanjenje" },
+  "inputPathDesc_main": { "message": "Putanja do JavaScript datoteke ili direktorija koji sadrži JavaScript datoteke za umanjenje" },
   "inputPathDesc_extra": { "message": "u odnosu na trenutni radni direktorij" },
   "outputPathDesc_main": { "message": "Putanja do datoteke ili direktorija gdje će se čuvati minificirane datoteke" },
   "outputPathDesc_extra": { "message": "u odnosu na originalnu lokaciju datoteke (ako nije navedeno, koristi se min./)" },

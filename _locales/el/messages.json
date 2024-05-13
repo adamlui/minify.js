@@ -25,7 +25,7 @@
   "helpSection_flags": { "message": "Δυαδικές επιλογές" },
   "helpSection_paramOptions": { "message": "Επιλογές παραμέτρων" },
   "helpSection_infoCmds": { "message": "Εντολές πληροφοριών" },
-  "inputPathDesc_main": { "message": "Διαδρομή προς αρχείο ή κατάλογο JS που περιέχει αρχεία JS προς ελαχιστοποίηση" },
+  "inputPathDesc_main": { "message": "Διαδρομή προς το αρχείο ή τον κατάλογο JavaScript που περιέχει αρχεία JavaScript προς ελαχιστοποίηση" },
   "inputPathDesc_extra": { "message": "σε σχέση με τον τρέχοντα κατάλογο εργασίας" },
   "outputPathDesc_main": { "message": "Διαδρομή προς το αρχείο ή τον κατάλογο όπου θα αποθηκεύονται τα ελαχιστοποιημένα αρχεία" },
   "outputPathDesc_extra": { "message": "σε σχέση με την αρχική θέση του αρχείου (εάν δεν παρέχεται, χρησιμοποιείται min/)" },

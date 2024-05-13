@@ -25,7 +25,7 @@
   "helpSection_flags": { "message": "Boolean Options" },
   "helpSection_paramOptions": { "message": "ཚད་འཇལ་བྱེད་ཀྱི་འདེམས་སྟངས" },
   "helpSection_infoCmds": { "message": "བརྡ་དོན་བཀའ་སློབ །" },
-  "inputPathDesc_main": { "message": "JS ཡིག་སྣོད་དང་ཡིག་སྣོད་ནང་JS ཡིག་སྣོད་ཡོད་པའི་ལམ་" },
+  "inputPathDesc_main": { "message": "JavaScript ཡིག་སྣོད་དང་ཡིག་སྣོད་ནང་JavaScript ཡིག་སྣོད་ཡོད་པའི་ལམ་" },
   "inputPathDesc_extra": { "message": "ད་ལྟའི་དྲ་གནས ། དྲ་གནས་གཙོ་ངོས ། >" },
   "outputPathDesc_main": { "message": "ཡིག་ཆ་ཆུང་ཆུང་གསོག་འཇོག་བྱེད་པའི་ཡིག་ཆ་དང་ཡིག་ཆའི་ལམ་" },
   "outputPathDesc_extra": { "message": "གཞི་རྟེན་ཡིག་ཆ་གི་གནས་སྟངས་དང་འབྲེལ་བ ། (མ་བཀོད་ན ། MIN/ ལག་ལེན་འཐབ་དགོས །)" },

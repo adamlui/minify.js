@@ -25,7 +25,7 @@
   "helpSection_flags": { "message": "Boolske muligheder" },
   "helpSection_paramOptions": { "message": "Parameterindstillinger" },
   "helpSection_infoCmds": { "message": "INFO-kommandoer" },
-  "inputPathDesc_main": { "message": "Sti til JS-fil eller mappe, der indeholder JS-filer, der skal minimeres" },
+  "inputPathDesc_main": { "message": "Sti til JavaScript-fil eller mappe, der indeholder JavaScript-filer, der skal komprimeres" },
   "inputPathDesc_extra": { "message": "i forhold til den aktuelle arbejdsmappe" },
   "outputPathDesc_main": { "message": "Sti til fil eller mappe, hvor minificerede filer gemmes" },
   "outputPathDesc_extra": { "message": "i forhold til den oprindelige filplacering (hvis ikke angivet, bruges min/min)" },

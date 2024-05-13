@@ -25,7 +25,7 @@
   "helpSection_flags": { "message": "خيارات منطقية" },
   "helpSection_paramOptions": { "message": "خيارات المتغير" },
   "helpSection_infoCmds": { "message": "أوامر المعلومات" },
-  "inputPathDesc_main": { "message": "يجب تصغير المسار إلى ملف JS أو الدليل الذي يحتوي على ملفات JS" },
+  "inputPathDesc_main": { "message": "المسار إلى ملف أو دليل جافا سكريبت الذي يحتوي على ملفات جافا سكريبت المراد تصغيرها" },
   "inputPathDesc_extra": { "message": "نسبة إلى دليل العمل الحالي" },
   "outputPathDesc_main": { "message": "المسار إلى الملف أو الدليل حيث سيتم تخزين الملفات المصغرة" },
   "outputPathDesc_extra": { "message": "بالنسبة إلى موقع الملف الأصلي (إذا لم يتم توفيره، يتم استخدام الحد الأدنى/الحد الأدنى)" },

@@ -25,7 +25,7 @@
   "helpSection_flags": { "message": "Opciones booleanas" },
   "helpSection_paramOptions": { "message": "Opciones de parámetros" },
   "helpSection_infoCmds": { "message": "Comandos de información" },
-  "inputPathDesc_main": { "message": "Ruta al archivo JS o directorio que contiene archivos JS que se van a minificar" },
+  "inputPathDesc_main": { "message": "Ruta al archivo JavaScript o directorio que contiene archivos JavaScript que se van a minificar" },
   "inputPathDesc_extra": { "message": "en relación con el directorio de trabajo actual" },
   "outputPathDesc_main": { "message": "Ruta al archivo o directorio donde se almacenarán los archivos minificados" },
   "outputPathDesc_extra": { "message": "en relación con la ubicación del archivo original (si no se proporciona, se utiliza min/)" },
