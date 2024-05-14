@@ -37,7 +37,7 @@
   "optionDesc_quiet": { "message": "سڕینەوەی هەموو هەڵەکان جگە لە هەڵەکان" },
   "optionDesc_ignoreFiles": { "message": "پەڕەکانی ژێرەوە بەستەر دراون بۆ مینیماڵیزم" },
   "optionDesc_commentMain": { "message": "زیادکردنی هاوپۆل بۆ Minified Code" },
-  "optionDesc_commentExtra": { "message": "جیاکردنەوە بە ھێڵ بە بەکارھێنانی '/n '" },
+  "optionDesc_commentExtra": { "message": "جیاکردنەوە بە ھێڵ بە بەکارھێنانی  '/n'" },
   "optionDesc_help": { "message": "پیشاندانی شاشەی یارمەتی" },
   "optionDesc_version": { "message": "ژمارەی وەشان پیشان بدە" }
 }
