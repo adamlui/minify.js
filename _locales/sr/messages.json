@@ -39,5 +39,5 @@
   "optionDesc_commentMain": { "message": "Prependirajte komentar na umanjeni kôd" },
   "optionDesc_commentExtra": { "message": "Razdvojite redovima pomoću „\\n“" },
   "optionDesc_help": { "message": "Prikažite ekran za pomoć" },
-  "optionDesc_version": { "message": "Исписује број верзије." }
+  "optionDesc_version": { "message": "Исписује број верзије" }
 }

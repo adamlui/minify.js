@@ -15,7 +15,7 @@
   "info_noFilesWillBeMinned": { "message": "Tidak ada file JavaScript yang akan diperkecil" },
   "info_minComplete": { "message": "Minifikasi selesai" },
   "info_file": { "message": "mengajukan" },
-  "info_mininified": { "message": "diperkecil." },
+  "info_mininified": { "message": "diperkecil" },
   "info_noFilesProcessed": { "message": "Tidak ada file JavaScript yang belum diproses" },
   "info_failedToMinify": { "message": "gagal memperkecil" },
   "info_moreHelp": { "message": "Untuk bantuan lebih lanjut" },

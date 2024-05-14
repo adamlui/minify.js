@@ -8,7 +8,7 @@
   "error_notRecognized": { "message": "nije prepoznato" },
   "error_invalidURL": { "message": "Nevažeći URL" },
   "error_firstArgNotExist": { "message": "Prvi argument može biti samo postojeća datoteka ili direktorij" },
-  "error_doesNotExist": { "message": "Alat ne postoji." },
+  "error_doesNotExist": { "message": "Alat ne postoji" },
   "info_validArgs": { "message": "Važeći argumenti su ispod" },
   "info_exampleValidCmd": { "message": "Primjer važeće naredbe" },
   "info_filesToBeMinned": { "message": "JavaScript datoteke za umanjenje" },

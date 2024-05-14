@@ -5,7 +5,7 @@
   "prefix_globalVer": { "message": "الإصدار العالمي" },
   "prefix_localVer": { "message": "النسخة المحلية" },
   "prefix_source": { "message": "Source" },
-  "error_notRecognized": { "message": "غير معترف بها." },
+  "error_notRecognized": { "message": "غير معترف بها" },
   "error_invalidURL": { "message": "الرابط غير صحيح" },
   "error_firstArgNotExist": { "message": "يمكن أن تكون الوسيطة الأولى ملفًا أو دليلًا موجودًا فقط" },
   "error_doesNotExist": { "message": "غير موجود" },

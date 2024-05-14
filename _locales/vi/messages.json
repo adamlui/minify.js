@@ -35,7 +35,7 @@
   "optionDesc_noRecursion": { "message": "Tắt tính năng tìm kiếm tệp đệ quy" },
   "optionDesc_noMangle": { "message": "Vô hiệu hóa tên lộn xộn" },
   "optionDesc_quiet": { "message": "Chặn tất cả ghi nhật ký ngoại trừ lỗi" },
-  "optionDesc_ignoreFiles": { "message": "Các tập tin  <b>CSS</b> để loại trừ từ việc tối ưu hóa:" },
+  "optionDesc_ignoreFiles": { "message": "Các tập tin  <b>CSS</b> để loại trừ từ việc tối ưu hóa" },
   "optionDesc_commentMain": { "message": "Gửi trước nhận xét cho mã đã rút gọn" },
   "optionDesc_commentExtra": { "message": "Phân tách bằng dòng sử dụng '\\n'" },
   "optionDesc_help": { "message": "Hiển thị màn hình trợ giúp" },

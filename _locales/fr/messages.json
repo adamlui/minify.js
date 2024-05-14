@@ -22,7 +22,7 @@
   "info_visit": { "message": "visite" },
   "helpSection_usage": { "message": "Usage" },
   "helpSection_pathArgs": { "message": "Arguments de chemin" },
-  "helpSection_flags": { "message": "Options:" },
+  "helpSection_flags": { "message": "Options" },
   "helpSection_paramOptions": { "message": "Options de paramètres" },
   "helpSection_infoCmds": { "message": "Commandes info" },
   "inputPathDesc_main": { "message": "Chemin d'accès au fichier JavaScript ou au répertoire contenant les fichiers JavaScript à minifier" },

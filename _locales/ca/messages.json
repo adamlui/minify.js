@@ -8,7 +8,7 @@
   "error_notRecognized": { "message": "no reconegut" },
   "error_invalidURL": { "message": "Adreça URL no vàlida" },
   "error_firstArgNotExist": { "message": "El primer argument només pot ser un fitxer o directori existent" },
-  "error_doesNotExist": { "message": "no existeix." },
+  "error_doesNotExist": { "message": "no existeix" },
   "info_validArgs": { "message": "Els arguments vàlids són els següents" },
   "info_exampleValidCmd": { "message": "Exemple d'ordre vàlida" },
   "info_filesToBeMinned": { "message": "Fitxers JavaScript que s'han de minificar" },

@@ -20,7 +20,7 @@
   "info_failedToMinify": { "message": "кичирейтүү ишке ашкан жок" },
   "info_moreHelp": { "message": "Көбүрөөк маалымат алуу үчүн" },
   "info_visit": { "message": "иш сапары" },
-  "helpSection_usage": { "message": "Колдонулушу:" },
+  "helpSection_usage": { "message": "Колдонулушу" },
   "helpSection_pathArgs": { "message": "Жолдун аргументтери" },
   "helpSection_flags": { "message": "Boolean параметрлери" },
   "helpSection_paramOptions": { "message": "Параметр параметрлери" },

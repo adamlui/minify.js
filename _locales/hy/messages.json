@@ -8,7 +8,7 @@
   "error_notRecognized": { "message": "ճանաչված չէ" },
   "error_invalidURL": { "message": "Անվավեր URL" },
   "error_firstArgNotExist": { "message": "Առաջին փաստարկը կարող է լինել միայն գոյություն ունեցող ֆայլ կամ գրացուցակ" },
-  "error_doesNotExist": { "message": "Նման գրառում գոյություն չունի:" },
+  "error_doesNotExist": { "message": "Նման գրառում գոյություն չունի" },
   "info_validArgs": { "message": "Վավեր փաստարկները ներկայացված են ստորև" },
   "info_exampleValidCmd": { "message": "Վավեր հրահանգի օրինակ" },
   "info_filesToBeMinned": { "message": "Նվազեցման ենթակա JavaScript ֆայլեր" },

@@ -1,7 +1,7 @@
 {
   "appName": { "message": "minify.js" },
   "appCopyright": { "message": "© 2024 Adam Lui & confrontations under the MIT License" },
-  "prefix_error": { "message": "TUCCḌA:" },
+  "prefix_error": { "message": "TUCCḌA" },
   "prefix_globalVer": { "message": "Asebter n umaḍal" },
   "prefix_localVer": { "message": "Asebter amezwaru" },
   "prefix_source": { "message": "Aqbalu" },
@@ -20,7 +20,7 @@
   "info_failedToMinify": { "message": "ur yezmir ara ad yeḥrez" },
   "info_moreHelp": { "message": "I ugar n tallelt" },
   "info_visit": { "message": "Rzu" },
-  "helpSection_usage": { "message": "Aseqdec:" },
+  "helpSection_usage": { "message": "Aseqdec" },
   "helpSection_pathArgs": { "message": "Abrid n umennuɣ" },
   "helpSection_flags": { "message": "Iɣewwaṛen n Boolean" },
   "helpSection_paramOptions": { "message": "Iɣewwaṛen n uzegrir" },

@@ -26,7 +26,7 @@
   "helpSection_paramOptions": { "message": "Opções de parâmetros" },
   "helpSection_infoCmds": { "message": "Comandos de informação" },
   "inputPathDesc_main": { "message": "Caminho para o ficheiro JavaScript ou diretório que contém ficheiros JavaScript a serem minificados" },
-  "inputPathDesc_extra": { "message": "absoluto ou um caminho relativo para o directório de trabalho actual." },
+  "inputPathDesc_extra": { "message": "absoluto ou um caminho relativo para o directório de trabalho actual" },
   "outputPathDesc_main": { "message": "Caminho para o ficheiro ou diretório onde os ficheiros minificados serão armazenados" },
   "outputPathDesc_extra": { "message": "em relação ao local do arquivo original (se não for fornecido, min/ é usado)" },
   "optionDesc_dryRun": { "message": "Na verdade, não diminua o (s) arquivo(s), apenas mostre se eles serão processados" },

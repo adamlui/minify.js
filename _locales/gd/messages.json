@@ -8,7 +8,7 @@
   "error_notRecognized": { "message": "gun aithneachadh" },
   "error_invalidURL": { "message": "URL mì - dhligheach" },
   "error_firstArgNotExist": { "message": "Chan urrainn don chiad argamaid a bhith ach faidhle no pasgan a tha ann mar - thà" },
-  "error_doesNotExist": { "message": "Chan eil am faidhle ann." },
+  "error_doesNotExist": { "message": "Chan eil am faidhle ann" },
   "info_validArgs": { "message": "Tha argamaidean dligheach gu h - ìosal" },
   "info_exampleValidCmd": { "message": "Mar eisimpleir àithne dhligheach" },
   "info_filesToBeMinned": { "message": "Faidhlichean JavaScript ri mion - sgrùdadh" },

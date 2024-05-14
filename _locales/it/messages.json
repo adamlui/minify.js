@@ -5,7 +5,7 @@
   "prefix_globalVer": { "message": "Versione globale" },
   "prefix_localVer": { "message": "Versione locale" },
   "prefix_source": { "message": "Origine" },
-  "error_notRecognized": { "message": "non riconosciuti." },
+  "error_notRecognized": { "message": "non riconosciuti" },
   "error_invalidURL": { "message": "URL non valido" },
   "error_firstArgNotExist": { "message": "Il primo argomento può essere solo un file o una directory esistente" },
   "error_doesNotExist": { "message": "non esiste" },
@@ -39,5 +39,5 @@
   "optionDesc_commentMain": { "message": "Preponi il commento al codice minimizzato" },
   "optionDesc_commentExtra": { "message": "Separa per riga usando '\\n'" },
   "optionDesc_help": { "message": "Visualizza la schermata di aiuto" },
-  "optionDesc_version": { "message": "Mostra il numero di versione." }
+  "optionDesc_version": { "message": "Mostra il numero di versione" }
 }

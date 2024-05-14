@@ -18,7 +18,7 @@
   "info_mininified": { "message": "minified" },
   "info_noFilesProcessed": { "message": "Δεν γίνεται επεξεργασία μη ελαχιστοποιημένων αρχείων JavaScript" },
   "info_failedToMinify": { "message": "απέτυχε η ελαχιστοποίηση" },
-  "info_moreHelp": { "message": "Για περισσότερη βοήθεια:" },
+  "info_moreHelp": { "message": "Για περισσότερη βοήθεια" },
   "info_visit": { "message": "επίσκεψη" },
   "helpSection_usage": { "message": "Χρήση" },
   "helpSection_pathArgs": { "message": "Ορίσματα μονοπατιού" },

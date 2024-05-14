@@ -8,7 +8,7 @@
   "error_notRecognized": { "message": "tanınmayıb" },
   "error_invalidURL": { "message": "Yanlış URL" },
   "error_firstArgNotExist": { "message": "İlk arqument yalnız mövcud fayl və ya kataloq ola bilər" },
-  "error_doesNotExist": { "message": "Poçt qutusu yaradıldı." },
+  "error_doesNotExist": { "message": "Poçt qutusu yaradıldı" },
   "info_validArgs": { "message": "Etibarlı arqumentlər aşağıda göstərilib" },
   "info_exampleValidCmd": { "message": "Nümunə üçün etibarlı əmr" },
   "info_filesToBeMinned": { "message": "Dəqiqləşdiriləcək JavaScript faylları" },

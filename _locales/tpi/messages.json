@@ -26,9 +26,9 @@
   "helpSection_paramOptions": { "message": "Parametres opsen" },
   "helpSection_infoCmds": { "message": "Toksave" },
   "inputPathDesc_main": { "message": "Rot i go long JavaScript file o directory i gat JavaScript files long minified" },
-  "inputPathDesc_extra": { "message": "ol i save yusim ol dispela samting long mekim wok bilong God." },
+  "inputPathDesc_extra": { "message": "ol i save yusim ol dispela samting long mekim wok bilong God" },
   "outputPathDesc_main": { "message": "Rot i go long file o directory we minified files bai stap" },
-  "outputPathDesc_extra": { "message": "long wanem, ol i no bin givim ol dispela samting long ol manmeri bilong graun." },
+  "outputPathDesc_extra": { "message": "long wanem, ol i no bin givim ol dispela samting long ol manmeri bilong graun" },
   "optionDesc_dryRun": { "message": "No ken daunim dispela file(s), tasol soim sapos ol i wok long stretim" },
   "optionDesc_dotfolders": { "message": "Inkludim ol dotfolders long painim fail" },
   "optionDesc_dotfiles": { "message": "Pasim ol dotfiles long painim fail" },
@@ -37,7 +37,7 @@
   "optionDesc_quiet": { "message": "Olgeta tok i no stret, tasol ol tok i no stret" },
   "optionDesc_ignoreFiles": { "message": "Ol fail bilong rausim long minification" },
   "optionDesc_commentMain": { "message": "Toksave long Minified Code" },
-  "optionDesc_commentExtra": { "message": "Tok bilong en i stap long dispela hap na i stap long dispela hap." },
+  "optionDesc_commentExtra": { "message": "Tok bilong en i stap long dispela hap na i stap long dispela hap" },
   "optionDesc_help": { "message": "Painim piksa bilong helpim" },
   "optionDesc_version": { "message": "Tokim namba bilong Baibel" }
 }

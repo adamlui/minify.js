@@ -15,7 +15,7 @@
   "info_noFilesWillBeMinned": { "message": "Nobena datoteka JavaScript ne bo pomanjšana" },
   "info_minComplete": { "message": "Minifikacija je končana" },
   "info_file": { "message": "datoteka" },
-  "info_mininified": { "message": "MINIFICIRANA." },
+  "info_mininified": { "message": "MINIFICIRANA" },
   "info_noFilesProcessed": { "message": "Ni obdelanih nepojasnjenih datotek JavaScript" },
   "info_failedToMinify": { "message": "pomanjšanja ni bilo mogoče" },
   "info_moreHelp": { "message": "Za več pomoči" },
