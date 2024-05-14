@@ -22,7 +22,7 @@
   "info_visit": { "message": "سەرلێدان، سەردان، قسە لەگەڵ کردن، تووش بوون (بەڵا)، سزادان، سەردانی دەکات، پشکنین، گەڕان لە" },
   "helpSection_usage": { "message": "بەکارھێنان، بەکارھاتن، بەکارھاتوو، ڕێبازی بەکارھێنانی وتنەکان\n[رۆژنامەوانی]: بەکاربردن، بەکارھێنان" },
   "helpSection_pathArgs": { "message": "ئارگومێنتی ڕێگا" },
-  "helpSection_flags": { "message": "هه ‌ ڵبژاردنه ‌ کانی بۆۆلین" },
+  "helpSection_flags": { "message": "هه  ڵبژاردنه  کانی بۆۆلین" },
   "helpSection_paramOptions": { "message": "هەڵبژاردنی پارامەتری" },
   "helpSection_infoCmds": { "message": "فەرمانەکانی زانیاری" },
   "inputPathDesc_main": { "message": "پەڕگەی جاڤاسکریپت یان پەڕگەی جاڤاسکریپت کە پەڕگەی جاڤاسکریپتی تێدایە" },
