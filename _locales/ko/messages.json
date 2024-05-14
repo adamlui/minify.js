@@ -39,7 +39,7 @@
   "optionDesc_quiet": { "message": "오류를 제외한 모든 로깅 억제" },
   "optionDesc_ignoreFiles": { "message": "축소에서 제외할 파일" },
   "optionDesc_commentMain": { "message": "축소된 코드에 머리글 주석 추가" },
-  "optionDesc_commentExtra": { "message": "'\\ n' 을 사용하여 라인으로 구분" },
+  "optionDesc_commentExtra": { "message": "'\\n' 을 사용하여 라인으로 구분" },
   "optionDesc_help": { "message": "도움말 화면 표시" },
   "optionDesc_version": { "message": "버전 넘버 보여주기" }
 }
