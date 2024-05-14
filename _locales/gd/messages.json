@@ -38,8 +38,8 @@
   "optionDesc_copy": { "message": "Dèan lethbhreac dhen chòd mhionaideach air an stòr - bhòrd an àite a bhith a 'sgrìobhadh dhan fhaidhle ma thèid am faidhle tùsail singilte a phròiseasadh" },
   "optionDesc_quiet": { "message": "Cuir às do gach logadh ach a - mhàin mearachdan" },
   "optionDesc_ignoreFiles": { "message": "Faidhlichean a thèid a dhùnadh a - mach às a 'mhèinneadh" },
-  "optionDesc_commentMain": { "message": "Prepend header comment to minified code" },
-  "optionDesc_commentExtra": { "message": "Air a sgaradh a - rèir loidhne le '\\ n '" },
+  "optionDesc_commentMain": { "message": "Prepend beachd header gu còd mionaichte" },
+  "optionDesc_commentExtra": { "message": "Air a sgaradh a - rèir loidhne le '\\n'" },
   "optionDesc_help": { "message": "Seall sgrìn na cobhair" },
   "optionDesc_version": { "message": "Seall àireamh an tionndaidh" }
 }
