@@ -19,7 +19,7 @@
   "info_noFilesProcessed": { "message": "Боловсруулагдаагүй Жаваскрипт файл байхгүй" },
   "info_failedToMinify": { "message": "багасгаж чадсангүй" },
   "info_moreHelp": { "message": "Нэмэлт тусламж" },
-  "info_visit": { "message": "Зочлох:" },
+  "info_visit": { "message": "Зочлох" },
   "helpSection_usage": { "message": "Хэрэглээ" },
   "helpSection_pathArgs": { "message": "Замын аргументууд" },
   "helpSection_flags": { "message": "Boolean хувилбарууд" },

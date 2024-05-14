@@ -1,7 +1,7 @@
 {
   "appName": { "message": "minify.js" },
   "appCopyright": { "message": "© 2024 Adam Lui & mpandray anjara eo ambany lisansa MIT" },
-  "prefix_error": { "message": "TSY FETEZANA:" },
+  "prefix_error": { "message": "TSY FETEZANA" },
   "prefix_globalVer": { "message": "Ny versiona faranydia" },
   "prefix_localVer": { "message": "Kinovan'ny toerana" },
   "prefix_source": { "message": "Loharano" },
@@ -20,7 +20,7 @@
   "info_failedToMinify": { "message": "tsy nahomby ny fandefasany ny tenany" },
   "info_moreHelp": { "message": "Raha mila fanampiana bebe kokoa" },
   "info_visit": { "message": "_shopify_visit" },
-  "helpSection_usage": { "message": "Ny teny niverimberina:" },
+  "helpSection_usage": { "message": "Ny teny niverimberina" },
   "helpSection_pathArgs": { "message": "Tondriky momba ny sori-dàlana" },
   "helpSection_flags": { "message": "Safidy Boleanina" },
   "helpSection_paramOptions": { "message": "Safidy momba ny marika" },

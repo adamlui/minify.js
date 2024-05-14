@@ -18,7 +18,7 @@
   "info_mininified": { "message": "geminimaliseerd" },
   "info_noFilesProcessed": { "message": "Geen niet-geminimaliseerde JavaScript-bestanden verwerkt" },
   "info_failedToMinify": { "message": "kon niet verkleinen" },
-  "info_moreHelp": { "message": "voor meer hulp." },
+  "info_moreHelp": { "message": "voor meer hulp" },
   "info_visit": { "message": "bezoek" },
   "helpSection_usage": { "message": "Gebruik" },
   "helpSection_pathArgs": { "message": "Padargumenten" },

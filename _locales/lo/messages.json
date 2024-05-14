@@ -8,7 +8,7 @@
   "error_notRecognized": { "message": "ບໍ່ຮັບຮູ້" },
   "error_invalidURL": { "message": "URL ບໍ່ຖືກຕ້ອງ" },
   "error_firstArgNotExist": { "message": "ການໂຕ້ຖຽງຄັ້ງ ທໍາ ອິດສາມາດເປັນເອກະສານຫລືດັດສະນີທີ່ມີຢູ່ແລ້ວເທົ່ານັ້ນ" },
-  "error_doesNotExist": { "message": "ມັນບໍ່ມີຈິງ." },
+  "error_doesNotExist": { "message": "ມັນບໍ່ມີຈິງ" },
   "info_validArgs": { "message": "ຂໍ້ຂັດແຍ່ງທີ່ຖືກຕ້ອງແມ່ນຂ້າງລຸ່ມນີ້" },
   "info_exampleValidCmd": { "message": "ຕົວຢ່າງ ຄໍາ ສັ່ງທີ່ຖືກຕ້ອງ" },
   "info_filesToBeMinned": { "message": "ໄຟລ໌ JavaScript ທີ່ຈະໄດ້ຮັບການ minified" },
