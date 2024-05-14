@@ -37,7 +37,7 @@
   "optionDesc_quiet": { "message": "Ezabatu erregistro guztiak erroreak izan ezik" },
   "optionDesc_ignoreFiles": { "message": "Minifikaziotik baztertzeko fitxategiak" },
   "optionDesc_commentMain": { "message": "Erantsi iruzkina txikitutako kodeari" },
-  "optionDesc_commentExtra": { "message": "Bereizi lerroka &quot;\\n&quot; erabiliz" },
+  "optionDesc_commentExtra": { "message": "Bereizi lerroka '\\n' erabiliz" },
   "optionDesc_help": { "message": "Bistaratu laguntza-pantaila" },
   "optionDesc_version": { "message": "Bertsio zenbakia" }
 }

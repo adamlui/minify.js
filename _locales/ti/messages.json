@@ -37,7 +37,7 @@
   "optionDesc_quiet": { "message": "ጌጋታት እንተዘይኮይኑ ፡ ንዅሉ ምዝገባታት ኣጥፍእ" },
   "optionDesc_ignoreFiles": { "message": "ካብ ምጥፋእ ክስረዙ ዝኽእሉ ፋይላት" },
   "optionDesc_commentMain": { "message": "ናብ ዝተሓተ ኮድ ርእይቶታት ኣዳልዩ" },
-  "optionDesc_commentExtra": { "message": "\"\\n\" ብምጥቃም ብመስመር ተፈልዩ" },
+  "optionDesc_commentExtra": { "message": "'\\n' ብምጥቃም ብመስመር ተፈልዩ" },
   "optionDesc_help": { "message": "ናይ ሓገዝ ስክሪን ኣርኢ" },
   "optionDesc_version": { "message": "ናይ ቅጅል ቁጽሪ ኣርኢ" }
 }

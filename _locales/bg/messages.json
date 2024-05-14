@@ -37,7 +37,7 @@
   "optionDesc_quiet": { "message": "Потискане на всички записи, с изключение на грешките" },
   "optionDesc_ignoreFiles": { "message": "Файлове за изключване от минимизиране" },
   "optionDesc_commentMain": { "message": "Предварително добавяне на коментар към минимизиран код" },
-  "optionDesc_commentExtra": { "message": "Разделете по ред, като използвате „\\n “" },
+  "optionDesc_commentExtra": { "message": "Разделете по ред, като използвате '\\n'" },
   "optionDesc_help": { "message": "Показване на помощния екран" },
   "optionDesc_version": { "message": "Version Number" }
 }

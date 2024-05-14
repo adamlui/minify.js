@@ -37,7 +37,7 @@
   "optionDesc_quiet": { "message": "އެރަރސް ފިޔަވައި ހުރިހާ ލޮގިންގ އެއް ދަމަހައްޓާށެވެ" },
   "optionDesc_ignoreFiles": { "message": "މިނިފިކޭޝަން އިން ބާކީ ކުރަން ޖެހޭ ފައިލްތައް" },
   "optionDesc_commentMain": { "message": "މިނިފައިޑް ކޯޑަށް ކޮމެންޓް ޕްރީޕެންޑް ކުރާށެވެ" },
-  "optionDesc_commentExtra": { "message": "&#39;\\n&#39; ބޭނުންކޮށްގެން ލައިނުން ވަކިކުރުން" },
+  "optionDesc_commentExtra": { "message": "'\\n' ބޭނުންކޮށްގެން ލައިނުން ވަކިކުރުން" },
   "optionDesc_help": { "message": "ޑިސްޕްލޭ ހެލްޕް ސްކްރީން" },
   "optionDesc_version": { "message": "ވަރޝަން ނަންބަރު ދައްކާށެވެ" }
 }

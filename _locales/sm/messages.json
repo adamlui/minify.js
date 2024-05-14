@@ -37,7 +37,7 @@
   "optionDesc_quiet": { "message": "Suppress logging uma vagana ai mea sese" },
   "optionDesc_ignoreFiles": { "message": "Faʻamaumauga e faʻateʻaina ai le minification" },
   "optionDesc_commentMain": { "message": "Saunia se faamatalaga i le code minified" },
-  "optionDesc_commentExtra": { "message": "Eseese i le laina e faaaoga ai le \"\\n\"" },
+  "optionDesc_commentExtra": { "message": "Eseese i le laina e faaaoga ai le '\\n'" },
   "optionDesc_help": { "message": "Faaali atu le lau fesoasoani" },
   "optionDesc_version": { "message": "Faaali atu le numera o le lomiga" }
 }

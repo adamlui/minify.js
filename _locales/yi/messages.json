@@ -37,7 +37,7 @@
   "optionDesc_quiet": { "message": "פאַרשטיקן אַלע לאָגינג אַחוץ ערראָרס" },
   "optionDesc_ignoreFiles": { "message": "טעקעס צו ויסשליסן פון מיניפיקאַטיאָן" },
   "optionDesc_commentMain": { "message": "פאַרלייגן באַמערקונג צו מינאַפייד קאָד" },
-  "optionDesc_commentExtra": { "message": "באַזונדער דורך שורה ניצן &#39;\\n&#39;" },
+  "optionDesc_commentExtra": { "message": "באַזונדער דורך שורה ניצן '\\n'" },
   "optionDesc_help": { "message": "ווייַז הילף פאַרשטעלן" },
   "optionDesc_version": { "message": "ווייַזן ווערסיע נומער" }
 }
