@@ -28,7 +28,7 @@
   "inputPathDesc_main": { "message": "Veg til JavaScript-fílu ella leiðbeining, sum hevur JavaScript-fílar at minifisera" },
   "inputPathDesc_extra": { "message": "viðurskifti við verandi arbeiðsleiðara" },
   "outputPathDesc_main": { "message": "Veg til fílu ella leiðbeining, har minifiseraðar fílur verða goymdar" },
-  "outputPathDesc_extra": { "message": "í mun til upprunaliga staðsetingina av skránni (um ikki verður latin, verður MIN/brúkt)" },
+  "outputPathDesc_extra": { "message": "í mun til upprunaliga staðsetingina av skránni (um ikki verður latin, verður min/ brúkt)" },
   "optionDesc_dryRun": { "message": "Ikki at minka um skránna (ar), bara vísa, um tey verða viðgjørd" },
   "optionDesc_dotfolders": { "message": "Innleggja dotfoldarar í leiting av fílum" },
   "optionDesc_dotfiles": { "message": "Innlegg dotfiles í leiting av fílum" },

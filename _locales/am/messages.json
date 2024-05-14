@@ -28,7 +28,7 @@
   "inputPathDesc_main": { "message": "የጃቫስክሪፕት ፋይሎችን ወደሚቀነስበት የጃቫስክሪፕት ፋይል ወይም ማውጫ መንገድ" },
   "inputPathDesc_extra": { "message": "የአሁኑ የሥራ ዝርዝር" },
   "outputPathDesc_main": { "message": "የተቆራረጡ ፋይሎች ወደሚከማቹበት ፋይል ወይም ማውጫ መንገድ" },
-  "outputPathDesc_extra": { "message": "ከመጀመሪያው የፋይል አካባቢ አንፃር (ካልተሰጠ Min/ጥቅም ላይ ይውላል)" },
+  "outputPathDesc_extra": { "message": "ከመጀመሪያው የፋይል አካባቢ አንፃር (ካልተሰጠ min/ ጥቅም ላይ ይውላል)" },
   "optionDesc_dryRun": { "message": "በእውነቱ ፋይሉን(ቶች) አይቀንሱ ፣ እነሱ እንደሚከናወኑ ብቻ ያሳዩ" },
   "optionDesc_dotfolders": { "message": "የፋይል ፍለጋ ውስጥ dotfolders ያካትቱ" },
   "optionDesc_dotfiles": { "message": "ፋይል ፍለጋ ውስጥ Dotfiles ያካትቱ" },

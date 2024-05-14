@@ -28,7 +28,7 @@
   "inputPathDesc_main": { "message": "Sti til JavaScript-fil eller mappe, der indeholder JavaScript-filer, der skal komprimeres" },
   "inputPathDesc_extra": { "message": "i forhold til den aktuelle arbejdsmappe" },
   "outputPathDesc_main": { "message": "Sti til fil eller mappe, hvor minificerede filer gemmes" },
-  "outputPathDesc_extra": { "message": "i forhold til den oprindelige filplacering (hvis ikke angivet, bruges min/min)" },
+  "outputPathDesc_extra": { "message": "i forhold til den oprindelige filplacering (hvis ikke angivet, bruges min/)" },
   "optionDesc_dryRun": { "message": "Minificer faktisk ikke filen/filerne, bare vis, om de vil blive behandlet" },
   "optionDesc_dotfolders": { "message": "Medtag punktmapper i filsøgning" },
   "optionDesc_dotfiles": { "message": "Inkluder prikfiler i filsøgning" },

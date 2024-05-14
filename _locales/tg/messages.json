@@ -28,7 +28,7 @@
   "inputPathDesc_main": { "message": "Роҳча ба файли JavaScript ё феҳристи дорои файлҳои JavaScript барои минисатсия" },
   "inputPathDesc_extra": { "message": "относительно текущего каталога" },
   "outputPathDesc_main": { "message": "Роҳча ба файл ё феҳрист, ки дар он файлҳои миниётурашуда нигоҳ дошта мешаванд" },
-  "outputPathDesc_extra": { "message": "нисбат ба ҷойгиршавии файли аслӣ (агар пешниҳод нашуда бошад, min/истифода мешавад)" },
+  "outputPathDesc_extra": { "message": "нисбат ба ҷойгиршавии файли аслӣ (агар пешниҳод нашуда бошад, min/ истифода мешавад)" },
   "optionDesc_dryRun": { "message": "Оё дар ҳақиқат minify файл(ҳо), танҳо нишон агар онҳо коркард хоҳад шуд" },
   "optionDesc_dotfolders": { "message": "Дохил кардани ҷузвдонҳои нуқта дар ҷустуҷӯи файл" },
   "optionDesc_dotfiles": { "message": "Дар ҷустуҷӯи файл нуқтаҳоро дохил кунед" },

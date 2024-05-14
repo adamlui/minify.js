@@ -28,7 +28,7 @@
   "inputPathDesc_main": { "message": "Pater to file JavaScript or directory containing JavaScript files to minified" },
   "inputPathDesc_extra": { "message": "relantio altere opus" },
   "outputPathDesc_main": { "message": "Plicae ad tabularium quod minibus fichier deponantur" },
-  "outputPathDesc_extra": { "message": "relative to original file location (si non est, min/deveni)" },
+  "outputPathDesc_extra": { "message": "relative to original file location (si non est, min/ deveni)" },
   "optionDesc_dryRun": { "message": "Non definere file(s), justa showus, si illo esse obtinere" },
   "optionDesc_dotfolders": { "message": "Incula dotfolders in file search" },
   "optionDesc_dotfiles": { "message": "Integratione dotfiles in file search" },

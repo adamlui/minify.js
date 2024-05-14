@@ -28,7 +28,7 @@
   "inputPathDesc_main": { "message": "Pfad zu JavaScript-Datei oder Verzeichnis, das JavaScript-Dateien enthält, die minimiert werden sollen" },
   "inputPathDesc_extra": { "message": "relativ zum aktuellen Arbeitsverzeichnis" },
   "outputPathDesc_main": { "message": "Pfad zu Datei oder Verzeichnis, in dem minimierte Dateien gespeichert werden" },
-  "outputPathDesc_extra": { "message": "relativ zum ursprünglichen Dateispeicherort (falls nicht angegeben, wird min/verwendet)" },
+  "outputPathDesc_extra": { "message": "relativ zum ursprünglichen Dateispeicherort (falls nicht angegeben, wird min/ verwendet)" },
   "optionDesc_dryRun": { "message": "Verkleinern Sie die Datei(en) nicht wirklich, zeigen Sie einfach an, ob sie verarbeitet werden" },
   "optionDesc_dotfolders": { "message": "Punktordner in die Dateisuche einbeziehen" },
   "optionDesc_dotfiles": { "message": "Punktdateien in Dateisuche einbeziehen" },

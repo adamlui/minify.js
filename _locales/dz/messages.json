@@ -28,7 +28,7 @@
   "inputPathDesc_main": { "message": "JavaScript ཡིག་སྣོད་ ཡང་ན་ ཡིག་སྣོད་ནང་ལུ་ JavaScript ཡིག་སྣོད་ཚུ་ Minified འབད་ནི་ལུ་ལམ་" },
   "inputPathDesc_extra": { "message": "ད་ལྟོའི་འཆར་གཞི་ཚུ་ བསྐྱར་ཞིབ་འབད་" },
   "outputPathDesc_main": { "message": "ཡིག་སྣོད་དང་ ཡིག་སྣོད་ཚུ་ནང་ ཡིག་སྣོད་ཆུང་ཆུང་ཚུ་བཞག་སའི་ལམ་" },
-  "outputPathDesc_extra": { "message": "ཡིག་སྣོད་ངོ་མ་གི་ས་སྒོ་དང་འབྲེལ་ཡོད་ (མ་བྱིན་པ་ཅིན་ MIN/ ལག་ལེན་འཐབ་ཨིན།)" },
+  "outputPathDesc_extra": { "message": "ཡིག་སྣོད་ངོ་མ་གི་ས་སྒོ་དང་འབྲེལ་ཡོད་ (མ་བྱིན་པ་ཅིན་ min/ ལག་ལེན་འཐབ་ཨིན།)" },
   "optionDesc_dryRun": { "message": "ཁྱོད་ཀྱིས་ཡིག་སྣོད་ (ཚུ་) འདི་མ་ཉུང་བར་བཟོ་བ་ཅིན་ འདི་ཚུ་ལག་ལེན་འཐབ་ནི་ཨིན་ན་སྟོན་ནི་རྐྱངམ་གཅིག་ཨིན།" },
   "optionDesc_dotfolders": { "message": "ཡིག་སྣོད་འཚོལ་བའི་ནང་ dotfolders ཚུ་བཀོད།" },
   "optionDesc_dotfiles": { "message": "ཡིག་སྣོད་འཚོལ་བའི་ནང་ dotfiles ནང་བཙུགས་འབད།" },

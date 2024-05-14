@@ -28,7 +28,7 @@
   "inputPathDesc_main": { "message": "Pad na JavaScript-lêer of gids wat JavaScript-lêers bevat wat geminifiseer moet word" },
   "inputPathDesc_extra": { "message": "huidige werkende gids" },
   "outputPathDesc_main": { "message": "Pad na lêer of gids waar verkleinde lêers gestoor sal word" },
-  "outputPathDesc_extra": { "message": "relatief tot die oorspronklike lêer plek (indien nie verskaf, MIN/gebruik word)" },
+  "outputPathDesc_extra": { "message": "relatief tot die oorspronklike lêer plek (indien nie verskaf, min/ gebruik word)" },
   "optionDesc_dryRun": { "message": "Moenie die lêer(s) eintlik verklein nie, wys net of dit verwerk sal word" },
   "optionDesc_dotfolders": { "message": "Sluit dotgidse in lêersoektog in" },
   "optionDesc_dotfiles": { "message": "Sluit dotfiles in lêersoektog in" },
