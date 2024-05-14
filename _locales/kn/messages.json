@@ -4,7 +4,7 @@
   "prefix_error": { "message": "ದೋಷ" },
   "prefix_globalVer": { "message": "ಜಾಗತಿಕ ಆವೃತ್ತಿ" },
   "prefix_localVer": { "message": "ಸ್ಥಳೀಯ ಆವೃತ್ತಿ" },
-  "prefix_source": { "message": "ಮೂಲ " },
+  "prefix_source": { "message": "ಮೂಲ" },
   "error_notRecognized": { "message": "ಗುರುತಿಸಲಾಗಿಲ್ಲ" },
   "error_invalidURL": { "message": "Url ಸರಿಯಾಗಿಲ್ಲ" },
   "error_firstArgNotExist": { "message": "ಮೊದಲ ಆರ್ಗ್ಯುಮೆಂಟ್ ಅಸ್ತಿತ್ವದಲ್ಲಿರುವ ಫೈಲ್ ಅಥವಾ ಡೈರೆಕ್ಟರಿಯಾಗಿರಬಹುದು" },

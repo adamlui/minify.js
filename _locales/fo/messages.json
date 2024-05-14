@@ -14,7 +14,7 @@
   "info_filesToBeMinned": { "message": "Javascript-fílar, sum skulu verða minifiseraðir" },
   "info_noFilesWillBeMinned": { "message": "Eingin JavaScript-fíla verður minifiserað" },
   "info_minComplete": { "message": "Minifisering fullførd" },
-  "info_file": { "message": "Fíla " },
+  "info_file": { "message": "Fíla" },
   "info_mininified": { "message": "minifiserað" },
   "info_noFilesProcessed": { "message": "Ongar ómineraðar JavaScript-fílar viðgjørdar" },
   "info_failedToMinify": { "message": "tað er ikki so lætt at fáa" },

@@ -20,7 +20,7 @@
   "info_failedToMinify": { "message": "pa t 'kapab minifye/échec de" },
   "info_moreHelp": { "message": "Pou plis èd/Pour plus d '" },
   "info_visit": { "message": "vizite" },
-  "helpSection_usage": { "message": "usage/itilize/itilizasyon/utilisation " },
+  "helpSection_usage": { "message": "usage/itilize/itilizasyon/utilisation" },
   "helpSection_pathArgs": { "message": "Agiman Chemen" },
   "helpSection_flags": { "message": "Opsyon Boolean" },
   "helpSection_paramOptions": { "message": "Opsyon paramèt" },

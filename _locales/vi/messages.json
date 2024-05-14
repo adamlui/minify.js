@@ -6,7 +6,7 @@
   "prefix_localVer": { "message": "Phiên bản địa phương" },
   "prefix_source": { "message": "Nguồn" },
   "error_notRecognized": { "message": "không được công nhận" },
-  "error_invalidURL": { "message": "URL không hợp lệ " },
+  "error_invalidURL": { "message": "URL không hợp lệ" },
   "error_firstArgNotExist": { "message": "Đối số đầu tiên chỉ có thể là một tệp hoặc thư mục hiện có" },
   "error_doesNotExist": { "message": "\"Không tồn tại\"" },
   "info_validArgs": { "message": "Dưới đây là các đối số hợp lệ" },

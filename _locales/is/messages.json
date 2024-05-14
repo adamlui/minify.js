@@ -19,7 +19,7 @@
   "info_noFilesProcessed": { "message": "Engar óskráðar JavaScript skrár unnar" },
   "info_failedToMinify": { "message": "ekki tókst að lágmarka" },
   "info_moreHelp": { "message": "Fyrir frekari aðstoð" },
-  "info_visit": { "message": "Heimsókn " },
+  "info_visit": { "message": "Heimsókn" },
   "helpSection_usage": { "message": "Notkun" },
   "helpSection_pathArgs": { "message": "Slóðaviðföng" },
   "helpSection_flags": { "message": "Boole-valkostir" },

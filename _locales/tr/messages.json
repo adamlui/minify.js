@@ -39,5 +39,5 @@
   "optionDesc_commentMain": { "message": "Minified koda yorum ekle" },
   "optionDesc_commentExtra": { "message": "'\\n 'kullanarak satıra göre ayır" },
   "optionDesc_help": { "message": "Yardım ekranını görüntüle" },
-  "optionDesc_version": { "message": "Versiyon Numarası " }
+  "optionDesc_version": { "message": "Versiyon Numarası" }
 }

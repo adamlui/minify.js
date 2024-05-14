@@ -8,7 +8,7 @@
   "error_notRecognized": { "message": "ไม่ได้รับการยอมรับ" },
   "error_invalidURL": { "message": "URL ไม่ถูกต้อง" },
   "error_firstArgNotExist": { "message": "อาร์กิวเมนต์แรกต้องเป็นไฟล์หรือไดเรกทอรีที่มีอยู่เท่านั้น" },
-  "error_doesNotExist": { "message": " ไม่มี" },
+  "error_doesNotExist": { "message": "ไม่มี" },
   "info_validArgs": { "message": "อาร์กิวเมนต์ที่ถูกต้องอยู่ด้านล่าง" },
   "info_exampleValidCmd": { "message": "ตัวอย่างคำสั่งที่ถูกต้อง" },
   "info_filesToBeMinned": { "message": "ไฟล์จาวาสคริปต์ที่จะถูกย่อ" },

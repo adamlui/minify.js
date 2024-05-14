@@ -39,5 +39,5 @@
   "optionDesc_commentMain": { "message": "축소된 코드에 코멘트 추가" },
   "optionDesc_commentExtra": { "message": "'\\ n' 을 사용하여 라인으로 구분" },
   "optionDesc_help": { "message": "도움말 화면 표시" },
-  "optionDesc_version": { "message": "버전 넘버 보여주기 " }
+  "optionDesc_version": { "message": "버전 넘버 보여주기" }
 }

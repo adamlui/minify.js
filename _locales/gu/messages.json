@@ -20,7 +20,7 @@
   "info_failedToMinify": { "message": "ઘટાડવામાં નિષ્ફળ" },
   "info_moreHelp": { "message": "વધુ મદદ માટે" },
   "info_visit": { "message": "મુલાકાત" },
-  "helpSection_usage": { "message": "વપરાશ " },
+  "helpSection_usage": { "message": "વપરાશ" },
   "helpSection_pathArgs": { "message": "પાથ દલીલો" },
   "helpSection_flags": { "message": "બુલિયન વિકલ્પો" },
   "helpSection_paramOptions": { "message": "પરિમાણ વિકલ્પો" },

@@ -18,7 +18,7 @@
   "info_mininified": { "message": "Minified" },
   "info_noFilesProcessed": { "message": "未縮小のJavaScriptファイルは処理されませんでした" },
   "info_failedToMinify": { "message": "縮小に失敗しました" },
-  "info_moreHelp": { "message": "ヘルプをもっと読む " },
+  "info_moreHelp": { "message": "ヘルプをもっと読む" },
   "info_visit": { "message": "訪問" },
   "helpSection_usage": { "message": "Usage" },
   "helpSection_pathArgs": { "message": "パス引数" },
