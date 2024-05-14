@@ -36,7 +36,7 @@
   "optionDesc_noMangle": { "message": "మాంగ్లింగ్ పేర్లను నిలిపివేయండి" },
   "optionDesc_quiet": { "message": "లోపాలు మినహా అన్ని లాగింగ్ ‌ లను అణచివేయండి" },
   "optionDesc_ignoreFiles": { "message": "మినిఫికేషన్ నుండి మినహాయించాల్సిన ఫైళ్లు" },
-  "optionDesc_commentMain": { "message": "మినిఫైడ్ కోడ్ ‌ కు వ్యాఖ్యను సిద్ధం చేయండి" },
+  "optionDesc_commentMain": { "message": "మినిఫైడ్ కోడ్ ‌ కు హెడర్ వ్యాఖ్యను సిద్ధం చేయండి" },
   "optionDesc_commentExtra": { "message": "'\\n' ఉపయోగించి లైన్ వారీగా వేరు చేయండి" },
   "optionDesc_help": { "message": "సహాయక స్క్రీన్ ‌ ని ప్రదర్శించండి" },
   "optionDesc_version": { "message": "సంస్కరణ సంఖ్యను చూపించు" }

@@ -36,7 +36,7 @@
   "optionDesc_noMangle": { "message": "Dezactivați numele de manipulare" },
   "optionDesc_quiet": { "message": "Suprimați toate înregistrările, cu excepția erorilor" },
   "optionDesc_ignoreFiles": { "message": "Fișiere de exclus de la minimizare" },
-  "optionDesc_commentMain": { "message": "Prependați comentariul la codul minimizat" },
+  "optionDesc_commentMain": { "message": "Prependați comentariul antetului la codul minimizat" },
   "optionDesc_commentExtra": { "message": "Separați prin linie folosind '\\n'" },
   "optionDesc_help": { "message": "Afișați ecranul de ajutor" },
   "optionDesc_version": { "message": "Număr versiune" }

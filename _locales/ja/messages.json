@@ -36,7 +36,7 @@
   "optionDesc_noMangle": { "message": "名前の変更を無効にする" },
   "optionDesc_quiet": { "message": "エラーを除くすべてのロギングを抑制" },
   "optionDesc_ignoreFiles": { "message": "縮小から除外するファイル" },
-  "optionDesc_commentMain": { "message": "縮小されたコードにコメントを追加する" },
+  "optionDesc_commentMain": { "message": "縮小されたコードにヘッダーコメントを追加" },
   "optionDesc_commentExtra": { "message": "'\\n' を使用して行で区切ります" },
   "optionDesc_help": { "message": "ヘルプ画面を表示" },
   "optionDesc_version": { "message": "バージョン番号" }

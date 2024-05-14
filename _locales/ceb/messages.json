@@ -36,7 +36,7 @@
   "optionDesc_noMangle": { "message": "I-disable ang mga ngalan sa mangling" },
   "optionDesc_quiet": { "message": "Pugngan ang tanan nga pag-log gawas sa mga sayup" },
   "optionDesc_ignoreFiles": { "message": "Mga file nga dili iapil gikan sa minification" },
-  "optionDesc_commentMain": { "message": "Pag-andam sa komento sa minified code" },
+  "optionDesc_commentMain": { "message": "Pag-andam sa komentaryo sa header sa minified code" },
   "optionDesc_commentExtra": { "message": "Pagbulag pinaagi sa linya gamit ang '\\n'" },
   "optionDesc_help": { "message": "Ipakita ang screen sa tabang" },
   "optionDesc_version": { "message": "Ipakita ang numero sa bersyon" }

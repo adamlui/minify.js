@@ -36,7 +36,7 @@
   "optionDesc_noMangle": { "message": "ማንጋሊንግ ስሞችን ያሰናክሉ" },
   "optionDesc_quiet": { "message": "ከስህተቶች በስተቀር ሁሉንም የመግቢያዎች መሙላት" },
   "optionDesc_ignoreFiles": { "message": "የማዕድን ማውጫዎችን ለማስወገድ ፋይሎች" },
-  "optionDesc_commentMain": { "message": "ለአነስተኛ ኮድ አስተያየት ያዘጋጁ" },
+  "optionDesc_commentMain": { "message": "ለማዕድን ኮድ የርዕስ አስተያየት ያዘጋጁ" },
   "optionDesc_commentExtra": { "message": "'\\n' በመጠቀም መስመር በመለያየት" },
   "optionDesc_help": { "message": "የእገዛ ማያ ገጽ አሳይ" },
   "optionDesc_version": { "message": "የስሪት ቁጥርን አሳይ" }

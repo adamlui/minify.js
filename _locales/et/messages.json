@@ -36,7 +36,7 @@
   "optionDesc_noMangle": { "message": "Keela manglingunimed" },
   "optionDesc_quiet": { "message": "Tühista kogu logimine, välja arvatud vead" },
   "optionDesc_ignoreFiles": { "message": "Failid, mida minimeerimisest välja jätta" },
-  "optionDesc_commentMain": { "message": "Lisa kommentaar eelnevalt minimeeritud koodile" },
+  "optionDesc_commentMain": { "message": "Lisa päise kommentaar eelnevalt minimeeritud koodile" },
   "optionDesc_commentExtra": { "message": "Eralda reaga, kasutades '\\n'" },
   "optionDesc_help": { "message": "Abi ekraani kuvamine" },
   "optionDesc_version": { "message": "Näitab versiooni" }

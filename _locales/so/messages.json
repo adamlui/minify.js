@@ -36,7 +36,7 @@
   "optionDesc_noMangle": { "message": "Disable magacyada mangling" },
   "optionDesc_quiet": { "message": "Xannib dhammaan gelitaanka marka laga reebo khaladaadka" },
   "optionDesc_ignoreFiles": { "message": "Files in laga saaro minification" },
-  "optionDesc_commentMain": { "message": "Diyaarso faallo ku saabsan koodhka minified" },
+  "optionDesc_commentMain": { "message": "Diyaarso faallo header ah oo ku saabsan koodhka minified" },
   "optionDesc_commentExtra": { "message": "Kala sooc khadka adoo adeegsanaya '\\n'" },
   "optionDesc_help": { "message": "Muuji shaashadda caawinta" },
   "optionDesc_version": { "message": "Lambarka Nooca" }

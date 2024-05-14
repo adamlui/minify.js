@@ -36,7 +36,7 @@
   "optionDesc_noMangle": { "message": "Atspējot vārdu sakārtošanu" },
   "optionDesc_quiet": { "message": "Aizliegt visu reģistrēšanu, izņemot kļūdas" },
   "optionDesc_ignoreFiles": { "message": "Faili, kas jāizslēdz no minimizēšanas" },
-  "optionDesc_commentMain": { "message": "Pievienojiet komentāru samazinātajam kodam" },
+  "optionDesc_commentMain": { "message": "Pievienojiet galvenes komentāru samazinātajam kodam" },
   "optionDesc_commentExtra": { "message": "Atdalīt ar rindu, izmantojot \"\\n\"" },
   "optionDesc_help": { "message": "Parādīt palīdzības ekrānu" },
   "optionDesc_version": { "message": "Versijas numurs" }

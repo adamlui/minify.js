@@ -36,7 +36,7 @@
   "optionDesc_noMangle": { "message": "Disabilita nomi di mangling" },
   "optionDesc_quiet": { "message": "Elimina tutte le registrazioni ad eccezione degli errori" },
   "optionDesc_ignoreFiles": { "message": "File da escludere dalla minimizzazione" },
-  "optionDesc_commentMain": { "message": "Preponi il commento al codice minimizzato" },
+  "optionDesc_commentMain": { "message": "Preponi il commento dell'intestazione al codice minimizzato" },
   "optionDesc_commentExtra": { "message": "Separa per riga usando '\\n'" },
   "optionDesc_help": { "message": "Visualizza la schermata di aiuto" },
   "optionDesc_version": { "message": "Mostra il numero di versione" }

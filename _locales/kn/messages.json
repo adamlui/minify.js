@@ -36,7 +36,7 @@
   "optionDesc_noMangle": { "message": "ಮ್ಯಾಂಗ್ಲಿಂಗ್ ಹೆಸರುಗಳನ್ನು ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಿ" },
   "optionDesc_quiet": { "message": "ದೋಷಗಳನ್ನು ಹೊರತುಪಡಿಸಿ ಎಲ್ಲಾ ಲಾಗಿಂಗ್ ಅನ್ನು ನಿಗ್ರಹಿಸಿ" },
   "optionDesc_ignoreFiles": { "message": "ಗಣಿಗಾರಿಕೆಯಿಂದ ಹೊರಗಿಡಬೇಕಾದ ಫೈಲ್ ಗಳು" },
-  "optionDesc_commentMain": { "message": "ಮಿನಿಫೈಡ್ ಕೋಡ್ ಗೆ ಕಾಮೆಂಟ್ ಸಿದ್ಧಪಡಿಸಿ" },
+  "optionDesc_commentMain": { "message": "ಮಿನಿಫೈಡ್ ಕೋಡ್ ‌ ಗೆ ಹೆಡರ್ ಕಾಮೆಂಟ್ ಅನ್ನು ಸಿದ್ಧಪಡಿಸಿ" },
   "optionDesc_commentExtra": { "message": "'\\n' ಬಳಸಿ ಸಾಲಿನ ಪ್ರಕಾರ ಪ್ರತ್ಯೇಕಿಸಿ" },
   "optionDesc_help": { "message": "ಸಹಾಯ ಪರದೆಯನ್ನು ಪ್ರದರ್ಶಿಸಿ" },
   "optionDesc_version": { "message": "ಆವೃತ್ತಿ ಸಂಖ್ಯೆಯನ್ನು ತೋರಿಸಿ" }

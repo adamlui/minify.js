@@ -36,7 +36,7 @@
   "optionDesc_noMangle": { "message": "Parçalama adlarını devre dışı bırak" },
   "optionDesc_quiet": { "message": "Hatalar hariç tüm günlükleri bastır" },
   "optionDesc_ignoreFiles": { "message": "Küçültme dışında bırakılacak dosyalar" },
-  "optionDesc_commentMain": { "message": "Minified koda yorum ekle" },
+  "optionDesc_commentMain": { "message": "Başlık yorumunu küçültülmüş koda ön ekle" },
   "optionDesc_commentExtra": { "message": "'\\n 'kullanarak satıra göre ayır" },
   "optionDesc_help": { "message": "Yardım ekranını görüntüle" },
   "optionDesc_version": { "message": "Versiyon Numarası" }

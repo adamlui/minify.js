@@ -36,7 +36,7 @@
   "optionDesc_noMangle": { "message": "Onemogućite nazive mangiranja" },
   "optionDesc_quiet": { "message": "Obustavi sve zapisivanje osim pogrešaka" },
   "optionDesc_ignoreFiles": { "message": "Datoteke za isključivanje iz minifikacije" },
-  "optionDesc_commentMain": { "message": "Prependiraj komentar na umanjeni kôd" },
+  "optionDesc_commentMain": { "message": "Prependiraj komentar zaglavlja na umanjeni kôd" },
   "optionDesc_commentExtra": { "message": "Razdvoji linijom pomoću '\\n'" },
   "optionDesc_help": { "message": "Prikažite zaslon za pomoć" },
   "optionDesc_version": { "message": "Verzioniranje softvera" }

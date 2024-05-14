@@ -36,7 +36,7 @@
   "optionDesc_noMangle": { "message": "Te whakakore i nga ingoa mangling" },
   "optionDesc_quiet": { "message": "Tautoko i te logging katoa engari hapa" },
   "optionDesc_ignoreFiles": { "message": "Kōnae ki te whakakore i te minification" },
-  "optionDesc_commentMain": { "message": "Whakaritehia nga korero ki te waehere minified" },
+  "optionDesc_commentMain": { "message": "Whakaritehia nga korero matua ki te waehere minified" },
   "optionDesc_commentExtra": { "message": "Te wehewehe i te raina ma te whakamahi i te '\\n'" },
   "optionDesc_help": { "message": "Whakaatuhia te mata awhina" },
   "optionDesc_version": { "message": "Whakaatuhia te tau putanga" }

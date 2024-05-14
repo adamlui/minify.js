@@ -36,7 +36,7 @@
   "optionDesc_noMangle": { "message": "Desactivar nombres de manipulación" },
   "optionDesc_quiet": { "message": "Suprimir todos los registros excepto los errores" },
   "optionDesc_ignoreFiles": { "message": "Archivos a excluir de la minificación" },
-  "optionDesc_commentMain": { "message": "Anexar comentario al código minificado" },
+  "optionDesc_commentMain": { "message": "Anterior comentario de encabezado al código minificado" },
   "optionDesc_commentExtra": { "message": "Separar por línea usando '\\n'" },
   "optionDesc_help": { "message": "Mostrar pantalla de ayuda" },
   "optionDesc_version": { "message": "Mostrar el número de versión" }

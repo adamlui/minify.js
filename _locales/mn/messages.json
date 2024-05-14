@@ -36,7 +36,7 @@
   "optionDesc_noMangle": { "message": "Гаргах нэрийг идэвхгүй болгох" },
   "optionDesc_quiet": { "message": "Алдаанаас бусад бүх бүртгэлийг арилгах" },
   "optionDesc_ignoreFiles": { "message": "Суурилуулалтаас хасах файлууд" },
-  "optionDesc_commentMain": { "message": "Багцалсан код руу сэтгэгдэл бэлтгэх" },
+  "optionDesc_commentMain": { "message": "Зөвшөөрөгдсөн код руу толгой гарчгийг бэлтгэх" },
   "optionDesc_commentExtra": { "message": "'\\n' ашиглан мөрөөр тусгаарлана" },
   "optionDesc_help": { "message": "Тусламжийн дэлгэцийг харуулах" },
   "optionDesc_version": { "message": "Хувилбарын дугаар" }

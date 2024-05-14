@@ -36,7 +36,7 @@
   "optionDesc_noMangle": { "message": "मैंगलिंग नाम अक्षम करें" },
   "optionDesc_quiet": { "message": "त्रुटियों को छोड़कर सभी लॉगिंग को दबाएं" },
   "optionDesc_ignoreFiles": { "message": "मिनिफ़िकेशन से बाहर की जाने वाली फ़ाइलें" },
-  "optionDesc_commentMain": { "message": "कमेंट को मिनिफ़ाइड कोड में प्रीपेन्ड करें" },
+  "optionDesc_commentMain": { "message": "हेडर कमेंट को मिनिफ़ाइड कोड में प्रीपेन्ड करें" },
   "optionDesc_commentExtra": { "message": "'\\n 'का इस्तेमाल करके लाइन के हिसाब से अलग करें" },
   "optionDesc_help": { "message": "सहायता स्क्रीन दिखाएँ" },
   "optionDesc_version": { "message": "संस्करण संख्या" }

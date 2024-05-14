@@ -36,7 +36,7 @@
   "optionDesc_noMangle": { "message": "Inhabilita els noms de manipulació" },
   "optionDesc_quiet": { "message": "Suprimeix tot el registre, excepte els errors" },
   "optionDesc_ignoreFiles": { "message": "Fitxers a excloure de la minificació" },
-  "optionDesc_commentMain": { "message": "Afegeix el comentari al codi minificat" },
+  "optionDesc_commentMain": { "message": "Afegeix el comentari de la capçalera al codi minificat" },
   "optionDesc_commentExtra": { "message": "Separar per línia mitjançant '\\n'" },
   "optionDesc_help": { "message": "Mostra la pantalla d'ajuda" },
   "optionDesc_version": { "message": "Mostra el número de versió" }

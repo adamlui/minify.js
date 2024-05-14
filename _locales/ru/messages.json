@@ -36,7 +36,7 @@
   "optionDesc_noMangle": { "message": "Отключить искажающие имена" },
   "optionDesc_quiet": { "message": "Подавление всех журналов, кроме ошибок" },
   "optionDesc_ignoreFiles": { "message": "Файлы для исключения из минификации" },
-  "optionDesc_commentMain": { "message": "Добавить комментарий к минифицированному коду" },
+  "optionDesc_commentMain": { "message": "Добавить комментарий заголовка к минифицированному коду" },
   "optionDesc_commentExtra": { "message": "Разделяйте строкой с помощью '\\n'" },
   "optionDesc_help": { "message": "Показать экран помощи" },
   "optionDesc_version": { "message": "Показать сведения о версии" }

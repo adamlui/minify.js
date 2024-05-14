@@ -36,7 +36,7 @@
   "optionDesc_noMangle": { "message": "Оневозможи менување имиња" },
   "optionDesc_quiet": { "message": "Потисни ги сите евиденции освен грешките" },
   "optionDesc_ignoreFiles": { "message": "Датотеки што треба да се исклучат од минификацијата" },
-  "optionDesc_commentMain": { "message": "Испрати го коментарот на минимизиран код" },
+  "optionDesc_commentMain": { "message": "Препуштете го коментарот на заглавието на минимизиран код" },
   "optionDesc_commentExtra": { "message": "Одделете по ред со „\\n“" },
   "optionDesc_help": { "message": "Прикажи екран за помош" },
   "optionDesc_version": { "message": "Број на производител" }

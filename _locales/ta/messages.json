@@ -36,7 +36,7 @@
   "optionDesc_noMangle": { "message": "மேங்லிங் பெயர்களை முடக்கவும்" },
   "optionDesc_quiet": { "message": "பிழைகளைத் தவிர அனைத்து பதிவுகளையும் ஒடுக்கவும்" },
   "optionDesc_ignoreFiles": { "message": "சிற்றுண்டியிலிருந்து விலக்க வேண்டிய கோப்புகள்" },
-  "optionDesc_commentMain": { "message": "மினிஃபைட் குறியீட்டிற்கு கருத்து தெரிவிக்கவும்" },
+  "optionDesc_commentMain": { "message": "மினிஃபைட் குறியீட்டிற்கு தலைப்பு கருத்துரைகளை முன்கூட்டியே தயாரிக்கவும்" },
   "optionDesc_commentExtra": { "message": "'\\n' ஐப் பயன்படுத்தி வரிசையாகப் பிரிக்கவும்" },
   "optionDesc_help": { "message": "உதவித் திரையைக் காண்பி" },
   "optionDesc_version": { "message": "பதிப்பெண்" }

@@ -36,7 +36,7 @@
   "optionDesc_noMangle": { "message": "Afvirkja slöngunöfn" },
   "optionDesc_quiet": { "message": "Slökkva á öllum innskráningum nema villum" },
   "optionDesc_ignoreFiles": { "message": "Skrár sem á að útiloka frá námuvinnslu" },
-  "optionDesc_commentMain": { "message": "Prepend athugasemd til minified kóða" },
+  "optionDesc_commentMain": { "message": "Prepend athugasemd haus til minified kóða" },
   "optionDesc_commentExtra": { "message": "Aðskiljið með línu með '\\n'" },
   "optionDesc_help": { "message": "Birta hjálparskjá" },
   "optionDesc_version": { "message": "Útgáfunúmer" }

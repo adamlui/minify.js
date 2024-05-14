@@ -36,7 +36,7 @@
   "optionDesc_noMangle": { "message": "Nevek összevonásának letiltása" },
   "optionDesc_quiet": { "message": "Az összes naplózás letiltása a hibák kivételével" },
   "optionDesc_ignoreFiles": { "message": "Minifikációból kizárandó fájlok" },
-  "optionDesc_commentMain": { "message": "Hozzászólás előkészítése tömörített kódhoz" },
+  "optionDesc_commentMain": { "message": "Fejléc megjegyzés előkészítése tömörített kódra" },
   "optionDesc_commentExtra": { "message": "Elválasztás vonallal a '\\n' használatával" },
   "optionDesc_help": { "message": "Súgó képernyő megjelenítése" },
   "optionDesc_version": { "message": "kiírja a verziószámot" }

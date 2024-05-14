@@ -36,7 +36,7 @@
   "optionDesc_noMangle": { "message": "Nomlarni o'zgartirishni o'chirib qo'ying" },
   "optionDesc_quiet": { "message": "Xatolardan tashqari barcha jurnallarni bostirish" },
   "optionDesc_ignoreFiles": { "message": "Kichiklashtirishdan istisno qilinadigan fayllar" },
-  "optionDesc_commentMain": { "message": "Kichkinalashtirilgan kodga sharh qo'shing" },
+  "optionDesc_commentMain": { "message": "Kichiklashtirilgan kodga sarlavha izohini qo'shing" },
   "optionDesc_commentExtra": { "message": "“\\n” yordamida qator boʻyicha ajrating" },
   "optionDesc_help": { "message": "Yordam ekranini ko'rsatish" },
   "optionDesc_version": { "message": "Boʻsh joy" }

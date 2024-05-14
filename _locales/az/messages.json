@@ -36,7 +36,7 @@
   "optionDesc_noMangle": { "message": "Manqrinq adlarını deaktiv et" },
   "optionDesc_quiet": { "message": "Xətalardan başqa bütün girişləri bağlayın" },
   "optionDesc_ignoreFiles": { "message": "Minimallaşdırmanı istisna etmək üçün fayllar" },
-  "optionDesc_commentMain": { "message": "Minimum kod üçün şərh hazırlayın" },
+  "optionDesc_commentMain": { "message": "Minimum kod üçün başlıq şərhi hazırlayın" },
   "optionDesc_commentExtra": { "message": "'\\n' sətrindən istifadə edərək ayırın" },
   "optionDesc_help": { "message": "Yardım ekranını göstər" },
   "optionDesc_version": { "message": "Versiya nömrəsini göstər" }

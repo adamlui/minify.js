@@ -36,7 +36,7 @@
   "optionDesc_noMangle": { "message": "Mangelnde Namen deaktivieren" },
   "optionDesc_quiet": { "message": "Alle Protokolle mit Ausnahme von Fehlern unterdrücken" },
   "optionDesc_ignoreFiles": { "message": "Von der Minifizierung auszuschließende Dateien" },
-  "optionDesc_commentMain": { "message": "Kommentar dem minimierten Code voranstellen" },
+  "optionDesc_commentMain": { "message": "Header-Kommentar vor dem minimierten Code einfügen" },
   "optionDesc_commentExtra": { "message": "Zeilenweise trennen mit '\\n'" },
   "optionDesc_help": { "message": "Hilfebildschirm anzeigen" },
   "optionDesc_version": { "message": "Versionsnummer anzeigen" }

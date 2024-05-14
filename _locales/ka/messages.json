@@ -36,7 +36,7 @@
   "optionDesc_noMangle": { "message": "Მანაქანის სახელების გამორთვა" },
   "optionDesc_quiet": { "message": "Ყველა ჟურნალის ჩახშობა, გარდა შეცდომებისა" },
   "optionDesc_ignoreFiles": { "message": "Მინიფიკაციიდან გამოსარიცხი ფაილები" },
-  "optionDesc_commentMain": { "message": "Მინიფიცირებულ კოდზე კომენტარის მომზადება" },
+  "optionDesc_commentMain": { "message": "Სათაურის წინასწარი კომენტარი დაურთეთ მინიფიცირებულ კოდს" },
   "optionDesc_commentExtra": { "message": "Გამოყავით ხაზი '\\n' -ის გამოყენებით" },
   "optionDesc_help": { "message": "Დახმარების ეკრანის ჩვენება" },
   "optionDesc_version": { "message": "ვერსიის ნომერი" }

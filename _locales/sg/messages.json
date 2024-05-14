@@ -36,7 +36,7 @@
   "optionDesc_noMangle": { "message": "A yeke wara iri ti azo so ayeke na yâ ti mbeni kete kete kete kete kete kete" },
   "optionDesc_quiet": { "message": "A yeke kanga lege na azo kue ti sara ye na lege ni ape me a yeke gi na lege ni" },
   "optionDesc_ignoreFiles": { "message": "A yeke na lege ti a-article so a sû na mbeti ti a-article so a sû na mbeti ti" },
-  "optionDesc_commentMain": { "message": "Article précédent Code minéraire" },
+  "optionDesc_commentMain": { "message": "Prepend header comment na minzi kode" },
   "optionDesc_commentExtra": { "message": "Kangbi ni na lege ti ligne na lege ti 'n'" },
   "optionDesc_help": { "message": "A yeke mû maboko na azo ti bâ ndo na ndo ti écr" },
   "optionDesc_version": { "message": "Nombre de la version" }

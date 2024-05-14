@@ -36,7 +36,7 @@
   "optionDesc_noMangle": { "message": "Zakázat mandlování názvů" },
   "optionDesc_quiet": { "message": "Potlačit veškeré protokolování kromě chyb" },
   "optionDesc_ignoreFiles": { "message": "Soubory, které chcete vyloučit z minifikace" },
-  "optionDesc_commentMain": { "message": "Předpřipravit komentář ke zmenšenému kódu" },
+  "optionDesc_commentMain": { "message": "Předložit komentář záhlaví ke zmenšenému kódu" },
   "optionDesc_commentExtra": { "message": "Oddělit čárou pomocí '\\n'" },
   "optionDesc_help": { "message": "Zobrazit obrazovku nápovědy" },
   "optionDesc_version": { "message": "Zobrazí číslo verze" }

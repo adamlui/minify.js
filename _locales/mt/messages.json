@@ -36,7 +36,7 @@
   "optionDesc_noMangle": { "message": "Itfi l-ismijiet li ma jidhrux" },
   "optionDesc_quiet": { "message": "Waqqaf il-logging kollu ħlief l-iżbalji" },
   "optionDesc_ignoreFiles": { "message": "Fajls li għandhom jiġu esklużi mill-minifikazzjoni" },
-  "optionDesc_commentMain": { "message": "Ipprepara l-kumment għall-kodiċi minimizzat" },
+  "optionDesc_commentMain": { "message": "Ipprepara l-kumment tal-intestatura għall-kodiċi minifikat" },
   "optionDesc_commentExtra": { "message": "Issepara skont il-linja billi tuża '\\n'" },
   "optionDesc_help": { "message": "Uri l-iskrin tal-għajnuna" },
   "optionDesc_version": { "message": "Version Number" }

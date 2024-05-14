@@ -36,7 +36,7 @@
   "optionDesc_noMangle": { "message": "Wyłącz manipulowanie nazwami" },
   "optionDesc_quiet": { "message": "Wyłącz wszystkie rejestrowanie z wyjątkiem błędów" },
   "optionDesc_ignoreFiles": { "message": "Pliki do wykluczenia z minifikacji" },
-  "optionDesc_commentMain": { "message": "Przed dodaniem komentarza do zminimalizowanego kodu" },
+  "optionDesc_commentMain": { "message": "Przedrostek komentarza nagłówka do minifikowanego kodu" },
   "optionDesc_commentExtra": { "message": "Oddziel wierszem za pomocą '\\n'" },
   "optionDesc_help": { "message": "Wyświetl ekran pomocy" },
   "optionDesc_version": { "message": "Podaje numer wersji programu" }

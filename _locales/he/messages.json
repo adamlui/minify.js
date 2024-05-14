@@ -36,7 +36,7 @@
   "optionDesc_noMangle": { "message": "השבתת שמות הרסניים" },
   "optionDesc_quiet": { "message": "דיכוי כל רישומי הרישום למעט שגיאות" },
   "optionDesc_ignoreFiles": { "message": "קבצים שלא ייכללו במיניפיקציה" },
-  "optionDesc_commentMain": { "message": "הוסף הערה לקוד ממוזער" },
+  "optionDesc_commentMain": { "message": "ערוך הערת כותרת לקוד ממוזער" },
   "optionDesc_commentExtra": { "message": "הפרד לפי שורה באמצעות '\\n'" },
   "optionDesc_help": { "message": "הצג מסך עזרה" },
   "optionDesc_version": { "message": "גרסה" }

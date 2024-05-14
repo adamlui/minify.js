@@ -36,7 +36,7 @@
   "optionDesc_noMangle": { "message": "Mangling නම් අක් ‍ රීය කරන්න" },
   "optionDesc_quiet": { "message": "සියලු පිවිසුම් යටපත් කරන්න දෝෂ හැර" },
   "optionDesc_ignoreFiles": { "message": "අවමකරණයෙන් බැහැර කිරීමට ගොනු" },
-  "optionDesc_commentMain": { "message": "කෙටි කළ කේතයට අදහස් දැක්වීම සූදානම් කරන්න" },
+  "optionDesc_commentMain": { "message": "ශීර්ෂක අදහස් minified code වෙත යොමු කරන්න" },
   "optionDesc_commentExtra": { "message": "'\\n' භාවිතයෙන් පේළියෙන් වෙන් කරන්න" },
   "optionDesc_help": { "message": "සහාය තිරය පෙන්වන්න" },
   "optionDesc_version": { "message": "වෙළුම අංකය" }

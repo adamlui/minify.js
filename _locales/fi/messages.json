@@ -36,7 +36,7 @@
   "optionDesc_noMangle": { "message": "Poista mangling-nimet käytöstä" },
   "optionDesc_quiet": { "message": "Poista kaikki kirjaukset paitsi virheet" },
   "optionDesc_ignoreFiles": { "message": "Minifikaatiosta poistettavat tiedostot" },
-  "optionDesc_commentMain": { "message": "Lähetä kommentti alustavasti pienennettyyn koodiin" },
+  "optionDesc_commentMain": { "message": "Lisää otsikon kommentti pienennettyyn koodiin" },
   "optionDesc_commentExtra": { "message": "Erota rivillä käyttämällä '\\n'" },
   "optionDesc_help": { "message": "Näytä ohjenäyttö" },
   "optionDesc_version": { "message": "Näyttää versionumeron" }

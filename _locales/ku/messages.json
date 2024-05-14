@@ -36,7 +36,7 @@
   "optionDesc_noMangle": { "message": "Navên manglingê neçalak bikin" },
   "optionDesc_quiet": { "message": "Hemî têketinê ji bilî xeletiyan bişkînin" },
   "optionDesc_ignoreFiles": { "message": "Pelên ku ji kêmbûnê têne derxistin" },
-  "optionDesc_commentMain": { "message": "Şîrovekirinê li koda kêmkirî amade bikin" },
+  "optionDesc_commentMain": { "message": "Şîroveya sernivîsê li koda kêmkirî amade bike" },
   "optionDesc_commentExtra": { "message": "Bi rêzê veqetînin bi bikaranîna '\\n'" },
   "optionDesc_help": { "message": "Dîmendera alîkariyê nîşan bide" },
   "optionDesc_version": { "message": "IRQ" }

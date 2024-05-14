@@ -36,7 +36,7 @@
   "optionDesc_noMangle": { "message": "Deaktiver mangling af navne" },
   "optionDesc_quiet": { "message": "Undertrykke al logning undtagen fejl" },
   "optionDesc_ignoreFiles": { "message": "Filer, der skal udelukkes fra minificering" },
-  "optionDesc_commentMain": { "message": "Forudindsæt kommentar til minificeret kode" },
+  "optionDesc_commentMain": { "message": "Forudindsæt header-kommentar til minificeret kode" },
   "optionDesc_commentExtra": { "message": "Adskil med linje ved hjælp af '\\n'" },
   "optionDesc_help": { "message": "Vis hjælpeskærm" },
   "optionDesc_version": { "message": "Vis versionsnummer" }

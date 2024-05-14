@@ -36,7 +36,7 @@
   "optionDesc_noMangle": { "message": "Mangelen Nimm auszeschalten" },
   "optionDesc_quiet": { "message": "Ënnerdréckt all Umeldung ausser Feeler" },
   "optionDesc_ignoreFiles": { "message": "Dateien aus der Minifikatioun auszeschléissen" },
-  "optionDesc_commentMain": { "message": "Kommentar zu Minified Code schreiben" },
+  "optionDesc_commentMain": { "message": "Prevent Header Kommentar zu Minified Code" },
   "optionDesc_commentExtra": { "message": "Trennt no Linn mat '\\n'" },
   "optionDesc_help": { "message": "Hëllefsbildschierm uweisen" },
   "optionDesc_version": { "message": "Versiounsnummer uweisen" }

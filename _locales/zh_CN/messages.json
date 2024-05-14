@@ -36,7 +36,7 @@
   "optionDesc_noMangle": { "message": "禁用修饰名称" },
   "optionDesc_quiet": { "message": "禁止所有日志记录，错误除外" },
   "optionDesc_ignoreFiles": { "message": "从缩小中排除的文件" },
-  "optionDesc_commentMain": { "message": "在缩小的代码前添加注释" },
+  "optionDesc_commentMain": { "message": "将页眉注释前置到缩小的代码" },
   "optionDesc_commentExtra": { "message": "使用 '\\n' 按行分隔" },
   "optionDesc_help": { "message": "显示帮助屏幕" },
   "optionDesc_version": { "message": "显示版本号" }

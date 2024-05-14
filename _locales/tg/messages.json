@@ -36,7 +36,7 @@
   "optionDesc_noMangle": { "message": "Ғайрифаъол кардани номҳои mangling" },
   "optionDesc_quiet": { "message": "Ғайри хатогӣ ҳамаи қайдкуниҳоро пахш кунед" },
   "optionDesc_ignoreFiles": { "message": "Файлҳо барои истисно кардан аз минимализатсия" },
-  "optionDesc_commentMain": { "message": "Тайёр кардани шарҳ ба коди хурдшуда" },
+  "optionDesc_commentMain": { "message": "Name" },
   "optionDesc_commentExtra": { "message": "Ҷудо кардан аз рӯи хат бо истифодаи '\\n'" },
   "optionDesc_help": { "message": "Намоиши экрани кӯмак" },
   "optionDesc_version": { "message": "Номер производителя" }

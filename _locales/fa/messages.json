@@ -36,7 +36,7 @@
   "optionDesc_noMangle": { "message": "غیرفعال کردن نام های مخفی" },
   "optionDesc_quiet": { "message": "همه گزارشها به جز خطاها را سرکوب کنید" },
   "optionDesc_ignoreFiles": { "message": "فشرده سازی جاوا" },
-  "optionDesc_commentMain": { "message": "نظر را به کد کوچک شده اضافه کنید" },
+  "optionDesc_commentMain": { "message": "نظر سرصفحه را به کد کوچک شده اضافه کنید" },
   "optionDesc_commentExtra": { "message": "جدا کردن با خط با استفاده از  '\\n'" },
   "optionDesc_help": { "message": "نمایش صفحه راهنما" },
   "optionDesc_version": { "message": "نمایش شماره نسخه" }

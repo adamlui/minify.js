@@ -36,7 +36,7 @@
   "optionDesc_noMangle": { "message": "Vala amagama okungcola" },
   "optionDesc_quiet": { "message": "Cima konke ukungena ngaphandle kweempazamo" },
   "optionDesc_ignoreFiles": { "message": "Iifayile ezingabandakanywa ekunciphiseni" },
-  "optionDesc_commentMain": { "message": "Lungisa amagqabantshintshi kwikhowudi encitshisiweyo" },
+  "optionDesc_commentMain": { "message": "Lungisa amagqabantshintshi entloko kwikhowudi encitshisiweyo" },
   "optionDesc_commentExtra": { "message": "Yahlula ngomgca usebenzisa '\\n'" },
   "optionDesc_help": { "message": "Bonisa isikrini soncedo" },
   "optionDesc_version": { "message": "Inani Loguqulelo lomsebenzi" }

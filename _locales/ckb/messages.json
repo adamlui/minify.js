@@ -36,7 +36,7 @@
   "optionDesc_noMangle": { "message": "ناوی mangling لەکاربخە" },
   "optionDesc_quiet": { "message": "هەموو تۆمارکردنێک سەرکوت بکە جگە لە هەڵەکان" },
   "optionDesc_ignoreFiles": { "message": "فایلەکان بۆ دەرکردن لە بچووککردنەوە" },
-  "optionDesc_commentMain": { "message": "پێش کۆمێنت دابنێ بۆ کۆدی بچووککراو" },
+  "optionDesc_commentMain": { "message": "زیادکردنی هاوپۆل بۆ Minified Code" },
   "optionDesc_commentExtra": { "message": "بە بەکارهێنانی '\\n' بە دێڕ جیا بکەرەوە." },
   "optionDesc_help": { "message": "شاشەی یارمەتی پیشان بدە" },
   "optionDesc_version": { "message": "ژمارەی وەشانی پیشان بدە" }

@@ -36,7 +36,7 @@
   "optionDesc_noMangle": { "message": "Манглинг атауларын өшіру" },
   "optionDesc_quiet": { "message": "Қателерден басқа барлық жүйеге кіруді болдырмау" },
   "optionDesc_ignoreFiles": { "message": "Минимализациядан шығарылатын файлдар" },
-  "optionDesc_commentMain": { "message": "Пікірді минималды кодқа дайындаңыз" },
+  "optionDesc_commentMain": { "message": "Тақырып түсініктемесін минималды кодқа дайындаңыз" },
   "optionDesc_commentExtra": { "message": "'\\n' көмегімен сызық бойынша бөлу" },
   "optionDesc_help": { "message": "Анықтама экранын көрсету" },
   "optionDesc_version": { "message": "Нұсқасының нөмірі" }

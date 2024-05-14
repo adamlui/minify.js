@@ -36,7 +36,7 @@
   "optionDesc_noMangle": { "message": "Malebligi mistraktajn nomojn" },
   "optionDesc_quiet": { "message": "Subpremi ĉiujn registradojn krom eraroj" },
   "optionDesc_ignoreFiles": { "message": "Dosieroj por ekskludi de minifikado" },
-  "optionDesc_commentMain": { "message": "Antaŭenigi komenton al minifiksa kodo" },
+  "optionDesc_commentMain": { "message": "@ info: whatsthis" },
   "optionDesc_commentExtra": { "message": "Apartigi per linio uzante '\\n'" },
   "optionDesc_help": { "message": "Montri helpekranon" },
   "optionDesc_version": { "message": "Nombro de Versio" }

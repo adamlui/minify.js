@@ -36,7 +36,7 @@
   "optionDesc_noMangle": { "message": "Snifel ismawen n tmaziɣt" },
   "optionDesc_quiet": { "message": "Sizdeg akk tuccḍiwin anagar tuccḍiwin" },
   "optionDesc_ignoreFiles": { "message": "Isebtar i yellan ddaw-a sɛan aseɣwen ɣer Minification" },
-  "optionDesc_commentMain": { "message": "Aheggi amagrad i uḍris aneggaru" },
+  "optionDesc_commentMain": { "message": "Aheggi amagrad amezwaru i uḍris n uḍebsi" },
   "optionDesc_commentExtra": { "message": "Tags relatifs à '\\n'" },
   "optionDesc_help": { "message": "Sken allen n tallelt" },
   "optionDesc_version": { "message": "Sken uṭṭun n usebter" }

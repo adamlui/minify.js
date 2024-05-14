@@ -36,7 +36,7 @@
   "optionDesc_noMangle": { "message": "Адключыць скасаванне імёнаў" },
   "optionDesc_quiet": { "message": "Спыніць усе журналы, акрамя памылак" },
   "optionDesc_ignoreFiles": { "message": "Файлы, якія трэба выключыць з мінімізацыі" },
-  "optionDesc_commentMain": { "message": "Падрыхтаваць каментар да мінімальнага кода" },
+  "optionDesc_commentMain": { "message": "Падрыхтаваць каментар загалоўка да мінімальнага кода" },
   "optionDesc_commentExtra": { "message": "Аддзяліць па радку з дапамогай '\\n'" },
   "optionDesc_help": { "message": "Экран даведкі для адлюстравання" },
   "optionDesc_version": { "message": "Наяўныя экраны" }

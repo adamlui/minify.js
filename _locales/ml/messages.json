@@ -36,7 +36,7 @@
   "optionDesc_noMangle": { "message": "മാങ്‌ലിംഗ് പേരുകൾ അപ്രാപ്തമാക്കുക" },
   "optionDesc_quiet": { "message": "പിശകുകൾ ഒഴികെ എല്ലാ ലോഗിംഗും അടിച്ചമർത്തുക" },
   "optionDesc_ignoreFiles": { "message": "മിനിഫിക്കേഷനിൽ നിന്ന് ഒഴിവാക്കേണ്ട ഫയലുകൾ" },
-  "optionDesc_commentMain": { "message": "മിനിഫൈഡ് കോഡിലേക്ക് അഭിപ്രായം തയ്യാറാക്കുക" },
+  "optionDesc_commentMain": { "message": "മിനിഫൈഡ് കോഡിലേക്ക് ഹെഡർ അഭിപ്രായം മുൻകൂട്ടി തയ്യാറാക്കുക" },
   "optionDesc_commentExtra": { "message": "'\\n' ഉപയോഗിച്ച് ലൈൻ അനുസരിച്ച് വേർതിരിക്കുക" },
   "optionDesc_help": { "message": "സഹായ സ്ക്രീൻ പ്രദർശിപ്പിക്കുക" },
   "optionDesc_version": { "message": "വില്‍പ്പനക്കാരനുള്ള സൂചകം" }

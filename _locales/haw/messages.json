@@ -36,7 +36,7 @@
   "optionDesc_noMangle": { "message": "Hoʻopau i nā inoa mangling" },
   "optionDesc_quiet": { "message": "Kāohi i ka hoʻopaʻa inoa a pau koe nā hewa" },
   "optionDesc_ignoreFiles": { "message": "ʻO nā faila e kāpae ʻia mai ka hōʻemi ʻana" },
-  "optionDesc_commentMain": { "message": "E hoʻomaka i ka manaʻo i ke code i hoʻemi ʻia" },
+  "optionDesc_commentMain": { "message": "E hoʻomākaukau i ka manaʻo poʻomanaʻo i ke code liʻiliʻi" },
   "optionDesc_commentExtra": { "message": "E hoʻokaʻawale i ka laina me ka '\\n'" },
   "optionDesc_help": { "message": "Hōʻike i ka pale kōkua" },
   "optionDesc_version": { "message": "Hōʻike i ka helu mana" }

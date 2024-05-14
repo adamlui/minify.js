@@ -36,7 +36,7 @@
   "optionDesc_noMangle": { "message": "Kuremadza mangling mazita" },
   "optionDesc_quiet": { "message": "Dzvinyirira kutema matanda ese kunze kwekukanganisa" },
   "optionDesc_ignoreFiles": { "message": "Mafaira ekuti asabatanidzwe kubva mukucherechedzwa" },
-  "optionDesc_commentMain": { "message": "Gadzirira kutaura kune minified code" },
+  "optionDesc_commentMain": { "message": "Prepend header kutaura kuti minified remitemo" },
   "optionDesc_commentExtra": { "message": "Paradzanisa nemutsara uchishandisa '\\n'" },
   "optionDesc_help": { "message": "Ratidza chidzitiro chekubatsira" },
   "optionDesc_version": { "message": "Ratidza nhamba yeshanduro" }

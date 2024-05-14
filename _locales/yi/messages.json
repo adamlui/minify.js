@@ -36,7 +36,7 @@
   "optionDesc_noMangle": { "message": "דיסייבאַל מאַנגלינג נעמען" },
   "optionDesc_quiet": { "message": "פאַרשטיקן אַלע לאָגינג אַחוץ ערראָרס" },
   "optionDesc_ignoreFiles": { "message": "טעקעס צו ויסשליסן פון מיניפיקאַטיאָן" },
-  "optionDesc_commentMain": { "message": "פאַרלייגן באַמערקונג צו מינאַפייד קאָד" },
+  "optionDesc_commentMain": { "message": "פּרעפּענד כעדער באַמערקונג צו מינאַפייד קאָד" },
   "optionDesc_commentExtra": { "message": "באַזונדער דורך שורה ניצן '\\n'" },
   "optionDesc_help": { "message": "ווייַז הילף פאַרשטעלן" },
   "optionDesc_version": { "message": "ווייַזן ווערסיע נומער" }

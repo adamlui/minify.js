@@ -36,7 +36,7 @@
   "optionDesc_noMangle": { "message": "មិនអនុញ្ញាតឲ្យមានឈ្មោះបោកបញ្ឆោត" },
   "optionDesc_quiet": { "message": "បង្ក្រាបការកាប់ឈើទាំងអស់លើកលែងតែកំហុស" },
   "optionDesc_ignoreFiles": { "message": "ឯកសារដែលត្រូវដកចេញពី minification" },
-  "optionDesc_commentMain": { "message": "ផ្ញើមតិយោបល់ជាមុនទៅកូដដែលបានបង្រួមអប្បបរមា" },
+  "optionDesc_commentMain": { "message": "Prepend header comment to minified code" },
   "optionDesc_commentExtra": { "message": "បំបែកតាមបន្ទាត់ដោយប្រើ '\\n'" },
   "optionDesc_help": { "message": "បង្ហាញអេក្រង់ជំនួយ" },
   "optionDesc_version": { "message": "បង្ហាញលេខកំណែ" }

@@ -36,7 +36,7 @@
   "optionDesc_noMangle": { "message": "Lemaza majina ya mikoko" },
   "optionDesc_quiet": { "message": "Zima ukataji wote wa magogo isipokuwa hitilafu" },
   "optionDesc_ignoreFiles": { "message": "Mafaili ya kujiondoa kwenye uchanganuzi" },
-  "optionDesc_commentMain": { "message": "Andaa maoni kwenye msimbo uliopunguzwa" },
+  "optionDesc_commentMain": { "message": "Andaa maoni ya kichwa kwenye msimbo uliopunguzwa" },
   "optionDesc_commentExtra": { "message": "Tenganisha kwa mstari kwa kutumia '\\n'" },
   "optionDesc_help": { "message": "Onyesha skrini ya usaidizi" },
   "optionDesc_version": { "message": "Onyesha nambari ya toleo" }

@@ -36,7 +36,7 @@
   "optionDesc_noMangle": { "message": "Απενεργοποίηση παραμορφωτικών ονομάτων" },
   "optionDesc_quiet": { "message": "Καταργήστε όλες τις καταγραφές εκτός από τα σφάλματα" },
   "optionDesc_ignoreFiles": { "message": "Αρχεία προς εξαίρεση από την ελαχιστοποίηση" },
-  "optionDesc_commentMain": { "message": "Προετοιμασία σχολίου σε ελαχιστοποιημένο κωδικό" },
+  "optionDesc_commentMain": { "message": "Προετοιμασία σχολίου κεφαλίδας σε ελαχιστοποιημένο κώδικα" },
   "optionDesc_commentExtra": { "message": "Διαχωρίστε με βάση τη γραμμή χρησιμοποιώντας το '\\n'" },
   "optionDesc_help": { "message": "Εμφάνιση οθόνης βοήθειας" },
   "optionDesc_version": { "message": "Αριθμός έκδοσης" }

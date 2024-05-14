@@ -36,7 +36,7 @@
   "optionDesc_noMangle": { "message": "मङ्गलिंग नामहरू अक्षम गर्नुहोस्" },
   "optionDesc_quiet": { "message": "त्रुटिहरू बाहेक सबै लगिङलाई दबाउनुहोस्" },
   "optionDesc_ignoreFiles": { "message": "मिनिफिकेसनबाट बहिष्कृत गर्नुपर्ने फाइलहरू" },
-  "optionDesc_commentMain": { "message": "टिप्पणीलाई मिनीफाइड कोडमा पठाउनुहोस्" },
+  "optionDesc_commentMain": { "message": "सानो कोडमा हेडर टिप्पणी पठाउनुहोस्" },
   "optionDesc_commentExtra": { "message": "'\\ n 'प्रयोग गरेर लाइन अनुसार छुट्याउनुहोस्" },
   "optionDesc_help": { "message": "मद्दत स्क्रिन प्रदर्शन गर्नुहोस्" },
   "optionDesc_version": { "message": "à¤ªà¥à¤°à¤¦à¤°à¥à¤¶à¤¨à¤à¥ à¤¨à¤¾à¤®" }

@@ -36,7 +36,7 @@
   "optionDesc_noMangle": { "message": "Non mangonmen ki enfim" },
   "optionDesc_quiet": { "message": "Siprime tout antre eksepte erè" },
   "optionDesc_ignoreFiles": { "message": "Fichye pou eskli nan minifikasyon" },
-  "optionDesc_commentMain": { "message": "Prepand kòmantè nan kòd minifye/Prepand commentaires à le code" },
+  "optionDesc_commentMain": { "message": "Prepand kòmantè header nan kòd minifye" },
   "optionDesc_commentExtra": { "message": "Separe pa liy lè l sèvi avèk '\\n'" },
   "optionDesc_help": { "message": "Montre ekran èd" },
   "optionDesc_version": { "message": "Nimewo vèsyon" }

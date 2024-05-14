@@ -36,7 +36,7 @@
   "optionDesc_noMangle": { "message": "Desactivar os nomes de mangle" },
   "optionDesc_quiet": { "message": "Suprimir todo o rexistro agás erros" },
   "optionDesc_ignoreFiles": { "message": "Ficheiros para excluír da minificación" },
-  "optionDesc_commentMain": { "message": "Prepend comment to código minificado" },
+  "optionDesc_commentMain": { "message": "Engadir o comentario da cabeceira ao código minificado" },
   "optionDesc_commentExtra": { "message": "Separar por liña usando '\\n'" },
   "optionDesc_help": { "message": "Mostrar a pantalla de axuda" },
   "optionDesc_version": { "message": "Número de versión" }

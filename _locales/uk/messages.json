@@ -36,7 +36,7 @@
   "optionDesc_noMangle": { "message": "Вимкнути каліцтво імен" },
   "optionDesc_quiet": { "message": "Придушити всі журнали, крім помилок" },
   "optionDesc_ignoreFiles": { "message": "Файли, які потрібно виключити з мініфікації" },
-  "optionDesc_commentMain": { "message": "Додати коментар до мініфікованого коду" },
+  "optionDesc_commentMain": { "message": "Додати коментар заголовка до мініфікованого коду" },
   "optionDesc_commentExtra": { "message": "Відокремте за рядком, використовуючи '\\n'" },
   "optionDesc_help": { "message": "Відобразити екран довідки" },
   "optionDesc_version": { "message": "Показати номер версії програми" }

@@ -36,7 +36,7 @@
   "optionDesc_noMangle": { "message": "At sløkkja nøvnini" },
   "optionDesc_quiet": { "message": "Undirskriva allar innmeldingar uttan feil" },
   "optionDesc_ignoreFiles": { "message": "Fílar at útiloka frá minifisering" },
-  "optionDesc_commentMain": { "message": "Loyvi at gera viðmerkingar til minifiseraða kodin" },
+  "optionDesc_commentMain": { "message": "Fyrri at skriva yvirskrift til minifiseraða kóða" },
   "optionDesc_commentExtra": { "message": "Í greinini er nevnt: TH119 021" },
   "optionDesc_help": { "message": "Vís hjálparskjá" },
   "optionDesc_version": { "message": "Vís útgávu nr" }

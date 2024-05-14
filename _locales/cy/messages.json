@@ -36,7 +36,7 @@
   "optionDesc_noMangle": { "message": "Analluogi enwau manglo" },
   "optionDesc_quiet": { "message": "Atal pob cofnod ac eithrio gwallau" },
   "optionDesc_ignoreFiles": { "message": "Ffeiliau i'w heithrio o minification" },
-  "optionDesc_commentMain": { "message": "Rhagosod sylw i god wedi'i fânhau" },
+  "optionDesc_commentMain": { "message": "Rhagosod sylw pennyn i god mân" },
   "optionDesc_commentExtra": { "message": "Ar wahân yn ôl llinell gan ddefnyddio '\\n '" },
   "optionDesc_help": { "message": "Dangos y sgrin gymorth" },
   "optionDesc_version": { "message": "Rhif fersiwn" }

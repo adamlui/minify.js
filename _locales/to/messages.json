@@ -36,7 +36,7 @@
   "optionDesc_noMangle": { "message": "Toʻo mangling hingoa" },
   "optionDesc_quiet": { "message": "Taʻofi ʻa e loka kotoa tuku kehe pe ʻa e ngaahi fehalaaki" },
   "optionDesc_ignoreFiles": { "message": "Ngaahi faile ke ʻoua naʻa fakakau mei he minification" },
-  "optionDesc_commentMain": { "message": "Prepend fakamatala ki he kouti minified" },
+  "optionDesc_commentMain": { "message": "Prepend e fakamatala ki he kouti minified" },
   "optionDesc_commentExtra": { "message": "Fakamavahevaheʻi ʻaki e laine ʻo fakaʻaongaʻi ʻa e ʻ \\n ʻ" },
   "optionDesc_help": { "message": "Fakaʻaliʻali ʻa e screen tokoní" },
   "optionDesc_version": { "message": "Fakaʻasi mai ʻa e fika ʻo e Version" }

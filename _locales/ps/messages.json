@@ -36,7 +36,7 @@
   "optionDesc_noMangle": { "message": "د لاسرسۍ نومونه غیر فعال کړئ" },
   "optionDesc_quiet": { "message": "د تېروتنو پرته ټول ننوتل (logging) پټ کړئ" },
   "optionDesc_ignoreFiles": { "message": "د تصفیې څخه د لرې کولو فایلونه" },
-  "optionDesc_commentMain": { "message": "کوچنۍ کوډ ته څرګندون چمتو کړئ" },
+  "optionDesc_commentMain": { "message": "د سرلیک څرګندون کم شوي کوډ ته چمتو کړئ" },
   "optionDesc_commentExtra": { "message": "د 'n' په کارولو سره په لیکه کې جلا کړئ" },
   "optionDesc_help": { "message": "د مرستې سکرین ښکاره کړئ" },
   "optionDesc_version": { "message": "د نسخې شمیره وښایاست" }
