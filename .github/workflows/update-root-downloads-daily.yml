@@ -58,7 +58,7 @@ jobs:
             echo "$formatted_num"
           }
 
-          # Fetch/sum download counts
+          # Fetch/sum npm download counts
           for pkg in "${npm_pkgs[@]}" ; do
             pkg_downloads=$(curl -s "https://img.shields.io/npm/dm/$pkg.svg" |
               sed -n 's/.*<title>downloads: \([0-9,.km]\+\).*<\/title>.*/\1/Ip')
