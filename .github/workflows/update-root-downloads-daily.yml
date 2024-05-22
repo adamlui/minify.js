@@ -16,8 +16,8 @@ jobs:
           repository: adamlui/minify.js
           path: adamlui/minify.js
       
-      - name: Fetch/sum download counts
-        id: get-downloads
+      - name: Fetch/sum npm download counts
+        id: get-stats
         run: |
           LC_NUMERIC=en_US # to insert commas
           packages=("@adamlui/minify.js" "gulp-minify.js")
@@ -77,7 +77,7 @@ jobs:
       - name: Update README shields
         run: |
           cd ${{ github.workspace }}/adamlui/minify.js
-          total_downloads="${{ steps.get-downloads.outputs.total_downloads }}"
+          total_downloads="${{ steps.get-stats.outputs.total_downloads }}"
           if [ "$total_downloads" != "0" ]; then
             sed -i -E "s|(badge/Downloads-)[0-9.,km+]+|\1$total_downloads|Ig" docs/README.md ; fi
 
