@@ -20,7 +20,7 @@ jobs:
         id: get-stats
         run: |
           LC_NUMERIC=en_US # to insert commas
-          packages=("@adamlui/minify.js" "gulp-minify.js")
+          npm_pkgs=("@adamlui/minify.js" "gulp-minify.js")
 
           expand_num() { # expand nums abbreviated w/ 'k' or 'm' suffix to integers
             local num=$(echo "$1" | tr '[:upper:]' '[:lower:]') # convert to lowercase
@@ -59,7 +59,7 @@ jobs:
           }
 
           # Fetch/sum download counts
-          for pkg in "${packages[@]}" ; do
+          for pkg in "${npm_pkgs[@]}" ; do
             pkg_downloads=$(curl -s "https://img.shields.io/npm/dm/$pkg.svg" |
               sed -n 's/.*<title>downloads: \([0-9,.km]\+\).*<\/title>.*/\1/Ip')
             pkg_downloads=$(expand_num "$pkg_downloads")
