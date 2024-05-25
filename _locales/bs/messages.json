@@ -14,6 +14,7 @@
   "info_filesToBeMinned": { "message": "JavaScript datoteke za umanjenje" },
   "info_noFilesWillBeMinned": { "message": "Nijedna JavaScript datoteka neće biti umanjena" },
   "info_copying": { "message": "Kopiranje u međuspremnik" },
+  "info_writing": { "message": "Pišem u datoteku" },
   "info_minComplete": { "message": "Minifikacija je završena" },
   "info_file": { "message": "Datoteka" },
   "info_mininified": { "message": "Smanjeno" },

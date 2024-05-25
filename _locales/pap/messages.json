@@ -14,6 +14,7 @@
   "info_filesToBeMinned": { "message": "Archivo Javascript para Minificacion" },
   "info_noFilesWillBeMinned": { "message": "No Javascript Archive" },
   "info_copying": { "message": "Copiando a Clipboard" },
+  "info_writing": { "message": "Escriba un archivo" },
   "info_minComplete": { "message": "Minificacion Completo" },
   "info_file": { "message": "archivo" },
   "info_mininified": { "message": "minimalisá" },

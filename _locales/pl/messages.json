@@ -14,6 +14,7 @@
   "info_filesToBeMinned": { "message": "Pliki JavaScript do zminimalizowania" },
   "info_noFilesWillBeMinned": { "message": "Żadne pliki JavaScript nie zostaną zminimalizowane" },
   "info_copying": { "message": "Kopiowanie do schowka" },
+  "info_writing": { "message": "Zapis do pliku" },
   "info_minComplete": { "message": "Minifikacja zakończona" },
   "info_file": { "message": "plik" },
   "info_mininified": { "message": "Zminimalizowana" },

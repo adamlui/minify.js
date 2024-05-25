@@ -14,6 +14,7 @@
   "info_filesToBeMinned": { "message": "ໄຟລ໌ JavaScript ທີ່ຈະໄດ້ຮັບການ minified" },
   "info_noFilesWillBeMinned": { "message": "ບໍ່ມີໄຟລ໌ JavaScript ຈະໄດ້ຮັບການ minified" },
   "info_copying": { "message": "ສໍາເນົາໄປທີ່ຄລິບບອດ" },
+  "info_writing": { "message": "ຂຽນໄປຫາເອກະສານ" },
   "info_minComplete": { "message": "ສໍາເລັດການ Minification" },
   "info_file": { "message": "file" },
   "info_mininified": { "message": "ຕໍ່າສຸດ" },

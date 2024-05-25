@@ -14,6 +14,7 @@
   "info_filesToBeMinned": { "message": "Ngaahi faile JavaScript ke minified" },
   "info_noFilesWillBeMinned": { "message": "He ʻikai minified ha ngaahi faile JavaScript" },
   "info_copying": { "message": "Hiki tatau ki he papafakamaʻú" },
+  "info_writing": { "message": "Tohi ki he failé" },
   "info_minComplete": { "message": "Minification kakato" },
   "info_file": { "message": "faile" },
   "info_mininified": { "message": "Maʻuʻanga Fakamatala" },

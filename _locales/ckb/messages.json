@@ -14,6 +14,7 @@
   "info_filesToBeMinned": { "message": "پەڕگەکانی جاڤاسکریپت بۆ مینلابردن" },
   "info_noFilesWillBeMinned": { "message": "پەڕەکانی ژێرەوە بەستەر دراون بۆ مایکرۆسۆفت" },
   "info_copying": { "message": "کۆپی کردن بۆ تەختەی ڤیدیۆ" },
+  "info_writing": { "message": "نووسین بۆ پەڕگە" },
   "info_minComplete": { "message": "مینلابردن تەواو بوو" },
   "info_file": { "message": "فایل" },
   "info_mininified": { "message": "بچووککراوەتەوە" },

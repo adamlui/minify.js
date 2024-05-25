@@ -14,6 +14,7 @@
   "info_filesToBeMinned": { "message": "Amafayela e-JavaScript azokuncishiswa" },
   "info_noFilesWillBeMinned": { "message": "Awekho amafayela e-JavaScript azokhishwa" },
   "info_copying": { "message": "Ukukopela ebhodini lokunamathisela" },
+  "info_writing": { "message": "Ukubhalela ifayela" },
   "info_minComplete": { "message": "Ukunciphisa kuqediwe" },
   "info_file": { "message": "IFAYELA" },
   "info_mininified": { "message": "kukhanseliwe" },

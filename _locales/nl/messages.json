@@ -14,6 +14,7 @@
   "info_filesToBeMinned": { "message": "JavaScript-bestanden die moeten worden geminimaliseerd" },
   "info_noFilesWillBeMinned": { "message": "Er worden geen JavaScript-bestanden geminimaliseerd" },
   "info_copying": { "message": "Kopiëren naar klembord" },
+  "info_writing": { "message": "Schrijven naar bestand" },
   "info_minComplete": { "message": "Minificatie voltooid" },
   "info_file": { "message": "bestand" },
   "info_mininified": { "message": "geminimaliseerd" },

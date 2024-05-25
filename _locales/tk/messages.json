@@ -14,6 +14,7 @@
   "info_filesToBeMinned": { "message": "JavaScript faýllary minimize edilmeli" },
   "info_noFilesWillBeMinned": { "message": "Hiç bir JavaScript faýly minified bolar" },
   "info_copying": { "message": "Klipbordda kopy etmek" },
+  "info_writing": { "message": "Faýlyň ýazylmagy" },
   "info_minComplete": { "message": "Täze minifikasyýa" },
   "info_file": { "message": "FAÝL" },
   "info_mininified": { "message": "kiçigöwünli" },

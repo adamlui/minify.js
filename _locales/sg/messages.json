@@ -14,6 +14,7 @@
   "info_filesToBeMinned": { "message": "A yeke wara a-fichier ti JavaScript na yâ ti mbeni kete kete kete kete kete" },
   "info_noFilesWillBeMinned": { "message": "A yeke fâ yâ ti a-fichier ti JavaScript ape" },
   "info_copying": { "message": "Gbu li ti mo na ndo ti clipboard ni" },
+  "info_writing": { "message": "Ti sû mbeti ti faïl" },
   "info_minComplete": { "message": "A yeke nzoni ti tene azo ti Israël asara ye alingbi na" },
   "info_file": { "message": "faïl (faïl" },
   "info_mininified": { "message": "a yeke na yâ ti kete kete kete kete" },

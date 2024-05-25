@@ -14,6 +14,7 @@
   "info_filesToBeMinned": { "message": "Archivos JavaScript a minificar" },
   "info_noFilesWillBeMinned": { "message": "No se minimizará ningún archivo JavaScript" },
   "info_copying": { "message": "Copiar al portapapeles fue" },
+  "info_writing": { "message": "Escribiendo en el archivo" },
   "info_minComplete": { "message": "Minificación completa" },
   "info_file": { "message": "archivo" },
   "info_mininified": { "message": "Minizado" },

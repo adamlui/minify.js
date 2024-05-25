@@ -14,6 +14,7 @@
   "info_filesToBeMinned": { "message": "Dəqiqləşdiriləcək JavaScript faylları" },
   "info_noFilesWillBeMinned": { "message": "JavaScript faylları minimallaşdırılmayacaq" },
   "info_copying": { "message": "Mübadilə buferinə kopyal" },
+  "info_writing": { "message": "Fayla yazmaq" },
   "info_minComplete": { "message": "Dəqiqləşdirmə tamamlandı" },
   "info_file": { "message": "Fayl" },
   "info_mininified": { "message": "minimallaşdırılmış" },

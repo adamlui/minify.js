@@ -14,6 +14,7 @@
   "info_filesToBeMinned": { "message": "Il-fajls JavaScript li għandhom jiġu mminimizzati" },
   "info_noFilesWillBeMinned": { "message": "L-ebda fajl JavaScript mhux se jiġi mminifikat" },
   "info_copying": { "message": "Kif tikkopja għall-klipbord" },
+  "info_writing": { "message": "Kif tikteb fil-fajl" },
   "info_minComplete": { "message": "Il-minifikazzjoni tlestiet" },
   "info_file": { "message": "Fajl" },
   "info_mininified": { "message": "minimizzat" },

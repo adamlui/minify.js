@@ -14,6 +14,7 @@
   "info_filesToBeMinned": { "message": "Zu minimierende JavaScript-Dateien" },
   "info_noFilesWillBeMinned": { "message": "Es werden keine JavaScript-Dateien minimiert" },
   "info_copying": { "message": "Kopiere in Zwischenablage" },
+  "info_writing": { "message": "In Datei schreiben" },
   "info_minComplete": { "message": "Minifizierung abgeschlossen" },
   "info_file": { "message": "Datei" },
   "info_mininified": { "message": "Minimierte" },

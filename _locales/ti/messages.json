@@ -14,6 +14,7 @@
   "info_filesToBeMinned": { "message": "ጃቫስክሪፕት ፋይላት ክቐርቡ" },
   "info_noFilesWillBeMinned": { "message": "ጃቫስክሪፕት ፋይላት ኣይውሕድን" },
   "info_copying": { "message": "ናብ ክሊፕቦርድ ምምላስ" },
+  "info_writing": { "message": "ናብ ፋይል ምጽሓፍ" },
   "info_minComplete": { "message": "ምጉዳል ተማልአ" },
   "info_file": { "message": "መዝገብ" },
   "info_mininified": { "message": "ዝተሓተ" },

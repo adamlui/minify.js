@@ -14,6 +14,7 @@
   "info_filesToBeMinned": { "message": "Გასამარტივებელი JavaScript ფაილები" },
   "info_noFilesWillBeMinned": { "message": "JavaScript-ის ფაილები არ იქნება მინიმალიზებული" },
   "info_copying": { "message": "Ბუფერში კოპირება" },
+  "info_writing": { "message": "Ფაილში ჩაწერა" },
   "info_minComplete": { "message": "Მინიფიკაცია დასრულებულია" },
   "info_file": { "message": "ფაილი" },
   "info_mininified": { "message": "მინიფიცირებული" },

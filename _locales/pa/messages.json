@@ -14,6 +14,7 @@
   "info_filesToBeMinned": { "message": "JavaScript files to be minified" },
   "info_noFilesWillBeMinned": { "message": "No JavaScript files will be minified" },
   "info_copying": { "message": "ਪ੍ਰੋਗਰਾਮ:" },
+  "info_writing": { "message": "ਫਾਇਲ ਵਿੱਚ ਲਿਖਿਆ ਜਾ ਰਿਹਾ ਹੈ" },
   "info_minComplete": { "message": "Minification complete" },
   "info_file": { "message": "file" },
   "info_mininified": { "message": "minified" },

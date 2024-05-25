@@ -14,6 +14,7 @@
   "info_filesToBeMinned": { "message": "Жаваскрипт файлуудыг багасгах" },
   "info_noFilesWillBeMinned": { "message": "Ямар ч JavaScript файл ашиглагдахгүй" },
   "info_copying": { "message": "Түр санах ой руу хуулах" },
+  "info_writing": { "message": "Файлд бичих" },
   "info_minComplete": { "message": "Тусгаарлалт дууссан" },
   "info_file": { "message": " " },
   "info_mininified": { "message": "тогтоогдсон" },

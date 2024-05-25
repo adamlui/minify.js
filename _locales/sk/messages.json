@@ -14,6 +14,7 @@
   "info_filesToBeMinned": { "message": "Súbory JavaScript na zmenšenie" },
   "info_noFilesWillBeMinned": { "message": "Žiadne súbory JavaScript nebudú zmenšené" },
   "info_copying": { "message": "Kopírujem do dočasnej schránky" },
+  "info_writing": { "message": "Zápis do súboru" },
   "info_minComplete": { "message": "Minifikácia dokončená" },
   "info_file": { "message": "súbor" },
   "info_mininified": { "message": "minifikovaný" },

@@ -14,6 +14,7 @@
   "info_filesToBeMinned": { "message": "ጃቫስክሪፕት ፋይሎች እንዲቀንስ" },
   "info_noFilesWillBeMinned": { "message": "ምንም የጃቫስክሪፕት ፋይሎች አይቀነሱም" },
   "info_copying": { "message": "ወደ ክሊፕቦርድ መቅዳት" },
+  "info_writing": { "message": "ወደ ፋይል መጻፍ" },
   "info_minComplete": { "message": "የማዕድን ማጠናቀቂያ ሙሉ" },
   "info_file": { "message": "/ፋይል (_F)" },
   "info_mininified": { "message": "minified" },

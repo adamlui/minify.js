@@ -14,6 +14,7 @@
   "info_filesToBeMinned": { "message": "File JavaScript yang akan diperkecil" },
   "info_noFilesWillBeMinned": { "message": "Tidak ada file JavaScript yang akan diperkecil" },
   "info_copying": { "message": "Menyalin ke clipboard" },
+  "info_writing": { "message": "Menulis ke file" },
   "info_minComplete": { "message": "Minifikasi selesai" },
   "info_file": { "message": "mengajukan" },
   "info_mininified": { "message": "diperkecil" },

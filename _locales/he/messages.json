@@ -14,6 +14,7 @@
   "info_filesToBeMinned": { "message": "קובצי JavaScript שיש למזער" },
   "info_noFilesWillBeMinned": { "message": "אף קובץ JavaScript לא ימוזער" },
   "info_copying": { "message": "מעתיק אל הלוח" },
+  "info_writing": { "message": "כתיבה לקובץ" },
   "info_minComplete": { "message": "המיניפיקציה הושלמה" },
   "info_file": { "message": "תמונה" },
   "info_mininified": { "message": "Minified" },

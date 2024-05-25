@@ -14,6 +14,7 @@
   "info_filesToBeMinned": { "message": "JavaScript files minibus" },
   "info_noFilesWillBeMinned": { "message": "No JavaScript files minibus est" },
   "info_copying": { "message": "Clipboard" },
+  "info_writing": { "message": "Epistola ad file" },
   "info_minComplete": { "message": "Minificationis complete" },
   "info_file": { "message": "Tabula" },
   "info_mininified": { "message": "minibus" },

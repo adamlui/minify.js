@@ -14,6 +14,7 @@
   "info_filesToBeMinned": { "message": "ஜாவாஸ்கிரிப்ட் கோப்புகள் குறைக்கப்பட வேண்டும்" },
   "info_noFilesWillBeMinned": { "message": "ஜாவாஸ்கிரிப்ட் கோப்புகள் எதுவும் குறைக்கப்படாது" },
   "info_copying": { "message": "பிடிப்புப்பலகைக்கு நகலாக்குகின்றது." },
+  "info_writing": { "message": "கோப்பிற்கு எழுதுகிறது" },
   "info_minComplete": { "message": "சிற்றுருவாக்கம் முடிந்தது" },
   "info_file": { "message": "கோப்பு" },
   "info_mininified": { "message": "சிறுகுறிப்பு" },

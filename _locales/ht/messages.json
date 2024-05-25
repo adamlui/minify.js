@@ -14,6 +14,7 @@
   "info_filesToBeMinned": { "message": "Fichye JavaScript yo dwe minifye" },
   "info_noFilesWillBeMinned": { "message": "Pa gen dosye JavaScript yo pral minifye" },
   "info_copying": { "message": "Kopi nan tablo" },
+  "info_writing": { "message": "Ekri nan dosye" },
   "info_minComplete": { "message": "Minifikasyon konplè" },
   "info_file": { "message": "dosye/ranpli/lim /fil/fichier/les documents/documents/dossier/le dossier/déclaration/soumettre/ classification/classeur/limer/lime/ficher/ soumettre/mettre dans le dossier/se souiller/trompeur/marcher/se présenter candidat/envoyer/ envoyer/déposer" },
   "info_mininified": { "message": "minifye/minifié" },
