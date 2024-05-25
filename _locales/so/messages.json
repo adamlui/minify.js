@@ -35,6 +35,7 @@
   "optionDesc_dotfiles": { "message": "Ku dar dotfiles raadinta faylka" },
   "optionDesc_noRecursion": { "message": "Disable raadinta faylka soo noqnoqda" },
   "optionDesc_noMangle": { "message": "Disable magacyada mangling" },
+  "optionDesc_noFilenameChange": { "message": "Disable badalo kordhinta file in .min.js" },
   "optionDesc_copy": { "message": "Nuqul code minified in clipboard halkii qoraal si ay u soo gudbiyaan haddii file il keli ah laga baaraandego" },
   "optionDesc_quiet": { "message": "Xannib dhammaan gelitaanka marka laga reebo khaladaadka" },
   "optionDesc_ignoreFiles": { "message": "Files in laga saaro minification" },

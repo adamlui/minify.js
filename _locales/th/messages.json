@@ -35,6 +35,7 @@
   "optionDesc_dotfiles": { "message": "รวมดอทไฟล์ในการค้นหาไฟล์" },
   "optionDesc_noRecursion": { "message": "ปิดใช้งานการค้นหาไฟล์ที่เกิดซ้ำ" },
   "optionDesc_noMangle": { "message": "ปิดใช้งานชื่อ mangling" },
+  "optionDesc_noFilenameChange": { "message": "ปิดใช้งานการเปลี่ยนนามสกุลไฟล์เป็น .min.js" },
   "optionDesc_copy": { "message": "คัดลอกรหัสย่อไปยังคลิปบอร์ดแทนการเขียนไปยังไฟล์หากมีการประมวลผลไฟล์แหล่งที่มาเดียว" },
   "optionDesc_quiet": { "message": "ระงับการบันทึกทั้งหมดยกเว้นข้อผิดพลาด" },
   "optionDesc_ignoreFiles": { "message": "ไฟล์ที่จะแยกออกจากการย่อ" },

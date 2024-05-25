@@ -35,6 +35,7 @@
   "optionDesc_dotfiles": { "message": "فائل کی تلاش میں ڈاٹ فائلیں شامل کریں" },
   "optionDesc_noRecursion": { "message": "بار بار چلنے والی فائل کی تلاش کو غیر فعال کریں" },
   "optionDesc_noMangle": { "message": "مینگلنگ ناموں کو غیر فعال کریں" },
+  "optionDesc_noFilenameChange": { "message": "فائل کی توسیع کو .min.js میں تبدیل کرنا غیر فعال کریں" },
   "optionDesc_copy": { "message": "اگر واحد ماخذ فائل پر کارروائی کی جاتی ہے تو فائل میں لکھنے کے بجائے چھوٹے کوڈ کو کلپ بورڈ میں کاپی کریں" },
   "optionDesc_quiet": { "message": "غلطیوں کے علاوہ تمام لاگنگ کو دبائیں" },
   "optionDesc_ignoreFiles": { "message": "فائلیں جنہیں منیفیکیشن سے خارج کرنا ہے" },

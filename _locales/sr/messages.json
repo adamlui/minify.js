@@ -35,6 +35,7 @@
   "optionDesc_dotfiles": { "message": "Uključite datoteke sa tačkama u pretragu datoteka" },
   "optionDesc_noRecursion": { "message": "Onemogućite pretraživanje rekurzivnih datoteka" },
   "optionDesc_noMangle": { "message": "Onemogućite imena mangiranja" },
+  "optionDesc_noFilenameChange": { "message": "Onemogućite promenu ekstenzije datoteke u .min.js" },
   "optionDesc_copy": { "message": "Kopirajte umanjeni kôd u ostavu umesto pisanja u datoteku ako se obrađuje datoteka sa jednim izvorom" },
   "optionDesc_quiet": { "message": "Obustavi svu evidenciju osim grešaka" },
   "optionDesc_ignoreFiles": { "message": "Datoteke za isključivanje iz minifikacije" },

@@ -35,6 +35,7 @@
   "optionDesc_dotfiles": { "message": "Inkludera punktfiler i filsökningen" },
   "optionDesc_noRecursion": { "message": "Inaktivera rekursiv filsökning" },
   "optionDesc_noMangle": { "message": "Inaktivera manglingnamn" },
+  "optionDesc_noFilenameChange": { "message": "Inaktivera ändring av filtillägg till .min.js" },
   "optionDesc_copy": { "message": "Kopiera minifierad kod till urklipp istället för att skriva till fil om en enda källfil bearbetas" },
   "optionDesc_quiet": { "message": "Dölj all loggning utom fel" },
   "optionDesc_ignoreFiles": { "message": "Filer att utesluta från minifiering" },

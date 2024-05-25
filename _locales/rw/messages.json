@@ -35,6 +35,7 @@
   "optionDesc_dotfiles": { "message": "Shyiramo utudomo mugushakisha dosiye" },
   "optionDesc_noRecursion": { "message": "Hagarika gushakisha dosiye isubiramo" },
   "optionDesc_noMangle": { "message": "Hagarika amazina manging" },
+  "optionDesc_noFilenameChange": { "message": "IDOSIYE Umugereka Kuri min.js" },
   "optionDesc_copy": { "message": "Inyandikoporogaramu Kuri Ububikokoporora Bya Kuri IDOSIYE NIBA UMWE Inkomoko IDOSIYE ni" },
   "optionDesc_quiet": { "message": "Kuraho ibiti byose usibye amakosa" },
   "optionDesc_ignoreFiles": { "message": "Amadosiye yo gukuramo minisiteri" },

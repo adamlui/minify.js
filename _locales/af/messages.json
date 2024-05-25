@@ -35,6 +35,7 @@
   "optionDesc_dotfiles": { "message": "Sluit dotfiles in lêersoektog in" },
   "optionDesc_noRecursion": { "message": "Deaktiveer rekursiewe lêersoektog" },
   "optionDesc_noMangle": { "message": "Deaktiveer mangling name" },
+  "optionDesc_noFilenameChange": { "message": "Deaktiveer die verandering van lêer uitbreiding na .min.js" },
   "optionDesc_copy": { "message": "Kopieer geminificeerde kode na knipbord in plaas daarvan om na lêer te skryf as enkelbronlêer verwerk word" },
   "optionDesc_quiet": { "message": "Onderdruk alle aanmelding behalwe foute" },
   "optionDesc_ignoreFiles": { "message": "Lêers om van minifikasie uit te sluit" },

@@ -35,6 +35,7 @@
   "optionDesc_dotfiles": { "message": "Ფაილის ძებნაში წერტილოვანი ფაილების ჩართვა" },
   "optionDesc_noRecursion": { "message": "Რეკურსიული ფაილის ძებნის გამორთვა" },
   "optionDesc_noMangle": { "message": "Მანაქანის სახელების გამორთვა" },
+  "optionDesc_noFilenameChange": { "message": "Გამორთეთ ფაილის გაფართოების შეცვლა .min.js-ზე" },
   "optionDesc_copy": { "message": "Გადააკოპირეთ მინიფიცირებული კოდი გაცვლის ბუფერში და არა ჩაწერეთ ფაილში, თუ ერთი საწყისი ფაილი მუშავდება" },
   "optionDesc_quiet": { "message": "Ყველა ჟურნალის ჩახშობა, გარდა შეცდომებისა" },
   "optionDesc_ignoreFiles": { "message": "Მინიფიკაციიდან გამოსარიცხი ფაილები" },

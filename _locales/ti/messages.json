@@ -35,6 +35,7 @@
   "optionDesc_dotfiles": { "message": "ኣብ ናይ ፋይል ፍለጋ ናይ ዶትፊላት ኣካተተ" },
   "optionDesc_noRecursion": { "message": "ዳግም ምድላይ ፋይል ኣሰናድእ" },
   "optionDesc_noMangle": { "message": "ስማት ማንግሊንግ ኣጥፍእ" },
+  "optionDesc_noFilenameChange": { "message": "ፋይል ምስፍሕፋሕ ናብ .min.js ቀይር" },
   "optionDesc_copy": { "message": "ሓደ ምንጪ ፋይል ምስ ዚሰርሕ ፡ ኣብ ክንዲ ዚጽሕፍ ፡ ናብ ክሊፕቦርድ እተቐርጸ ኮድ ቅዳሕ" },
   "optionDesc_quiet": { "message": "ጌጋታት እንተዘይኮይኑ ፡ ንዅሉ ምዝገባታት ኣጥፍእ" },
   "optionDesc_ignoreFiles": { "message": "ካብ ምጥፋእ ክስረዙ ዝኽእሉ ፋይላት" },

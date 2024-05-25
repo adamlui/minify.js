@@ -35,6 +35,7 @@
   "optionDesc_dotfiles": { "message": "Kaasa failide otsingusse punktfailid" },
   "optionDesc_noRecursion": { "message": "Keela rekursiivne failiotsing" },
   "optionDesc_noMangle": { "message": "Keela manglingunimed" },
+  "optionDesc_noFilenameChange": { "message": "Keela faililaiendi muutmine laiendiks .min.js" },
   "optionDesc_copy": { "message": "Kopeeri minifitseeritud kood lõikelauale, selle asemel et kirjutada faili, kui töödeldakse ühte lähtefaili" },
   "optionDesc_quiet": { "message": "Tühista kogu logimine, välja arvatud vead" },
   "optionDesc_ignoreFiles": { "message": "Failid, mida minimeerimisest välja jätta" },

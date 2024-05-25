@@ -35,6 +35,7 @@
   "optionDesc_dotfiles": { "message": "Включити крапкові файли в пошук файлів" },
   "optionDesc_noRecursion": { "message": "Вимкнути рекурсивний пошук файлів" },
   "optionDesc_noMangle": { "message": "Вимкнути каліцтво імен" },
+  "optionDesc_noFilenameChange": { "message": "Вимкнути зміну розширення файлу на .min.js" },
   "optionDesc_copy": { "message": "Скопіюйте мініфікований код до буфера обміну замість запису до файлу, якщо обробляється один вихідний файл" },
   "optionDesc_quiet": { "message": "Придушити всі журнали, крім помилок" },
   "optionDesc_ignoreFiles": { "message": "Файли, які потрібно виключити з мініфікації" },

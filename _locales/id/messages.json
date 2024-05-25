@@ -35,6 +35,7 @@
   "optionDesc_dotfiles": { "message": "Sertakan file titik dalam pencarian file" },
   "optionDesc_noRecursion": { "message": "Nonaktifkan pencarian file rekursif" },
   "optionDesc_noMangle": { "message": "Nonaktifkan nama mangling" },
+  "optionDesc_noFilenameChange": { "message": "Nonaktifkan perubahan ekstensi file ke .min.js" },
   "optionDesc_copy": { "message": "Salin kode yang diperkecil ke clipboard alih - alih menulis ke file jika file sumber tunggal diproses" },
   "optionDesc_quiet": { "message": "Cegah semua pencatatan kecuali kesalahan" },
   "optionDesc_ignoreFiles": { "message": "File untuk dikecualikan dari minifikasi" },

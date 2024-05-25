@@ -35,6 +35,7 @@
   "optionDesc_dotfiles": { "message": "Sekcem ifuyla deg unadi n ufaylu" },
   "optionDesc_noRecursion": { "message": "Snulfu afaylu yettnadi" },
   "optionDesc_noMangle": { "message": "Snifel ismawen n tmaziɣt" },
+  "optionDesc_noFilenameChange": { "message": "Kkes asenfaṛ n ufaylu i .min.js" },
   "optionDesc_copy": { "message": "Kkes aɣbalu yettwafernen ɣer tkarḍa n uḍebsi wala tira ɣer ufaylu ma yella yettwaseqdec ufaylu n udiwenni kan" },
   "optionDesc_quiet": { "message": "Sizdeg akk tuccḍiwin anagar tuccḍiwin" },
   "optionDesc_ignoreFiles": { "message": "Isebtar i yellan ddaw-a sɛan aseɣwen ɣer Minification" },

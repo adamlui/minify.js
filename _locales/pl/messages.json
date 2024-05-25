@@ -35,6 +35,7 @@
   "optionDesc_dotfiles": { "message": "Uwzględnij pliki punktowe w wyszukiwaniu plików" },
   "optionDesc_noRecursion": { "message": "Wyłącz rekursywne wyszukiwanie plików" },
   "optionDesc_noMangle": { "message": "Wyłącz manipulowanie nazwami" },
+  "optionDesc_noFilenameChange": { "message": "Wyłącz zmianę rozszerzenia pliku na .min.js" },
   "optionDesc_copy": { "message": "Skopiuj zminimalizowany kod do schowka zamiast zapisywać go do pliku, jeśli przetwarzany jest pojedynczy plik źródłowy" },
   "optionDesc_quiet": { "message": "Wyłącz wszystkie rejestrowanie z wyjątkiem błędów" },
   "optionDesc_ignoreFiles": { "message": "Pliki do wykluczenia z minifikacji" },

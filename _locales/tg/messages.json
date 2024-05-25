@@ -35,6 +35,7 @@
   "optionDesc_dotfiles": { "message": "Дар ҷустуҷӯи файл нуқтаҳоро дохил кунед" },
   "optionDesc_noRecursion": { "message": "Ҷустуҷӯи файли рекурсивӣ ғайрифаъол кунед" },
   "optionDesc_noMangle": { "message": "Ғайрифаъол кардани номҳои mangling" },
+  "optionDesc_noFilenameChange": { "message": "Тағйири густариши файлро ба .min.js ғайрифаъол созед" },
   "optionDesc_copy": { "message": "Нусхабардории коди миниётурашуда ба силули мухобиротӣ ба ҷои навиштан ба файл, агар файли ягонаи сарчашма коркард шуда бошад" },
   "optionDesc_quiet": { "message": "Ғайри хатогӣ ҳамаи қайдкуниҳоро пахш кунед" },
   "optionDesc_ignoreFiles": { "message": "Файлҳо барои истисно кардан аз минимализатсия" },

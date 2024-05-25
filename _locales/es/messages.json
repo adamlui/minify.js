@@ -35,6 +35,7 @@
   "optionDesc_dotfiles": { "message": "Incluir archivos punto en la búsqueda de archivos" },
   "optionDesc_noRecursion": { "message": "Desactivar la búsqueda recursiva de archivos" },
   "optionDesc_noMangle": { "message": "Desactivar nombres de manipulación" },
+  "optionDesc_noFilenameChange": { "message": "Desactivar el cambio de extensión de archivo a .min.js" },
   "optionDesc_copy": { "message": "Copie el código minificado en el portapapeles en lugar de escribir en el archivo si se procesa un solo archivo fuente" },
   "optionDesc_quiet": { "message": "Suprimir todos los registros excepto los errores" },
   "optionDesc_ignoreFiles": { "message": "Archivos a excluir de la minificación" },

@@ -35,6 +35,7 @@
   "optionDesc_dotfiles": { "message": "ファイル検索にドットファイルを含める" },
   "optionDesc_noRecursion": { "message": "再帰ファイル検索を無効にする" },
   "optionDesc_noMangle": { "message": "名前の変更を無効にする" },
+  "optionDesc_noFilenameChange": { "message": "ファイル拡張子を.min.jsに変更することを無効にする" },
   "optionDesc_copy": { "message": "単一のソースファイルが処理された場合、ファイルに書き込むのではなく、縮小されたコードをクリップボードにコピーする" },
   "optionDesc_quiet": { "message": "エラーを除くすべてのロギングを抑制" },
   "optionDesc_ignoreFiles": { "message": "縮小から除外するファイル" },

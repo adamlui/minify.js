@@ -35,6 +35,7 @@
   "optionDesc_dotfiles": { "message": "Zahrnout dotfiles do vyhledávání souborů" },
   "optionDesc_noRecursion": { "message": "Zakázat rekurzivní vyhledávání souborů" },
   "optionDesc_noMangle": { "message": "Zakázat mandlování názvů" },
+  "optionDesc_noFilenameChange": { "message": "Zakázat změnu přípony souboru .min.js" },
   "optionDesc_copy": { "message": "Zkopírujte zmenšený kód do schránky namísto zápisu do souboru, pokud je zpracován jeden zdrojový soubor" },
   "optionDesc_quiet": { "message": "Potlačit veškeré protokolování kromě chyb" },
   "optionDesc_ignoreFiles": { "message": "Soubory, které chcete vyloučit z minifikace" },

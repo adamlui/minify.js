@@ -35,6 +35,7 @@
   "optionDesc_dotfiles": { "message": "Mete dotfiles nan rechèch dosye" },
   "optionDesc_noRecursion": { "message": "Désactivez recursive fichiers recursive recursive" },
   "optionDesc_noMangle": { "message": "Non mangonmen ki enfim" },
+  "optionDesc_noFilenameChange": { "message": "Andikape chanje ekstansyon dosye nan .min.js" },
   "optionDesc_copy": { "message": "Kopi kòd minifye nan clipboard olye pou yo ekri nan dosye si se dosye sous sèl trete" },
   "optionDesc_quiet": { "message": "Siprime tout antre eksepte erè" },
   "optionDesc_ignoreFiles": { "message": "Fichye pou eskli nan minifikasyon" },

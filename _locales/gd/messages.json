@@ -35,6 +35,7 @@
   "optionDesc_dotfiles": { "message": "Cuir na dotagan a - steach ann an lorg nam faidhle" },
   "optionDesc_noRecursion": { "message": "Cuir à comas lorg nam faidhle ath - chùrsach" },
   "optionDesc_noMangle": { "message": "Cuir ainmean mangailte à comas" },
+  "optionDesc_noFilenameChange": { "message": "Cuir à comas leudachadh an fhaidhle gu .min.js" },
   "optionDesc_copy": { "message": "Dèan lethbhreac dhen chòd mhionaideach air an stòr - bhòrd an àite a bhith a 'sgrìobhadh dhan fhaidhle ma thèid am faidhle tùsail singilte a phròiseasadh" },
   "optionDesc_quiet": { "message": "Cuir às do gach logadh ach a - mhàin mearachdan" },
   "optionDesc_ignoreFiles": { "message": "Faidhlichean a thèid a dhùnadh a - mach às a 'mhèinneadh" },

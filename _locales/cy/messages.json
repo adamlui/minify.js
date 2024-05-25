@@ -35,6 +35,7 @@
   "optionDesc_dotfiles": { "message": "Cynnwys ffeiliau dot yn y chwiliad ffeil" },
   "optionDesc_noRecursion": { "message": "Analluogi chwilio ffeiliau ailadroddus" },
   "optionDesc_noMangle": { "message": "Analluogi enwau manglo" },
+  "optionDesc_noFilenameChange": { "message": "Analluogi newid estyniad ffeil i .min.js" },
   "optionDesc_copy": { "message": "Copïo cod mân i'r clipfwrdd yn lle ysgrifennu i ffeil os yw ffeil ffynhonnell sengl yn cael ei phrosesu" },
   "optionDesc_quiet": { "message": "Atal pob cofnod ac eithrio gwallau" },
   "optionDesc_ignoreFiles": { "message": "Ffeiliau i'w heithrio o minification" },

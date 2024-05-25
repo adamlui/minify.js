@@ -35,6 +35,7 @@
   "optionDesc_dotfiles": { "message": "ಫೈಲ್ ಹುಡುಕಾಟದಲ್ಲಿ ಡಾಟ್ ಫೈಲ್ ಗಳನ್ನು ಸೇರಿಸಿ" },
   "optionDesc_noRecursion": { "message": "ಪುನರಾವರ್ತಿತ ಫೈಲ್ ಹುಡುಕಾಟವನ್ನು ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಿ" },
   "optionDesc_noMangle": { "message": "ಮ್ಯಾಂಗ್ಲಿಂಗ್ ಹೆಸರುಗಳನ್ನು ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಿ" },
+  "optionDesc_noFilenameChange": { "message": ".min.js ಗೆ ಫೈಲ್ ವಿಸ್ತರಣೆಯನ್ನು ಬದಲಾಯಿಸುವುದನ್ನು ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಿ" },
   "optionDesc_copy": { "message": "ಒಂದೇ ಮೂಲ ಫೈಲ್ ಅನ್ನು ಪ್ರಕ್ರಿಯೆಗೊಳಿಸಿದರೆ ಫೈಲ್ ‌ ಗೆ ಬರೆಯುವ ಬದಲು ಮಿನಿಫೈಡ್ ಕೋಡ್ ಅನ್ನು ಕ್ಲಿಪ್ ‌ ಬೋರ್ಡ್ ‌ ಗೆ ನಕಲಿಸಿ" },
   "optionDesc_quiet": { "message": "ದೋಷಗಳನ್ನು ಹೊರತುಪಡಿಸಿ ಎಲ್ಲಾ ಲಾಗಿಂಗ್ ಅನ್ನು ನಿಗ್ರಹಿಸಿ" },
   "optionDesc_ignoreFiles": { "message": "ಗಣಿಗಾರಿಕೆಯಿಂದ ಹೊರಗಿಡಬೇಕಾದ ಫೈಲ್ ಗಳು" },

@@ -35,6 +35,7 @@
   "optionDesc_dotfiles": { "message": "Hafa punkta í skráaleit" },
   "optionDesc_noRecursion": { "message": "Afvirkja endurtekna skráaleit" },
   "optionDesc_noMangle": { "message": "Afvirkja slöngunöfn" },
+  "optionDesc_noFilenameChange": { "message": "Afvirkja breytingu á skráarendingu til .min.js" },
   "optionDesc_copy": { "message": "Afritaðu minified kóða á klemmuspjald í stað þess að skrifa til að skrá ef unnið er úr einni frumskrá" },
   "optionDesc_quiet": { "message": "Slökkva á öllum innskráningum nema villum" },
   "optionDesc_ignoreFiles": { "message": "Skrár sem á að útiloka frá námuvinnslu" },

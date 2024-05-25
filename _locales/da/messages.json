@@ -35,6 +35,7 @@
   "optionDesc_dotfiles": { "message": "Inkluder prikfiler i filsøgning" },
   "optionDesc_noRecursion": { "message": "Deaktiver rekursiv filsøgning" },
   "optionDesc_noMangle": { "message": "Deaktiver mangling af navne" },
+  "optionDesc_noFilenameChange": { "message": "Deaktiver ændring af filtypenavn til .min.js" },
   "optionDesc_copy": { "message": "Kopier minificeret kode til udklipsholderen i stedet for at skrive til fil, hvis enkelt kildefil behandles" },
   "optionDesc_quiet": { "message": "Undertrykke al logning undtagen fejl" },
   "optionDesc_ignoreFiles": { "message": "Filer, der skal udelukkes fra minificering" },

@@ -35,6 +35,7 @@
   "optionDesc_dotfiles": { "message": "Inclure les fichiers point dans la recherche de fichiers" },
   "optionDesc_noRecursion": { "message": "Désactiver la recherche récursive de fichiers" },
   "optionDesc_noMangle": { "message": "Désactiver les noms de mutilation" },
+  "optionDesc_noFilenameChange": { "message": "Désactiver la modification de l'extension de fichier en .min.js" },
   "optionDesc_copy": { "message": "Copier le code minifié dans le presse-papiers au lieu d'écrire dans le fichier si un seul fichier source est traité" },
   "optionDesc_quiet": { "message": "Supprimer tous les journaux sauf les erreurs" },
   "optionDesc_ignoreFiles": { "message": "Fichiers à exclure de la minification" },

@@ -35,6 +35,7 @@
   "optionDesc_dotfiles": { "message": "Dotfiles په دوتنه لټون کې شامل کړئ" },
   "optionDesc_noRecursion": { "message": "د تکرار شوې دوتنې لټون غیر فعال کړئ" },
   "optionDesc_noMangle": { "message": "د لاسرسۍ نومونه غیر فعال کړئ" },
+  "optionDesc_noFilenameChange": { "message": ".min.js ته د دوتنې شاتاړی بدلول غیر فعال کړئ" },
   "optionDesc_copy": { "message": "که چیرې د واحد سرچینې فایل پروسس شي نو فایل ته د لیکلو پرځای یې لږ کوډ کلیپ بورډ ته کاپي کړئ" },
   "optionDesc_quiet": { "message": "د تېروتنو پرته ټول ننوتل (logging) پټ کړئ" },
   "optionDesc_ignoreFiles": { "message": "د تصفیې څخه د لرې کولو فایلونه" },

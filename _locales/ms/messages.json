@@ -35,6 +35,7 @@
   "optionDesc_dotfiles": { "message": "Sertakan fail titik dalam carian fail" },
   "optionDesc_noRecursion": { "message": "Lumpuhkan carian fail rekursif" },
   "optionDesc_noMangle": { "message": "Nyahdayakan nama mangling" },
+  "optionDesc_noFilenameChange": { "message": "Lumpuhkan perubahan sambungan fail ke .min.js" },
   "optionDesc_copy": { "message": "Salin kod minified ke papan klip dan bukannya menulis ke fail jika fail sumber tunggal diproses" },
   "optionDesc_quiet": { "message": "Sekat semua pembalakan kecuali ralat" },
   "optionDesc_ignoreFiles": { "message": "Fail untuk dikecualikan daripada minifikasi" },

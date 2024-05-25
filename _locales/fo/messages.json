@@ -35,6 +35,7 @@
   "optionDesc_dotfiles": { "message": "Innlegg dotfiles í leiting av fílum" },
   "optionDesc_noRecursion": { "message": "At sløkkja rekursiv fílu leiting" },
   "optionDesc_noMangle": { "message": "At sløkkja nøvnini" },
+  "optionDesc_noFilenameChange": { "message": "Broyt at broyta skráarútbygging til .min.js" },
   "optionDesc_copy": { "message": "Kopiera minifiseraða kóða til klipbrett ístaðin fyri at skriva til fílu, um einastandandi keldurfíla verður viðgjørd" },
   "optionDesc_quiet": { "message": "Undirskriva allar innmeldingar uttan feil" },
   "optionDesc_ignoreFiles": { "message": "Fílar at útiloka frá minifisering" },

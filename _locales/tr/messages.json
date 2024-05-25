@@ -35,6 +35,7 @@
   "optionDesc_dotfiles": { "message": "Dosya aramasına nokta dosyalarını dahil et" },
   "optionDesc_noRecursion": { "message": "Yinelemeli dosya aramayı devre dışı bırak" },
   "optionDesc_noMangle": { "message": "Parçalama adlarını devre dışı bırak" },
+  "optionDesc_noFilenameChange": { "message": "Dosya uzantısını .min.js olarak değiştirmeyi devre dışı bırak" },
   "optionDesc_copy": { "message": "Tek kaynak dosya işlenirse dosyaya yazmak yerine küçültülmüş kodu panoya kopyalayın" },
   "optionDesc_quiet": { "message": "Hatalar hariç tüm günlükleri bastır" },
   "optionDesc_ignoreFiles": { "message": "Küçültme dışında bırakılacak dosyalar" },

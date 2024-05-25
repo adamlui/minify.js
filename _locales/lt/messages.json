@@ -35,6 +35,7 @@
   "optionDesc_dotfiles": { "message": "Įtraukti taškinius failus į failų paiešką" },
   "optionDesc_noRecursion": { "message": "Išjungti rekursinę failų paiešką" },
   "optionDesc_noMangle": { "message": "Išjungti vardų keitimą" },
+  "optionDesc_noFilenameChange": { "message": "Išjungti failo plėtinio keitimą į .min.js" },
   "optionDesc_copy": { "message": "Nukopijuokite sumažintą kodą į iškarpinę, o ne rašykite į failą, jei apdorojamas vieno šaltinio failas" },
   "optionDesc_quiet": { "message": "Slėpti visus registravimus, išskyrus klaidas" },
   "optionDesc_ignoreFiles": { "message": "Failai, kuriuos reikia pašalinti iš sumažinimo" },

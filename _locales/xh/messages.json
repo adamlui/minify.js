@@ -35,6 +35,7 @@
   "optionDesc_dotfiles": { "message": "Faka iifayile zamachaphaza xa kukhangelwa iifayile" },
   "optionDesc_noRecursion": { "message": "Vala ukukhangela kwakhona ifayile" },
   "optionDesc_noMangle": { "message": "Vala amagama okungcola" },
+  "optionDesc_noFilenameChange": { "message": "Vala ukutshintsha ukongezwa kwefayile kwi .min.js" },
   "optionDesc_copy": { "message": "Khuphela ikhowudi encitshisiweyo kwibhodi yekliphu endaweni yokubhala kwifayile ukuba ifayile enye yemvelaphi iyaqhubekeka" },
   "optionDesc_quiet": { "message": "Cima konke ukungena ngaphandle kweempazamo" },
   "optionDesc_ignoreFiles": { "message": "Iifayile ezingabandakanywa ekunciphiseni" },

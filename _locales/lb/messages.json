@@ -35,6 +35,7 @@
   "optionDesc_dotfiles": { "message": "Inkludéiert dotfiles an der Dateisich" },
   "optionDesc_noRecursion": { "message": "Rekursiv Datei sichen deaktivéieren" },
   "optionDesc_noMangle": { "message": "Mangelen Nimm auszeschalten" },
+  "optionDesc_noFilenameChange": { "message": "Dateiverlängerung zu .min.js deaktivieren" },
   "optionDesc_copy": { "message": "Kopéiert minifizéiert Code op Clipboard anstatt op Datei ze schreiwen wann eng Quell Datei veraarbecht gëtt" },
   "optionDesc_quiet": { "message": "Ënnerdréckt all Umeldung ausser Feeler" },
   "optionDesc_ignoreFiles": { "message": "Dateien aus der Minifikatioun auszeschléissen" },

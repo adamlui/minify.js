@@ -35,6 +35,7 @@
   "optionDesc_dotfiles": { "message": "Include dotfiles in file search" },
   "optionDesc_noRecursion": { "message": "Disable recursive file searching" },
   "optionDesc_noMangle": { "message": "Disable mangling names" },
+  "optionDesc_noFilenameChange": { "message": "Disable changing file extension to .min.js" },
   "optionDesc_copy": { "message": "Copy minified code to clipboard instead of writing to file if single source file is processed" },
   "optionDesc_quiet": { "message": "Suppress all logging except errors" },
   "optionDesc_ignoreFiles": { "message": "Files to exclude from minification" },

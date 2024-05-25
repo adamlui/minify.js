@@ -35,6 +35,7 @@
   "optionDesc_dotfiles": { "message": "ፋይል ፍለጋ ውስጥ Dotfiles ያካትቱ" },
   "optionDesc_noRecursion": { "message": "ተደጋጋሚ ፋይል ፍለጋን ያሰናክሉ" },
   "optionDesc_noMangle": { "message": "ማንጋሊንግ ስሞችን ያሰናክሉ" },
+  "optionDesc_noFilenameChange": { "message": "ፋይል ቅጥያ ወደ .min.js መቀየር ያሰናክሉ" },
   "optionDesc_copy": { "message": "ነጠላ ምንጭ ፋይል ከተሰራ ፋይል ለማስገባት ከመጻፍ ይልቅ ወደ ክሊፕቦርድ የተቀናጀ ኮድ ይቅዱ" },
   "optionDesc_quiet": { "message": "ከስህተቶች በስተቀር ሁሉንም የመግቢያዎች መሙላት" },
   "optionDesc_ignoreFiles": { "message": "የማዕድን ማውጫዎችን ለማስወገድ ፋይሎች" },

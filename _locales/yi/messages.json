@@ -35,6 +35,7 @@
   "optionDesc_dotfiles": { "message": "אַרייַננעמען דאָטפילעס אין טעקע זוכן" },
   "optionDesc_noRecursion": { "message": "דיסייבאַל רעקורסיווע טעקע זוכן" },
   "optionDesc_noMangle": { "message": "דיסייבאַל מאַנגלינג נעמען" },
+  "optionDesc_noFilenameChange": { "message": "השבת את שינוי סיומת הקובץ ל-.min.js." },
   "optionDesc_copy": { "message": "קאָפּי מיניפיעד קאָד צו קליפּבאָרד אַנשטאָט פון שרייבן צו טעקע אויב איין מקור טעקע איז פּראַסעסט" },
   "optionDesc_quiet": { "message": "פאַרשטיקן אַלע לאָגינג אַחוץ ערראָרס" },
   "optionDesc_ignoreFiles": { "message": "טעקעס צו ויסשליסן פון מיניפיקאַטיאָן" },

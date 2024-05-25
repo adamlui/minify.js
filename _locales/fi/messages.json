@@ -35,6 +35,7 @@
   "optionDesc_dotfiles": { "message": "Sisällytä dot-tiedostot tiedostohakuun" },
   "optionDesc_noRecursion": { "message": "Poista rekursiivinen tiedostohaku käytöstä" },
   "optionDesc_noMangle": { "message": "Poista mangling-nimet käytöstä" },
+  "optionDesc_noFilenameChange": { "message": "Poista tiedostopäätteen muuttaminen muotoon .min.js" },
   "optionDesc_copy": { "message": "Kopioi pienennetty koodi leikepöydälle sen sijaan, että kirjoittaisit tiedostoon, jos käsitellään yksittäistä lähdetiedostoa" },
   "optionDesc_quiet": { "message": "Poista kaikki kirjaukset paitsi virheet" },
   "optionDesc_ignoreFiles": { "message": "Minifikaatiosta poistettavat tiedostot" },

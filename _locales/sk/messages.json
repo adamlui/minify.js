@@ -35,6 +35,7 @@
   "optionDesc_dotfiles": { "message": "Zahrnúť bodové súbory do vyhľadávania súborov" },
   "optionDesc_noRecursion": { "message": "Zakázať rekurzívne vyhľadávanie súborov" },
   "optionDesc_noMangle": { "message": "Zakázať mrzačenie mien" },
+  "optionDesc_noFilenameChange": { "message": "Zakázať zmenu prípony súboru na .min.js" },
   "optionDesc_copy": { "message": "Kopírovať zmenšený kód do schránky namiesto zápisu do súboru, ak sa spracováva jeden zdrojový súbor" },
   "optionDesc_quiet": { "message": "Potlačiť všetky protokoly okrem chýb" },
   "optionDesc_ignoreFiles": { "message": "Súbory, ktoré sa majú vylúčiť z minifikácie" },

@@ -35,6 +35,7 @@
   "optionDesc_dotfiles": { "message": "Файлын хайлтанд өгөгдлийн файл оруулах" },
   "optionDesc_noRecursion": { "message": "Recursive файл хайхыг идэвхгүй болгох" },
   "optionDesc_noMangle": { "message": "Гаргах нэрийг идэвхгүй болгох" },
+  "optionDesc_noFilenameChange": { "message": "Файлын өргөтгөлийг .min.js болгон өөрчлөхийг идэвхгүй болгох" },
   "optionDesc_copy": { "message": "Нэг эх файл боловсруулагдсан тохиолдолд файл руу бичихийн оронд жижиг кодыг хуулах" },
   "optionDesc_quiet": { "message": "Алдаанаас бусад бүх бүртгэлийг арилгах" },
   "optionDesc_ignoreFiles": { "message": "Суурилуулалтаас хасах файлууд" },

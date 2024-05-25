@@ -35,6 +35,7 @@
   "optionDesc_dotfiles": { "message": "Bao gồm các tập tin chấm trong tìm kiếm tập tin" },
   "optionDesc_noRecursion": { "message": "Tắt tính năng tìm kiếm tệp đệ quy" },
   "optionDesc_noMangle": { "message": "Vô hiệu hóa tên lộn xộn" },
+  "optionDesc_noFilenameChange": { "message": "Vô hiệu hóa thay đổi phần mở rộng tệp thành .min.js" },
   "optionDesc_copy": { "message": "Sao chép mã rút gọn vào khay nhớ tạm thay vì ghi vào tệp nếu tệp nguồn duy nhất được xử lý" },
   "optionDesc_quiet": { "message": "Chặn tất cả ghi nhật ký ngoại trừ lỗi" },
   "optionDesc_ignoreFiles": { "message": "Các tệp cần loại trừ khỏi quá trình thu nhỏ" },

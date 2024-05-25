@@ -35,6 +35,7 @@
   "optionDesc_dotfiles": { "message": "Whakauruhia nga dotfiles i roto i te rapu kōnae" },
   "optionDesc_noRecursion": { "message": "Whakakorea te rapu kōnae recursive" },
   "optionDesc_noMangle": { "message": "Te whakakore i nga ingoa mangling" },
+  "optionDesc_noFilenameChange": { "message": "Whakakorea te whakawhitinga kōnae ki .min.js" },
   "optionDesc_copy": { "message": "Tārua waehere minified ki clipboard kaua ki te tuhi ki te kōnae mēnā ka tukatukahia he kōnae pūtake kotahi" },
   "optionDesc_quiet": { "message": "Tautoko i te logging katoa engari hapa" },
   "optionDesc_ignoreFiles": { "message": "Kōnae ki te whakakore i te minification" },

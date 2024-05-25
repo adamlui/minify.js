@@ -35,6 +35,7 @@
   "optionDesc_dotfiles": { "message": "கோப்பு தேடலில் டாட்ஃபைல்களைச் சேர்க்கவும்" },
   "optionDesc_noRecursion": { "message": "சுழற்சி கோப்பு தேடலை முடக்கு" },
   "optionDesc_noMangle": { "message": "மேங்லிங் பெயர்களை முடக்கவும்" },
+  "optionDesc_noFilenameChange": { "message": "கோப்பு நீட்டிப்பை .min.js க்கு மாற்றுவதை முடக்கவும்" },
   "optionDesc_copy": { "message": "ஒற்றை மூலக் கோப்பு செயலாக்கப்பட்டால், கோப்பில் எழுதுவதற்குப் பதிலாக, சிறிய குறியீட்டை கிளிப்போர்டுக்கு நகலெடுக்கவும்" },
   "optionDesc_quiet": { "message": "பிழைகளைத் தவிர அனைத்து பதிவுகளையும் ஒடுக்கவும்" },
   "optionDesc_ignoreFiles": { "message": "சிற்றுண்டியிலிருந்து விலக்க வேண்டிய கோப்புகள்" },

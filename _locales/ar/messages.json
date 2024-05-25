@@ -35,6 +35,7 @@
   "optionDesc_dotfiles": { "message": "تضمين الملفات النقطية في البحث عن الملفات" },
   "optionDesc_noRecursion": { "message": "تعطيل البحث المتكرر عن الملفات" },
   "optionDesc_noMangle": { "message": "تعطيل أسماء التشويش" },
+  "optionDesc_noFilenameChange": { "message": "تعطيل تغيير امتداد الملف إلى .min.js" },
   "optionDesc_copy": { "message": "انسخ الرمز المصغر إلى الحافظة بدلاً من الكتابة إلى الملف إذا تمت معالجة ملف مصدر واحد" },
   "optionDesc_quiet": { "message": "قم بإيقاف جميع عمليات التسجيل باستثناء الأخطاء" },
   "optionDesc_ignoreFiles": { "message": "الملفات المراد استبعادها من التصغير" },

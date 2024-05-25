@@ -35,6 +35,7 @@
   "optionDesc_dotfiles": { "message": "Dotfilləri fayl axtarışına daxil edin" },
   "optionDesc_noRecursion": { "message": "Rekursiv fayl axtarışını qeyri-aktiv et" },
   "optionDesc_noMangle": { "message": "Manqrinq adlarını deaktiv et" },
+  "optionDesc_noFilenameChange": { "message": "Fayl uzantısının .min.js-ə dəyişdirilməsini deaktiv edin" },
   "optionDesc_copy": { "message": "Tək mənbə faylı işlənərsə, fayla yazmaq əvəzinə, minimuma endirilmiş kodu mübadilə buferinə kopyalayın" },
   "optionDesc_quiet": { "message": "Xətalardan başqa bütün girişləri bağlayın" },
   "optionDesc_ignoreFiles": { "message": "Minimallaşdırmanı istisna etmək üçün fayllar" },

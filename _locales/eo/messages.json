@@ -35,6 +35,7 @@
   "optionDesc_dotfiles": { "message": "Inkludi dotfiles en dosierserĉo" },
   "optionDesc_noRecursion": { "message": "Malebligi serĉadon de rekursiva dosiero" },
   "optionDesc_noMangle": { "message": "Malebligi mistraktajn nomojn" },
+  "optionDesc_noFilenameChange": { "message": "Malŝalti ŝanĝantan dosieretendaĵon al .min.js" },
   "optionDesc_copy": { "message": "Kopii minifikitan kodon al poŝo anstataŭ skribi dosieron se ununura fontodosiero estas prilaborita" },
   "optionDesc_quiet": { "message": "Subpremi ĉiujn registradojn krom eraroj" },
   "optionDesc_ignoreFiles": { "message": "Dosieroj por ekskludi de minifikado" },

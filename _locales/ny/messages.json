@@ -35,6 +35,7 @@
   "optionDesc_dotfiles": { "message": "Include dotfiles in file search" },
   "optionDesc_noRecursion": { "message": "Disable recursive file searching" },
   "optionDesc_noMangle": { "message": "Disable mangling names" },
+  "optionDesc_noFilenameChange": { "message": "Kulepheretsa kusintha kwa fayilo ku .min.js" },
   "optionDesc_copy": { "message": "Koperani kachidindo minified kuti clipboard m 'malo kulemba file ngati limodzi gwero wapamwamba ndi kukonzedwa" },
   "optionDesc_quiet": { "message": "Suppress all logging except errors" },
   "optionDesc_ignoreFiles": { "message": "Files to exclude from minification" },

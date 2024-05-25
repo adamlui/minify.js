@@ -35,6 +35,7 @@
   "optionDesc_dotfiles": { "message": "在文件搜索中包含点文件" },
   "optionDesc_noRecursion": { "message": "禁用递归文件搜索" },
   "optionDesc_noMangle": { "message": "禁用修饰名称" },
+  "optionDesc_noFilenameChange": { "message": "禁止将文件扩展名更改为 .min.js" },
   "optionDesc_copy": { "message": "如果处理单个源文件，则将缩小的代码复制到剪贴板而不是写入文件" },
   "optionDesc_quiet": { "message": "禁止所有日志记录，错误除外" },
   "optionDesc_ignoreFiles": { "message": "从缩小中排除的文件" },

@@ -35,6 +35,7 @@
   "optionDesc_dotfiles": { "message": "फ़ाइल खोज में डॉटफ़ाइल शामिल करें" },
   "optionDesc_noRecursion": { "message": "रिकर्सिव फ़ाइल खोज अक्षम करें" },
   "optionDesc_noMangle": { "message": "मैंगलिंग नाम अक्षम करें" },
+  "optionDesc_noFilenameChange": { "message": "फ़ाइल एक्सटेंशन को .min.js में बदलना अक्षम करें" },
   "optionDesc_copy": { "message": "यदि एकल स्रोत फ़ाइल संसाधित की जाती है तो फ़ाइल को लिखने के बजाय क्लिपबोर्ड पर मिनीफ़ाइड कोड कॉपी करें" },
   "optionDesc_quiet": { "message": "त्रुटियों को छोड़कर सभी लॉगिंग को दबाएं" },
   "optionDesc_ignoreFiles": { "message": "मिनिफ़िकेशन से बाहर की जाने वाली फ़ाइलें" },

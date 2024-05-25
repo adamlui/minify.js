@@ -35,6 +35,7 @@
   "optionDesc_dotfiles": { "message": "Inclou els fitxers de punt a la cerca de fitxers" },
   "optionDesc_noRecursion": { "message": "Desactiva la cerca recursiva de fitxers" },
   "optionDesc_noMangle": { "message": "Inhabilita els noms de manipulació" },
+  "optionDesc_noFilenameChange": { "message": "Desactiva el canvi de l'extensió del fitxer a .min.js" },
   "optionDesc_copy": { "message": "Copia el codi minificat al porta-retalls en lloc d'escriure al fitxer si es processa un únic fitxer font" },
   "optionDesc_quiet": { "message": "Suprimeix tot el registre, excepte els errors" },
   "optionDesc_ignoreFiles": { "message": "Fitxers a excloure de la minificació" },

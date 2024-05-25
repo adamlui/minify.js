@@ -35,6 +35,7 @@
   "optionDesc_dotfiles": { "message": "រួមបញ្ចូលឯកសារ dotfiles ក្នុងការស្វែងរកឯកសារ" },
   "optionDesc_noRecursion": { "message": "បិទការស្វែងរកឯកសារហៅឡើងវិញ" },
   "optionDesc_noMangle": { "message": "មិនអនុញ្ញាតឲ្យមានឈ្មោះបោកបញ្ឆោត" },
+  "optionDesc_noFilenameChange": { "message": "បិទការផ្លាស់ប្តូរកន្ទុយឯកសារទៅ .min.js" },
   "optionDesc_copy": { "message": "ចម្លង កូដ តូច ទៅ ក្ដារ តម្បៀត ខ្ទាស់ ជំនួស ឲ្យ ការ សរសេរ ទៅ ឯកសារ ប្រសិន បើ ឯកសារ ប្រភព តែ មួយ ត្រូវ បាន ដំណើរការ" },
   "optionDesc_quiet": { "message": "បង្ក្រាបការកាប់ឈើទាំងអស់លើកលែងតែកំហុស" },
   "optionDesc_ignoreFiles": { "message": "ឯកសារដែលត្រូវដកចេញពី minification" },

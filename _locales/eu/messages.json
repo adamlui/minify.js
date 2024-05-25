@@ -35,6 +35,7 @@
   "optionDesc_dotfiles": { "message": "Sartu dotfitxategiak fitxategien bilaketan" },
   "optionDesc_noRecursion": { "message": "Desgaitu fitxategien bilaketa errekurtsiboa" },
   "optionDesc_noMangle": { "message": "Desgaitu izenak nahastea" },
+  "optionDesc_noFilenameChange": { "message": "Desgaitu fitxategi-luzapena .min.js-era aldatzea" },
   "optionDesc_copy": { "message": "Kopiatu txikitutako kodea arbelean fitxategian idatzi ordez iturburu-fitxategi bakarra prozesatzen bada" },
   "optionDesc_quiet": { "message": "Ezabatu erregistro guztiak erroreak izan ezik" },
   "optionDesc_ignoreFiles": { "message": "Minifikaziotik baztertzeko fitxategiak" },

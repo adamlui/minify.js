@@ -35,6 +35,7 @@
   "optionDesc_dotfiles": { "message": "Dotbestanden opnemen in bestandszoekopdracht" },
   "optionDesc_noRecursion": { "message": "Recursief zoeken naar bestanden uitschakelen" },
   "optionDesc_noMangle": { "message": "Mangelnamen uitschakelen" },
+  "optionDesc_noFilenameChange": { "message": "Schakel het wijzigen van de bestandsextensie naar .min.js uit" },
   "optionDesc_copy": { "message": "Kopieer geminimaliseerde code naar klembord in plaats van naar bestand te schrijven als één bronbestand wordt verwerkt" },
   "optionDesc_quiet": { "message": "Alle logboekregistraties onderdrukken, behalve fouten" },
   "optionDesc_ignoreFiles": { "message": "Bestanden om uit te sluiten van verkleining" },

@@ -35,6 +35,7 @@
   "optionDesc_dotfiles": { "message": "ཡིག་ཆ་འཚོལ་བཤེར་ནང་dotfiles་སྣོན །" },
   "optionDesc_noRecursion": { "message": "ཡིག་ཆ་བསྐྱར་བཅོས་འཚོལ་བཤེར་ནུས་མེད་བཟོ" },
   "optionDesc_noMangle": { "message": "མོང་སྒར་མིང་མི་ཆོག་པ" },
+  "optionDesc_noFilenameChange": { "message": ".min.js སྒྲིག་འཇུག་བྱས་ཚད ། ཐེངས་10 ལས་ཉུང་བ ། ཐོན་རིམ་5.7.1 ནང་དུ་ཚོད་ལྟ་བྱས་ཟིན ། ཟླ 6 སྔོན་" },
   "optionDesc_copy": { "message": "ཡིག་ཆ་གཅིག་ལས་ཀ་བྱས་པ་ཡིན་ན་ཡིག་ཆ་ལ་འབྲི་བའི་ཚབ་ཏུ་ཡིག་ཆ་ཆུང་བའི་ཡིག་ཆ་ལ་འདྲ་བཤུ་བྱེད་པ" },
   "optionDesc_quiet": { "message": "འཛོལ་བ་མ་གཏོགས་གཞན་གྱི་མིང་ཐོ་ཚང་མ་ཕྱིར་འབུད་བྱེད་པ" },
   "optionDesc_ignoreFiles": { "message": "ཡིག་ཆ་རྣམས་ཉུང་དུ་གཏོང་རྒྱུར་བཀག་འགོག་བྱེད་པ །" },

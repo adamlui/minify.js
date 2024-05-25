@@ -35,6 +35,7 @@
   "optionDesc_dotfiles": { "message": "Incluir ficheiros de pontos na pesquisa de ficheiros" },
   "optionDesc_noRecursion": { "message": "Desativar a pesquisa recursiva de ficheiros" },
   "optionDesc_noMangle": { "message": "Desativar nomes mutilados" },
+  "optionDesc_noFilenameChange": { "message": "Desativar a alteração da extensão do ficheiro para .min.js" },
   "optionDesc_copy": { "message": "Copie o código minificado para a área de transferência em vez de gravar no arquivo se um único arquivo de origem for processado" },
   "optionDesc_quiet": { "message": "Suprimir todos os registos, exceto erros" },
   "optionDesc_ignoreFiles": { "message": "Arquivos a serem excluídos da minificação" },

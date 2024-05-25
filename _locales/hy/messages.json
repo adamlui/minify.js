@@ -35,6 +35,7 @@
   "optionDesc_dotfiles": { "message": "Ֆայլերի որոնման մեջ ներառեք կետային ֆայլեր" },
   "optionDesc_noRecursion": { "message": "Անջատել ռեկուրսիվ ֆայլի որոնումը" },
   "optionDesc_noMangle": { "message": "Անջատել մանիպուլյացիայի անունները" },
+  "optionDesc_noFilenameChange": { "message": "Անջատել փոփոխվող ֆայլի ընդլայնումը .min.js- ին" },
   "optionDesc_copy": { "message": "Պատճենեք փոքրացված կոդը ֆայլի համար գրելու փոխարեն, եթե մշակվում է մեկ աղբյուրի ֆայլ" },
   "optionDesc_quiet": { "message": "Սեղմեք բոլոր տեղեկամատյանները, բացի սխալներից" },
   "optionDesc_ignoreFiles": { "message": "Նվազեցումը բացառող ֆայլեր" },
