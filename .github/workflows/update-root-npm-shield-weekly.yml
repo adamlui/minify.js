@@ -93,5 +93,5 @@ jobs:
           git config --global user.name "kudo-sync-bot"
           git config --global user.email "auto-sync@kudoai.com"
           git add .
-          git commit -n -m "Updated downloads shield counter" || true
+          git commit -n -m "Updated downloads shield counter in root README" || true
           git push
