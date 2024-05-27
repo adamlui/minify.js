@@ -127,7 +127,7 @@ jobs:
           echo $commit_msg
           [ "$clones_updated" = true             ] && commit_msg+="clones"
           echo $commit_msg
-          commit_msg+=" shield counter$([ "$multi_shield_types_updated" = true ] && echo "s")"
+          commit_msg+=" shield counter$([ "$multi_shield_types_updated" == "true" ] && echo "s")"
           echo $commit_msg
           commit_msg+=" in root README"
           echo $commit_msg
