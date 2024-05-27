@@ -88,12 +88,10 @@ jobs:
           fi
 
       - name: Push to adamlui/minify.js
-        uses: stefanzweifel/git-auto-commit-action@v4
-        with:
-          push_options: --force
-          add_options: --all
-          commit_user_email: auto-sync@kudoai.com
-          commit_author: kudo-sync-bot <auto-sync@kudoai.com>
-          commit_message: Updated downloads shield counter
-          file_pattern: docs/README.md
-          repository: adamlui/minify.js
+        run: |
+          cd ${{ github.workspace }}/adamlui/minify.js
+          git config --global user.name "kudo-sync-bot"
+          git config --global user.email "auto-sync@kudoai.com"
+          git add .
+          git commit -n -m "Updated downloads shield counter" || true
+          git push
