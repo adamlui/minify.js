@@ -19,7 +19,6 @@ jobs:
       - name: Fetch/sum npm download counts
         id: get-stats
         run: |
-          LC_NUMERIC=en_US # to insert commas
           npm_pkgs=("@adamlui/minify.js" "gulp-minify.js")
 
           expand_num() { # expand nums abbreviated w/ 'k' or 'm' suffix to integers
