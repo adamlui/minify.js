@@ -1,8 +1,6 @@
 name: Update npm/clones shields in root README
 
-on:
-  schedule:
-    - cron: "17 0 * * 0" # every Sunday 12:17a
+on: workflow_dispatch
 
 jobs:
   update-root-npm-clones-shields:
