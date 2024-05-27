@@ -118,12 +118,19 @@ jobs:
           # Define commit msg for push step next
           if [ "$downloads_updated" = true ] && [ "$clones_updated" = true ] ; then
             multi_shield_types_updated=true ; fi
+          echo $multi_shield_types_updated
           commit_msg="Updated "
+          echo $commit_msg
           [ "$downloads_updated" = true          ] && commit_msg+="npm"
+          echo $commit_msg
           [ "$multi_shield_types_updated" = true ] && commit_msg+="/"
+          echo $commit_msg
           [ "$clones_updated" = true             ] && commit_msg+="clones"
+          echo $commit_msg
           commit_msg+=" shield counter$([ "$multi_shield_types_updated" = true ] && echo "s")"
+          echo $commit_msg
           commit_msg+=" in root README"
+          echo $commit_msg
           echo "commit_msg=$commit_msg" >> $GITHUB_OUTPUT # expose as output
 
       - name: Push to adamlui/minify.js
