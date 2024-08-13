@@ -128,7 +128,7 @@ jobs:
           commit_msg+=" in root README"
           echo "commit_msg=$commit_msg" >> $GITHUB_OUTPUT # expose as output
 
-      - name: Push to adamlui/minify.js
+      - name: Push changes to adamlui/minify.js
         run: |
           cd ${{ github.workspace }}/adamlui/minify.js
           git config --global user.name "kudo-sync-bot"
