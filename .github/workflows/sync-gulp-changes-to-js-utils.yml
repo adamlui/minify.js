@@ -1,4 +1,4 @@
-name: Sync README.md between gulp/ and gulp/docs/, then gulp/* to adamlui/js-utils/minify.js/gulp/*
+name: Sync README.md between gulp/ & gulp/docs/, then gulp/ to adamlui/js-utils/minify.js/gulp/
 
 on:
   push:
@@ -29,7 +29,7 @@ jobs:
           repository: adamlui/js-utils
           path: adamlui/js-utils
 
-      - name: Sync README.md between gulp/ and gulp/docs
+      - name: Sync README.md between gulp/ & gulp/docs
         id: sync_readmes
         run: |
           cd ${{ github.workspace }}/adamlui/minify.js
@@ -58,7 +58,7 @@ jobs:
           # Store sync src for commit msg in self-push step
           echo "sync_src=$src_folder" >> $GITHUB_OUTPUT
 
-      - name: Sync gulp/* to adamlui/js-utils/minify.js/gulp/*
+      - name: Sync gulp/ to adamlui/js-utils/minify.js/gulp/
         run: |
           rsync -avhr --delete \
             ${{ github.workspace }}/adamlui/minify.js/gulp/ \
