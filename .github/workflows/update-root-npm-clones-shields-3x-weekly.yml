@@ -20,7 +20,6 @@ jobs:
           path: adamlui/minify.js
       
       - name: Fetch/sum npm download + git clone counts
-        id: get-stats
         run: |
           npm_pkgs=("@adamlui/minify.js" "gulp-minify.js")
 
@@ -86,17 +85,17 @@ jobs:
           formatted_total_clones=$(format_total "$total_clones")
           echo "Formatted total monthly git clones: $formatted_total_clones"
 
-          # Expose as output for update step next
-          echo "total_downloads=$formatted_total_downloads" >> $GITHUB_OUTPUT
-          echo "total_clones=$formatted_total_clones" >> $GITHUB_OUTPUT
+          # Expose totals for update step next
+          echo "total_downloads=$formatted_total_downloads" >> $GITHUB_ENV
+          echo "total_clones=$formatted_total_clones" >> $GITHUB_ENV
       
       - name: Update README shields
         id: update-shields
         run: |
           cd ${{ github.workspace }}/adamlui/minify.js
 
-          total_downloads="${{ steps.get-stats.outputs.total_downloads }}"
-          total_clones="${{ steps.get-stats.outputs.total_clones }}"
+          total_downloads="${{ env.total_downloads }}"
+          total_clones="${{ env.total_clones }}"
 
           # Update npm shield
           if [ "$total_downloads" == "0" ] ; then echo "Error getting total npm downloads"
@@ -120,7 +119,7 @@ jobs:
             else echo "Git clones shield already up-to-date" ; fi
           fi
 
-          # Define commit msg for push step next
+          # Define commit msg for push step
           if [ "$downloads_updated" = true ] && [ "$clones_updated" = true ] ; then
             multi_shield_types_updated=true ; fi
           commit_msg="Updated "
@@ -129,7 +128,7 @@ jobs:
           [ "$clones_updated" = true             ] && commit_msg+="clones"
           commit_msg+=" shield counter" ; [ "$multi_shield_types_updated" = true ] && commit_msg+="s"
           commit_msg+=" in root README"
-          echo "commit_msg=$commit_msg" >> $GITHUB_OUTPUT # expose as output
+          echo "commit_msg=$commit_msg" >> $GITHUB_ENV # expose as env var
 
       - name: Config committer
         run: |
