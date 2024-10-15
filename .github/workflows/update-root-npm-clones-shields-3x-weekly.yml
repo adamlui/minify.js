@@ -76,7 +76,6 @@ jobs:
           echo "total_downloads=$formatted_total_downloads" >> $GITHUB_ENV
       
       - name: Update README shield
-        id: update-shields
         run: |
           cd ${{ github.workspace }}/adamlui/minify.js
           total_downloads="${{ env.total_downloads }}"
