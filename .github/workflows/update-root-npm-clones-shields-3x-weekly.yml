@@ -2,7 +2,7 @@ name: Update npm shields in root README
 
 on:
   schedule:
-    - cron: "38 5 * * 1,3,5" # every Mon/Wed/Fri @ 5:38 AM
+    - cron: "38 5 * * 3" # every Wed @ 5:38 AM
 
 jobs:
   update-root-npm-shields:
@@ -75,7 +75,7 @@ jobs:
           # Expose total for update step next
           echo "total_downloads=$formatted_total_downloads" >> $GITHUB_ENV
       
-      - name: Update README shields
+      - name: Update README shield
         id: update-shields
         run: |
           cd ${{ github.workspace }}/adamlui/minify.js
