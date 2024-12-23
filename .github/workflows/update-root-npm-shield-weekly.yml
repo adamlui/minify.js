@@ -107,6 +107,7 @@ jobs:
         if: env.SHIELD_UPDATED == 'true'
         run: |
           cd ${{ github.workspace }}/adamlui/minify.js
+          git pull # again to sync w/ concurrent workflow updates
           git add .
           git commit -n -m "Updated npm shield counter in root README" || true
           git push
