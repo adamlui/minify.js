@@ -1,8 +1,8 @@
 <div align="right">
     <h6>
         <picture>
-            <source type="image/svg+xml" media="(prefers-color-scheme: dark)" srcset="https://media.minify-js.org/images/icons/earth/white/icon32.svg?d07ee82">
-            <img height=14 src="https://media.minify-js.org/images/icons/earth/black/icon32.svg?d07ee82">
+            <source type="image/svg+xml" media="(prefers-color-scheme: dark)" srcset="https://assets.minify-js.org/images/icons/earth/white/icon32.svg?d07ee82">
+            <img height=14 src="https://assets.minify-js.org/images/icons/earth/black/icon32.svg?d07ee82">
         </picture>
         &nbsp;Français |
         <a href="../LICENSE.md">English</a> |
@@ -19,7 +19,7 @@
 
 # 🏛️ Licence MIT
 
-**Droits d'auteurs © 2023–2024 [Adam Lui](https://github.com/adamlui) et contributeurs**
+**Droits d'auteurs © 2023–2025 [Adam Lui](https://github.com/adamlui) et contributeurs**
 
 Autorisation est accordée par la présente, gratuitement, à toute personne obtenant une copie de ce logiciel et des fichiers de documentation associés (le "Logiciel"), de traiter dans le Logiciel sans restriction, y compris sans limitation les droits d'utilisation, de copie, de modification, de fusion, de publication, de distribution, de sous-licence, et/ou de vendre des copies du Logiciel, et de permettre aux personnes à qui le Logiciel est fourni de le faire, sous réserve des conditions suivantes:
 

@@ -1,8 +1,8 @@
 <div align="right">
     <h6>
         <picture>
-            <source type="image/svg+xml" media="(prefers-color-scheme: dark)" srcset="https://media.minify-js.org/images/icons/earth/white/icon32.svg?d07ee82">
-            <img height=14 src="https://media.minify-js.org/images/icons/earth/black/icon32.svg?d07ee82">
+            <source type="image/svg+xml" media="(prefers-color-scheme: dark)" srcset="https://assets.minify-js.org/images/icons/earth/white/icon32.svg?d07ee82">
+            <img height=14 src="https://assets.minify-js.org/images/icons/earth/black/icon32.svg?d07ee82">
         </picture>
         &nbsp;मराठी |
         <a href="../..#readme">English</a> |
@@ -33,7 +33,7 @@
 
 <br>
 
-<img height=6px width="100%" src="https://media.minify-js.org/images/separators/gradient-aqua.png?8b9ed02">
+<img height=6px width="100%" src="https://assets.minify-js.org/images/separators/gradient-aqua.png?8b9ed02">
 
 ## ⚡ स्थापना
 
@@ -57,9 +57,9 @@ $ npm install @adamlui/minify.js
 
 <br>
 
-<a href="https://github.com/sponsors/adamlui"><img src="https://media.minify-js.org/images/banners/sponsor/$10/banner1660x260.png?f6118ce"></a>
+<a href="https://github.com/sponsors/adamlui"><img src="https://assets.minify-js.org/images/banners/sponsor/$10/banner1660x260.png?f6118ce"></a>
 
-<img height=6px width="100%" src="https://media.minify-js.org/images/separators/gradient-aqua.png?8b9ed02">
+<img height=6px width="100%" src="https://assets.minify-js.org/images/separators/gradient-aqua.png?8b9ed02">
 
 ## 💻 कमांड लाइन वापर
 
@@ -150,7 +150,7 @@ $ minify-js input_folder output_folder
 
 <br>
 
-<img height=6px width="100%" src="https://media.minify-js.org/images/separators/gradient-aqua.png?8b9ed02">
+<img height=6px width="100%" src="https://assets.minify-js.org/images/separators/gradient-aqua.png?8b9ed02">
 
 ## 🔌 API वापर
 
@@ -255,11 +255,11 @@ findJS() » Check returned array.
 
 <br>
 
-<img height=6px width="100%" src="https://media.minify-js.org/images/separators/gradient-aqua.png?8b9ed02">
+<img height=6px width="100%" src="https://assets.minify-js.org/images/separators/gradient-aqua.png?8b9ed02">
 
 ## 🏛️ MIT परवाना
 
-**कॉपीराइट © 2023–2024 [Adam Lui](https://github.com/adamlui) आणि योगदानकर्ते**
+**कॉपीराइट © 2023–2025 [Adam Lui](https://github.com/adamlui) आणि योगदानकर्ते**
 
 या सॉफ्टवेअरची आणि संबंधित दस्तऐवज फाइल्स ("सॉफ्टवेअर") ची प्रत मिळवणाऱ्या कोणत्याही व्यक्तीला, वापर, कॉपी, सुधारणे, विलीन करण्याच्या अधिकारांसह मर्यादेशिवाय सॉफ्टवेअरमध्ये व्यवहार करण्यासाठी, याद्वारे परवानगी देण्यात आली आहे. , सॉफ्टवेअरच्या प्रती प्रकाशित करणे, वितरित करणे, उपपरवाना देणे आणि/किंवा विक्री करणे आणि ज्यांना सॉफ्टवेअर दिलेले आहे अशा व्यक्तींना असे करण्यास परवानगी देणे, खालील अटींच्या अधीन राहून:
 
@@ -269,18 +269,18 @@ findJS() » Check returned array.
 
 <br>
 
-<img height=6px width="100%" src="https://media.minify-js.org/images/separators/gradient-aqua.png?8b9ed02">
+<img height=6px width="100%" src="https://assets.minify-js.org/images/separators/gradient-aqua.png?8b9ed02">
 
 ## 🛠️ संबंधित उपयुक्तता
 
-### [</> minify.js (Gulp)](https://gulp.minify-js.org) &nbsp;<a href="https://github.com/toolleeo/cli-apps#programming"><img height=18 src="https://media.minify-js.org/images/badges/awesome/badge.svg?b78dcd3"></a>
+### [</> minify.js (Gulp)](https://gulp.minify-js.org) &nbsp;<a href="https://github.com/toolleeo/cli-apps#programming"><img height=18 src="https://assets.minify-js.org/images/badges/awesome/badge.svg?b78dcd3"></a>
 
 > Gulp प्लग-इन सर्व JavaScript फायली आवर्तीपणे लहान करण्यासाठी.
 <br>[स्थापित करा](https://gulp.minify-js.org/#-installation) /
 [मला वाचा](https://gulp.minify-js.org/#readme) /
 [चर्चा करा](https://github.minify-js.org/discussions)
 
-### [{ } scss-to-css](https://github.com/adamlui/scss-to-css) &nbsp;<a href="https://github.com/toolleeo/cli-apps#conversion"><img height=18 src="https://media.minify-js.org/images/badges/awesome/badge.svg?b78dcd3"></a>
+### [{ } scss-to-css](https://github.com/adamlui/scss-to-css) &nbsp;<a href="https://github.com/toolleeo/cli-apps#conversion"><img height=18 src="https://assets.minify-js.org/images/badges/awesome/badge.svg?b78dcd3"></a>
 
 > सर्व SCSS फाईल्स संकुचित CSS मध्ये पुनरावृत्तीने संकलित करा.
 <br>[स्थापित करा](https://node.scsstocss.org/#-installation) /
@@ -291,8 +291,8 @@ findJS() » Check returned array.
 
 <br>
 
-<img height=6px width="100%" src="https://media.minify-js.org/images/separators/gradient-aqua.png?8b9ed02">
+<img height=6px width="100%" src="https://assets.minify-js.org/images/separators/gradient-aqua.png?8b9ed02">
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://media.minify-js.org/images/icons/home/white/icon32x27.png?d07ee82"><img height=13 src="https://media.minify-js.org/images/icons/home/dark-gray/icon32x27.png?d07ee82"></picture> <a href="https://js-utils.org">**अधिक JavaScript उपयुक्तता**</a> /
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://assets.minify-js.org/images/icons/home/white/icon32x27.png?d07ee82"><img height=13 src="https://assets.minify-js.org/images/icons/home/dark-gray/icon32x27.png?d07ee82"></picture> <a href="https://js-utils.org">**अधिक JavaScript उपयुक्तता**</a> /
 <a href="https://github.minify-js.org/discussions">चर्चा करा</a> /
 <a href="#-minifyjs">परत वर जा ↑</a>
