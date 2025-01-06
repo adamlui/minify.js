@@ -1,6 +1,8 @@
 name: Sync latest release to adamlui/js-utils
 
-on: workflow_dispatch
+on:
+  push:
+    tags: ["*"]
 
 jobs:
   sync-latest-release:
@@ -17,6 +19,8 @@ jobs:
             sed 's|📃|:page_with_curl:|g; s|🚀|:rocket:|g; s|🧠|:brain:|g' | # replace emojis w/ CLDR short names
             sed -E "s|(minify\.js)(/compare/)([^-]+)-v([0-9.]+)\.\.\.([^-]+)-v|js-utils\2\1-\3-\4\.\.\.\1-\3-|g" | # replace tags in compare URL
             sed -E "s|(minify\.js)(/tree/)([^-]+)-v([0-9.]+)|js-utils\2\1-\3-\4/\1|g") # replace tag in README URL
+          if [[ "$RELEASE_NOTES" == *"Auto-synced from"* ]] ; then
+            echo "Release already auto-synced. Exiting..." ; exit 0 ; fi
           echo "Release Title: $RELEASE_TITLE"
           echo "Release Tag: $release_tag_name"
 
@@ -37,6 +41,7 @@ jobs:
           
           # Publish new release
           echo "Publishing new release..."
+          RELEASE_NOTES+="\n\n###### _Auto-synced from https://github.com/adamlui/scss-to-css/releases_" # prevent ping pong
           create_release_url="https://api.github.com/repos/adamlui/js-utils/releases"
           create_release_payload=$(
             printf '{"tag_name": "%s","name": "%s","body": "%s"}' \
