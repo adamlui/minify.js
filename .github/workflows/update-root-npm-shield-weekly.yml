@@ -4,6 +4,9 @@ on:
   schedule:
     - cron: "38 5 * * 3" # every Wed @ 5:38 AM
 
+permissions:
+  contents: write
+
 jobs:
   update-root-npm-shields:
     runs-on: ubuntu-latest

@@ -5,6 +5,9 @@ on:
     branches: [main]
     paths: [gulp/**]
 
+permissions:
+  contents: write
+
 jobs:
   build:
     if: (github.repository == 'adamlui/minify.js') && (github.event.commits[0].committer.username != 'kudo-sync-bot')
