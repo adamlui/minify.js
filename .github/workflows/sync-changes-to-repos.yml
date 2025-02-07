@@ -46,6 +46,7 @@ jobs:
 
           # Perform syncs of diff READMEs
           if [[ "$root_readme_content" != "$docs_readme_content" ]] ; then
+            echo "readme_updated=true" >> $GITHUB_ENV
             if (( $root_readme_modified > $docs_readme_modified )) ; then
               cp -f "$root_readme" "$docs_readme"
               echo "Copied $root_readme to $docs_readme"
@@ -69,6 +70,7 @@ jobs:
 
           # Perform syncs of diff READMEs
           if [[ "$root_readme_content" != "$docs_readme_content" ]] ; then
+            echo "readme_updated=true" >> $GITHUB_ENV
             if (( $root_readme_modified > $docs_readme_modified )) ; then
               cp -f "$root_readme" "$docs_readme"
               echo "Copied $root_readme to $docs_readme"
@@ -101,7 +103,7 @@ jobs:
           git config --global user.signingkey "${{ secrets.GPG_PRIVATE_ID }}"
 
       - name: Push changes to adamlui/minify.js
-        if: env.SYNC_SRC
+        if: env.readme_updated
         run: |
           cd ${{ github.workspace }}/adamlui/minify.js
           git pull && git add .
