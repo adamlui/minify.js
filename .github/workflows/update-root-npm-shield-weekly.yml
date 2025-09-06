@@ -18,8 +18,6 @@ jobs:
       - name: Checkout adamlui/minify.js
         uses: actions/checkout@v5
         with:
-          token: ${{ secrets.REPO_SYNC_PAT }}
-          repository: adamlui/minify.js
           path: adamlui/minify.js
       
       - name: Fetch/sum npm download counts
