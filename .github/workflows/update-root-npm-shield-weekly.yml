@@ -3,6 +3,7 @@ name: Update npm shields in root README
 on:
   schedule:
     - cron: "38 5 * * 3" # every Wed @ 5:38 AM
+  workflow_dispatch:
 
 permissions:
   contents: read
