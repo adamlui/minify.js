@@ -24,6 +24,13 @@ jobs:
           path: adamlui/minify.js
           fetch-depth: 2
 
+      - name: Checkout adamlui/js-utils
+        uses: actions/checkout@v5.0.0
+        with:
+          token: ${{ secrets.REPO_SYNC_PAT }}
+          repository: adamlui/js-utils
+          path: adamlui/js-utils
+
       - name: Sync changes between **/bump.sh
         run: |
           cd ${{ github.workspace }}/adamlui/minify.js
@@ -47,6 +54,12 @@ jobs:
           # Expose sync src for commit msg in next step
           sync_src=$(echo "$newest_file" | cut -d'/' -f2-3)
           echo "SYNC_SRC=$sync_src" >> $GITHUB_ENV
+
+      - name: Sync ** to adamlui/js-utils/minify.js/
+        run: |
+          rsync -avhr --delete --exclude '.*' \
+            ${{ github.workspace }}/adamlui/minify.js/ \
+            ${{ github.workspace }}/adamlui/js-utils/minify.js/
 
       - name: Escape backticks in commit msg
         env:
@@ -74,4 +87,11 @@ jobs:
           git pull # again to sync w/ concurrent workflow updates
           git add .
           git commit -n -m "$ESCAPED_MSG ↞ [auto-sync from $SYNC_SRC]" || true
+          git push
+
+      - name: Push changes to adamlui/js-utils
+        run: |
+          cd ${{ github.workspace }}/adamlui/js-utils
+          git pull && git add .
+          git commit -n -m "$ESCAPED_MSG ↞ [auto-sync from https://github.com/adamlui/minify.js]" || true
           git push
