@@ -105,7 +105,7 @@ jobs:
           if [ "$downloads_updated" = true ] ; then echo "SHIELD_UPDATED=true" >> $GITHUB_ENV ; fi
 
       - name: Sync ** to adamlui/js-utils/minify.js/
-        if: env.USERS_UPDATED == 'true'
+        if: env.SHIELDS_UPDATED == 'true'
         run: |
           rsync -avhr --delete --exclude={'.*','eslint*','package*json'} \
             ${{ github.workspace }}/adamlui/minify.js/ \
@@ -133,7 +133,7 @@ jobs:
           git push
 
       - name: Push changes to adamlui/ai-web-extensions
-        if: env.USERS_UPDATED == 'true'
+        if: env.SHIELDS_UPDATED == 'true'
         run: |
           cd ${{ github.workspace }}/adamlui/ai-web-extensions
           git add .
