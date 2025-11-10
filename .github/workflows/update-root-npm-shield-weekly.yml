@@ -21,6 +21,13 @@ jobs:
         with:
           token: ${{ secrets.REPO_SYNC_PAT }}
           path: adamlui/minify.js
+
+      - name: Checkout adamlui/js-utils
+        uses: actions/checkout@v5.0.0
+        with:
+          token: ${{ secrets.REPO_SYNC_PAT }}
+          repository: adamlui/js-utils
+          path: adamlui/js-utils
       
       - name: Fetch/sum npm download counts
         run: |
@@ -97,6 +104,13 @@ jobs:
           # Set Updated flag to check in subseuqent steps
           if [ "$downloads_updated" = true ] ; then echo "SHIELD_UPDATED=true" >> $GITHUB_ENV ; fi
 
+      - name: Sync ** to adamlui/js-utils/minify.js/
+        if: env.USERS_UPDATED == 'true'
+        run: |
+          rsync -avhr --delete --exclude={'.*','eslint*','package*json'} \
+            ${{ github.workspace }}/adamlui/minify.js/ \
+            ${{ github.workspace }}/adamlui/js-utils/minify.js/
+
       - name: Config committer
         if: env.SHIELD_UPDATED == 'true'
         env:
@@ -116,4 +130,12 @@ jobs:
           git pull # again to sync w/ concurrent workflow updates
           git add .
           git commit -n -m "Updated npm shield counter in root readme" || true
+          git push
+
+      - name: Push changes to adamlui/ai-web-extensions
+        if: env.USERS_UPDATED == 'true'
+        run: |
+          cd ${{ github.workspace }}/adamlui/ai-web-extensions
+          git add .
+          git commit -n -m "Updated usercount shield counters in minify.js root readmes" || true
           git push
