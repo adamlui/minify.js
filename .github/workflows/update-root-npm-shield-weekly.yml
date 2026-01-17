@@ -5,12 +5,11 @@ on:
     - cron: "38 5 * * 3" # every Wed @ 5:38 AM
   workflow_dispatch:
 
-permissions:
-  contents: read
-
 jobs:
   update-root-npm-shields:
     runs-on: ubuntu-latest
+    permissions:
+      contents: read
     env:
       TZ: PST8PDT
     
