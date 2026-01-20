@@ -2,7 +2,7 @@ name: Sync releases to adamlui/js-utils
 
 on:
   release:
-    types: [published, released]
+    types: [published, edited, released]
 
 jobs:
   sync-release:
@@ -22,6 +22,9 @@ jobs:
           # Get fresh release data from API
           this_release=$(curl -s https://api.github.com/repos/adamlui/minify.js/releases/tags/$release_tag_name)
           RELEASE_NOTES=$(echo "$this_release" | sed -nE 's/.*"body": "(.*)".*/\1/p')
+
+          if [[ "$RELEASE_NOTES" == *"Auto-synced from"* ]] ; then
+              echo "Release already auto-synced. Exiting..." ; exit 0 ; fi
 
           # Process notes
           RELEASE_NOTES=$(echo "$RELEASE_NOTES" | \
