@@ -34,10 +34,6 @@ jobs:
 
           # Determine target tag name in js-utils
           TARGET_RELEASE_TAG_NAME="minify.js-$(echo "$release_tag_name" | sed -E 's|.*(node-[0-9.]+)$|\1|')"
-          echo "DEBUG: Original tag: $release_tag_name"
-          echo "DEBUG: Extracted node version: $(echo "$release_tag_name" | sed -E 's|.*(node-[0-9.]+)$|\1|')"
-          echo "DEBUG: Target tag: $TARGET_RELEASE_TAG_NAME"
-          echo "DEBUG: Expected: minify.js-node-2.0.9"
 
           # Check if release exists in js-utils
           release_check_resp=$(curl -s -H "X-GitHub-Api-Version: 2022-11-28" \
