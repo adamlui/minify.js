@@ -19,18 +19,11 @@ jobs:
           RELEASE_TITLE="${{ github.event.release.name }}"
           release_tag_name="${{ github.event.release.tag_name }}"
 
-          echo "=== DEBUG ==="
-          echo "Event actor: ${{ github.actor }}"
-          echo "Event name: ${{ github.event_name }}"
-          echo "Event action: ${{ github.event.action }}"
-          echo "Release tag: $release_tag_name"
-          echo "Release title: $RELEASE_TITLE"
-
           # Get fresh release data from API
           this_release=$(curl -s https://api.github.com/repos/adamlui/minify.js/releases/tags/$release_tag_name)
           RELEASE_NOTES=$(echo "$this_release" | sed -nE 's/.*"body": "(.*)".*/\1/p')
 
-          # Process notes (same logic as before)
+          # Process notes
           RELEASE_NOTES=$(echo "$RELEASE_NOTES" | \
             sed 's|📃|:page_with_curl:|g; s|🚀|:rocket:|g; s|🧠|:brain:|g' | \
             sed -E "s|(minify\.js)(/compare/)([^-]+)-v([0-9.]+)\.\.\.([^-]+)-v|js-utils\2\1-\3-\4\.\.\.\1-\3-|g" | \
@@ -40,8 +33,12 @@ jobs:
           echo "Release Tag: $release_tag_name"
 
           # Determine target tag name in js-utils
-          TARGET_RELEASE_TAG_NAME="minify.js-$(echo "$release_tag_name" | sed 's|^v||')"
-          
+          TARGET_RELEASE_TAG_NAME="minify.js-$(echo "$release_tag_name" | sed -E 's|.*(node-[0-9.]+)$|\1|')"
+          echo "DEBUG: Original tag: $release_tag_name"
+          echo "DEBUG: Extracted node version: $(echo "$release_tag_name" | sed -E 's|.*(node-[0-9.]+)$|\1|')"
+          echo "DEBUG: Target tag: $TARGET_RELEASE_TAG_NAME"
+          echo "DEBUG: Expected: minify.js-node-2.0.9"
+
           # Check if release exists in js-utils
           release_check_resp=$(curl -s -H "X-GitHub-Api-Version: 2022-11-28" \
             https://api.github.com/repos/adamlui/js-utils/releases/tags/$TARGET_RELEASE_TAG_NAME)
