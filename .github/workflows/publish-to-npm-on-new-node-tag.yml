@@ -1,8 +1,7 @@
 name: Publish to npm on new node tag
 
 on:
-  push:
-    tags: ["node*"]
+   workflow_dispatch:
 
 jobs:
   build:
