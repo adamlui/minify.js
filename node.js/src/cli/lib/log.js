@@ -1,23 +1,28 @@
 module.exports = {
 
     colors: {
-        nc: '\x1b[0m',    // no color
-        br: '\x1b[1;91m', // bright red
-        by: '\x1b[1;33m', // bright yellow
-        bg: '\x1b[1;92m', // bright green
-        bw: '\x1b[1;97m', // bright white
-        blk: '\x1b[30m',  // black
-        tlBG: '\x1b[106m' // teal bg
+        nc: '\x1b[0m',        // no color
+        br: '\x1b[1;91m',     // bright red
+        by: '\x1b[1;33m',     // bright yellow
+        bo: '\x1b[38;5;214m', // bright orange
+        bg: '\x1b[1;92m',     // bright green
+        bw: '\x1b[1;97m',     // bright white
+        blk: '\x1b[30m',      // black
+        tlBG: '\x1b[106m'     // teal bg
     },
 
+    config() { this.info(`\n${app.msgs.info_exampleValidConfigFile}: ${app.urls.config}`) },
+    configAndExit(...args) { this.error(...args) ; this.config() ; process.exit(1) },
     data(msg) { console.log(`\n${this.colors.bw}${msg}${this.colors.nc}`) },
     error(...args) { console.error(`\n${this.colors.br}${app.msgs.prefix_error}:`, ...args, this.colors.nc) },
     errorAndExit(...args) { this.error(...args) ; this.helpCmdAndDocURL() ; process.exit(1) },
     ifNotQuiet(msg) { if (!app.config.quietMode) console.info(msg) },
     info(msg) { console.info(`\n${this.colors.by}${msg}${this.colors.nc}`) },
+    tip(msg) { console.info(`${this.colors.by}${app.msgs.prefix_tip}: ${msg}${this.colors.nc}`) },
     success(msg) { console.log(`\n${this.colors.bg}${msg}${this.colors.nc}`) },
+    warn(...args) { console.warn(`\n${this.colors.bo}${app.msgs.prefix_warning}:`, ...args, this.colors.nc) },
 
-    help(includeSections = ['header', 'usage', 'pathArgs', 'flags', 'paramOptions', 'infoCmds']) {
+    help(includeSections = ['header', 'usage', 'pathArgs', 'flags', 'params', 'cmds']) {
         app.prefix = `${this.colors.tlBG}${this.colors.blk} ${app.name.replace(/^@[^/]+\//, '')} ${this.colors.nc} `
         const helpSections = {
             header: [
@@ -32,12 +37,8 @@ module.exports = {
             ],
             pathArgs: [
                 `\n${this.colors.bw}o ${app.msgs.helpSection_pathArgs}:${this.colors.nc}`,
-                ' [inputPath]                         '
-                    + `${app.msgs.inputPathDesc_main}, `
-                    + `${app.msgs.inputPathDesc_extra}.`,
-                ' [outputPath]                        '
-                    + `${app.msgs.outputPathDesc_main}, `
-                    + `${app.msgs.outputPathDesc_extra}.`
+                ` [inputPath]                         ${app.msgs.inputPathDesc_main}, ${app.msgs.inputPathDesc_extra}.`,
+                ` [outputPath]                        ${app.msgs.outputPathDesc_main}, ${app.msgs.outputPathDesc_extra}.`
             ],
             flags: [
                 `\n${this.colors.bw}o ${app.msgs.helpSection_flags}:${this.colors.nc}`,
@@ -52,15 +53,17 @@ module.exports = {
                 ` -r, --relative-output               ${app.msgs.optionDesc_relativeOutput}.`,
                 ` -q, --quiet                         ${app.msgs.optionDesc_quiet}.`
             ],
-            paramOptions: [
-                `\n${this.colors.bw}o ${app.msgs.helpSection_paramOptions}:${this.colors.nc}`,
+            params: [
+                `\n${this.colors.bw}o ${app.msgs.helpSection_params}:${this.colors.nc}`,
                 `--ignores="dir/,file1.js,file2.js"   ${app.msgs.optionDesc_ignores}.`,
                 `--comment="comment"                  ${app.msgs.optionDesc_commentMain}.`
-                                                 +  ` ${app.msgs.optionDesc_commentExtra}.`
+                                                 +  ` ${app.msgs.optionDesc_commentExtra}.`,
+                ` --config="path/to/file"             ${app.msgs.optionDesc_config}.`
             ],
-            infoCmds: [
-                `\n${this.colors.bw}o ${app.msgs.helpSection_infoCmds}:${this.colors.nc}`,
-                ` -h, --help                          ${app.msgs.optionDesc_help}`,
+            cmds: [
+                `\n${this.colors.bw}o ${app.msgs.helpSection_cmds}:${this.colors.nc}`,
+                `     --init                          ${app.msgs.optionDesc_init}.`,
+                ` -h, --help                          ${app.msgs.optionDesc_help}.`,
                 ` -v, --version                       ${app.msgs.optionDesc_version}.`
             ]
         }
@@ -71,8 +74,8 @@ module.exports = {
 
         function printHelpMsg(msg, indent) { // wrap msg + indent 2nd+ lines
             const terminalWidth = process.stdout.columns || 80,
-                  lines = [], words = msg.match(/\S+|\s+/g),
-                  prefix = '| '
+                  words = msg.match(/\S+|\s+/g),
+                  lines = [], prefix = '| '
 
             // Split msg into lines of appropriate lengths
             let currentLine = ''
