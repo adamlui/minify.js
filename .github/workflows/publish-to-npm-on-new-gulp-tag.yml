@@ -16,6 +16,6 @@ jobs:
         with:
           node-version: 24
           registry-url: https://registry.npmjs.org
-      - run: npm install -g npm
       - run: cd gulp && npm ci
+      - run: cd gulp && npm run build
       - run: cd gulp && npm publish --provenance
