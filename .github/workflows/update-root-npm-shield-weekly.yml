@@ -106,7 +106,7 @@ jobs:
       - name: Sync ** to adamlui/js-utils/minify.js/
         if: env.SHIELDS_UPDATED == 'true'
         run: |
-          rsync -avhr --delete --exclude={'.*','eslint*','package*json'} \
+          rsync -avhc --delete --exclude={'.*','eslint*','package*json'} \
             ${{ github.workspace }}/adamlui/minify.js/ \
             ${{ github.workspace }}/adamlui/js-utils/minify.js/
 

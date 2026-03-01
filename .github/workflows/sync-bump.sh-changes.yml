@@ -56,7 +56,7 @@ jobs:
 
       - name: Sync ** to adamlui/js-utils/minify.js/
         run: |
-          rsync -avhr --delete --exclude '.*' \
+          rsync -avhc --delete --exclude '.*' \
             ${{ github.workspace }}/adamlui/minify.js/ \
             ${{ github.workspace }}/adamlui/js-utils/minify.js/
 
