@@ -39,7 +39,7 @@ jobs:
             sed 's|📃|:page_with_curl:|g; s|🚀|:rocket:|g; s|🧠|:brain:|g; s|💻|:computer:|g')
 
           TARGET_RELEASE_TITLE="$RELEASE_TITLE"
-          TARGET_RELEASE_TAG=$(echo "$RELEASE_TAG" | sed -E 's/^minify\.js-(node|gulp)-([0-9.]+)$/\1-v\2/')
+          TARGET_RELEASE_TAG=$(echo "$RELEASE_TAG" | sed -E 's/^(node|gulp)-v([0-9.]+)$/minify.js-\1-\2/')
           echo "Target Title: $TARGET_RELEASE_TITLE"
           echo "Target Tag: $TARGET_RELEASE_TAG"
 
