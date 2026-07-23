@@ -22,4 +22,4 @@ jobs:
           node-version: 'lts/*'
 
       - name: Run tests
-        run: cd node.js && npm ci && npm test
+        run: cd node.js && npm ci --ignore-scripts && npm test
